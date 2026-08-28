@@ -1,0 +1,88 @@
+JUNGLE ACROSS THE WORLD — PROJECT GUARDRAILS
+
+Purpose
+-------
+Understand the jungle ecosystem in every country.
+
+1. COUNTRY ITERATION
+--------------------
+Countries are investigated alphabetically.
+
+For each country, look for:
+- Labels
+- Artists
+
+Do not catalogue releases as standalone entries.
+
+2. COUNTRY ALLOCATION OF ARTISTS
+--------------------------------
+Country assignment is based on the artist's qualifying jungle activity in that country, not on birthplace or nationality alone.
+
+Example: if an artist was born in Azerbaijan but produced jungle in Mauritania, list the artist under Mauritania.
+
+An artist may therefore qualify for multiple countries.
+
+3. GENRE BOUNDARIES
+-------------------
+The boundaries around jungle are intentionally treated as porous.
+
+Related/connected genres may be included, including (but not limited to):
+- Breakbeat
+- Breakcore
+- Drum & Bass (DnB)
+- Hardcore
+- Footwork
+- Crossovers between these and jungle
+
+However, an artist MUST have at least one jungle track in their portfolio to qualify as an artist entry.
+
+4. LABELS
+---------
+Labels are investigated as part of the country's ecosystem. A label may have a broader catalogue than jungle, but its qualifying connection to the country's jungle ecosystem must be established.
+
+The country association of a label should reflect its country of origin/operation, rather than simply the nationality of an owner or artist.
+
+5. ARTISTS AND ALIASES
+----------------------
+Include relevant solo artists, groups/duos, aliases, and collectives where they constitute identifiable participants in the ecosystem.
+
+Avoid accidentally treating multiple aliases belonging to the same artist as separate people when the identity is established.
+
+6. EVIDENCE THRESHOLD
+---------------------
+Do not include an artist or label merely because a database tags it as jungle.
+
+There must be identifiable evidence establishing the qualifying jungle connection.
+
+Releases may be used as evidence for an artist's or label's inclusion, but releases are NOT themselves catalogued as entries.
+
+7. MULTI-COUNTRY ARTISTS
+------------------------
+An artist may appear in multiple country files when they have qualifying activity in multiple national scenes.
+
+Do NOT duplicate the full artist description in every country file.
+
+One country file is the canonical location containing the artist's full listing and description. Other qualifying country files should contain a cross-reference in the form:
+"See [country].txt"
+
+The canonical country should be chosen according to the project's allocation logic. If an artist has equally strong connections to two or more countries and the canonical placement is genuinely ambiguous, do not invent a rule silently; flag the ambiguity for resolution.
+
+8. YEARS OF ACTIVITY
+--------------------
+Record years of relevant activity wherever they can be established.
+
+For artists, record the relevant years of jungle activity, not necessarily their entire career span.
+
+For labels, record their relevant operating/activity period where available.
+
+9. ECOSYSTEM, NOT JUST FAME
+---------------------------
+The objective is to understand the country's jungle ecosystem, not merely to collect famous or internationally prominent names.
+
+Local, obscure, emerging, historical, and cross-border participants are relevant when they meet the qualifying criteria.
+
+10. OUTPUT PRINCIPLE
+--------------------
+The country files should describe the ecosystem through its qualifying labels and artists, while keeping release-level cataloguing out of the project's primary structure.
+
+Consistency, evidence, and accurate country attribution take precedence over completeness based on guesswork.
