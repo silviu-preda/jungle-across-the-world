@@ -88,15 +88,23 @@ The country files should describe the ecosystem through its qualifying labels an
 
 Consistency, evidence, and accurate country attribution take precedence over completeness based on guesswork.
 
-## 11. No progress narration
+## 11. Recent relevant events
+
+Where a recent or forthcoming party, rave, club night, festival or other event takes place in the country and has a demonstrable jungle or connected-genre focus, record it at the bottom of the country file under `## Recent relevant events`.
+
+For each event, give its name, date, location, relevant programming, and a source. These event listings are supplementary context: visiting artists or a one-off event do **NOT** by themselves establish a local artist, label, or enduring national jungle ecosystem.
+
+Do not retrofit historic entries solely to satisfy this section. Add events when meaningful current evidence exists.
+
+## 12. No progress narration
 
 When a research task is assigned, perform the research within the current turn and return the result. Do not report that work is "in progress," "started," "coming soon," or otherwise imply that background work is continuing after the response.
 
-## 12. No status without output
+## 13. No status without output
 
 A response to a research request must contain substantive research output, a concrete blocker, or a request for clarification. "I'm working on it" is never an acceptable response.
 
-## 13. Owner's musical judgement
+## 14. Owner's musical judgement
 
 The project's classification ultimately follows the user's informed musical judgement. External sources establish factual claims such as provenance, identity, location, activity and release history; genre classification may be determined by the user's listening assessment where external genre labels are ambiguous, inconsistent or disputed.
 
