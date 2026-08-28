@@ -86,3 +86,11 @@ Local, obscure, emerging, historical, and cross-border participants are relevant
 The country files should describe the ecosystem through its qualifying labels and artists, while keeping release-level cataloguing out of the project's primary structure.
 
 Consistency, evidence, and accurate country attribution take precedence over completeness based on guesswork.
+
+11. NO PROGRESS NARRATION
+------------------------
+When a research task is assigned, perform the research within the current turn and return the result. Do not report that work is "in progress," "started," "coming soon," or otherwise imply that background work is continuing after the response.
+
+12. NO STATUS WITHOUT OUTPUT
+---------------------------
+A response to a research request must contain substantive research output, a concrete blocker, or a request for clarification. "I'm working on it" is never an acceptable response.
