@@ -33,17 +33,6 @@ Medium Raw Records is the small Yerevan imprint run by Dave N.A. and MEROUJ. Its
 
 It belongs here specifically as part of Dave N.A.'s local infrastructure: Dave’s Medium Raw releases include direct jungle material. The label is not being presented as a large or continually active national jungle catalogue.
 
-## Collectives
-
-### abc
-
-**Documented activity:** 2023–2024  
-**Location:** Yerevan, Armenia
-
-abc is a Yerevan bass-music collective associated with Dave N.A., Esthetic and MEROUJ. Its June 2023 Yerevan party brought Pessimist and freq444 alongside the local crew; the 2024 anniversary was explicitly framed as a celebration of Yerevan’s bass-music community and tagged breakbeat and jungle.
-
-abc matters because it connects locally based producers, international bookings and a shared dancefloor context—evidence of an active scene rather than isolated releases.
-
 ## Recent relevant events
 
 ### Drum & Bass Rave
@@ -68,7 +57,5 @@ The current edition of this independent forest festival programmes jungle, break
 - Dave N.A. — https://davenyxaether.bandcamp.com/
 - Evighet Records — *Sky City* — https://www.otg-records.com/release/1773835215/dave-na-sky-city
 - Resident Advisor — Medium Raw Records — https://ra.co/labels/17608
-- Resident Advisor — abc, Yerevan, 30 Jun 2023 — https://ra.co/events/1721271
-- Resident Advisor — abc anniversary, Yerevan, 28 Jun 2024 — https://ra.co/events/1946474
 - TKT.am — *Drum & Bass Rave*, Yerevan, 18–19 Apr 2026 — https://www.tkt.am/index.php/ru/archive/3584
 - DiliRock Experimental Stage programme — https://exp.dilirock.am/
