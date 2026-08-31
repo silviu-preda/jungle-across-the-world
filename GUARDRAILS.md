@@ -20,6 +20,8 @@ Country assignment is based on the artist's qualifying jungle activity in that c
 
 Example: if an artist was born in Azerbaijan but produced jungle in Mauritania, list the artist under Mauritania.
 
+The country of a label does **NOT** transfer its artists into that label's national scene. If an artist creates and operates within scene X but releases through an umbrella label based in scene Y, the artist remains relevant to scene X. The label remains associated with scene Y, and the cross-border release relationship may be documented as evidence.
+
 An artist may therefore qualify for multiple countries.
 
 ## 3. Genre boundaries
