@@ -111,3 +111,11 @@ A response to a research request must contain substantive research output, a con
 The project's classification ultimately follows the user's informed musical judgement. External sources establish factual claims such as provenance, identity, location, activity and release history; genre classification may be determined by the user's listening assessment where external genre labels are ambiguous, inconsistent or disputed.
 
 External genre labels are evidence, not authority. The user's musical judgement may override an external genre label when determining whether a track qualifies as jungle for this project.
+
+## 15. Label-first research for dense ecosystems
+
+For countries with large, fragmented, historically deep, or otherwise high-load ecosystems, use labels and label-like collectives as the primary discovery path. Identify qualifying local labels, scan their catalogues and rosters, then investigate the artists surfaced by those scans.
+
+The label is the unit of discovery, not the unit of artist qualification. Every artist still requires identifiable evidence of at least one qualifying jungle track, and their country allocation must be assessed independently under the artist-allocation rules above. Appearance on a qualifying label or compilation is neither sufficient genre evidence nor proof that the artist belongs to the label's country.
+
+This strategy supplements rather than replaces backward historical research: include defunct labels, earlier imprints, archival catalogues and predecessor collectives as well as currently active labels.
