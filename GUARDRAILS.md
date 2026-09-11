@@ -119,3 +119,11 @@ For countries with large, fragmented, historically deep, or otherwise high-load 
 The label is the unit of discovery, not the unit of artist qualification. Every artist still requires identifiable evidence of at least one qualifying jungle track, and their country allocation must be assessed independently under the artist-allocation rules above. Appearance on a qualifying label or compilation is neither sufficient genre evidence nor proof that the artist belongs to the label's country.
 
 This strategy supplements rather than replaces backward historical research: include defunct labels, earlier imprints, archival catalogues and predecessor collectives as well as currently active labels.
+
+## 16. Archive-first historical sources
+
+Historical research must not be limited to currently indexed catalogues, streaming services, or active label pages. Search archived scene forums (for example Dogsonacid), old radio tracklists and recordings (including Kool FM, Don FM, and local equivalents), tape-pack listings and scans, flyers and zines, and interview transcripts or oral histories. Use these sources proactively to discover obscure aliases, white labels, defunct labels, local collectives, and cross-border connections.
+
+These archival artifacts are discovery and corroboration evidence, not automatic qualification. Airplay, appearance in a radio tracklist or tape pack, or listing on a flyer can establish circulation or scene participation, but does not by itself prove an artist's country allocation or establish that the artist produced a qualifying jungle track. Verify country association separately, and apply the owner's musical judgement where genre classification requires listening.
+
+Where material is inaccessible, unindexed, incomplete, or illegible, state that limitation rather than claiming an exhaustive search.
