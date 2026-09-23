@@ -122,7 +122,7 @@ Detrimental Audio was established in Melbourne and is now based in London. Both 
 **Associated artists and leads**
 
 - **Tactical Aspect** — confirmed Australian-scene jungle act.
-- **Tokyo Noir** — Melbourne producer, but remains pending as an artist entry until a qualifying jungle track is ear-confirmed. The Inna Riddim release *The Feelin' / Keep the Vibes Alive* has been rejected as non-qualifying; the existence of *Dopamine* on Detrimental does not by itself establish genre qualification.
+- **Tokyo Noir** — Melbourne producer whose *Dopamine* on Detrimental passed the listening test and supplies the qualifying jungle evidence. The Inna Riddim release *The Feelin' / Keep the Vibes Alive* was rejected as non-qualifying.
 - **Pickleman** — musically strong and has a Tim Reaper connection, but personal Australian provenance remains unresolved.
 
 ### Perth and Western Australia
@@ -135,6 +135,38 @@ Detrimental Audio was established in Melbourne and is now based in London. Both 
 Greg Packer is a substantial Perth jungle/drum-and-bass figure. *Terrorschizm (Jungle Mix)* with MC Assassin is the strongest original-production anchor found in this pass. *Gunshot Riddim* leans further toward drum and bass, while later releases are generally less decisive for this project's narrower purpose. His 1990s DJ recordings document early local jungle circulation but are kept distinct from original productions.
 
 Interphase is retained as a brief historical note attached to Packer. Its Perth connection is clear, but the accessible catalogue evidence found so far is too limited for a full label profile.
+
+#### Third Degree
+
+**Relevant activity:** 2020s–present  
+**Role:** Core contemporary Perth/Boorloo label
+
+Third Degree qualifies through *HAZMAT: Hazardous Materials Vol. 002*, which was ear-checked as a substantially jungle release rather than a compilation with one accidental outlier. The first *HAZMAT* volume is less consistent for this project.
+
+**Qualifying artist**
+
+- **Ghost Snares** — an Australian artist with documented Perth-scene activity. *Re-Creation* on *HAZMAT Vol. 002* supplied the local label connection, while the later *True Love* and *For Real / Dream Jungle* releases on Tru Love Records show that the jungle work is sustained beyond one compilation appearance.
+
+**Catalogue evidence and cross-border distinctions**
+
+- **Sterlo** — *Sunblush* passed the listening test, but Sterlo is Sheffield-based. The track supports Third Degree's label qualification without turning Sterlo into an Australian artist.
+- R-15+'s *FEEL U* and Calm Stiege's *Mood Eye* were rejected. RESY is Perth-based but did not provide enough jungle evidence to qualify as an artist entry.
+
+#### Little Rascal Records
+
+**Relevant activity:** Contemporary  
+**Role:** Qualifying broad-spectrum Perth label
+
+Little Rascal is not a jungle-first label, but repeated qualifying material across its catalogue establishes a real, narrowly described jungle connection.
+
+**Qualifying artist**
+
+- **DJ Jools** — *Haunted* on *Rolling Rascals Vol. 1* is definite jungle. *High Rolling EP* works at the jungle/D&B junction, while *Angular* on *Intelligence EP* is junglish within a release whose broader feel is drum and bass.
+
+**Supporting catalogue evidence**
+
+- **Jerry Mane** — *Jahgular Jungle* qualifies as a track, but the wider catalogue does not justify consolidating Jerry Mane as a jungle artist.
+- **Maxx Honey** — *D vs N* is junglish and supports the label case, but does not yet justify a separate artist entry.
 
 #### BUEX
 
@@ -168,6 +200,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **8-Bit Recordings — Perth:** primarily breakcore, glitch, IDM and noise. Holt's *Nocturne* is the likeliest qualifying track found so far, while Deadcode's *The Dirty Truth* contains worthwhile chopped-break material. Retain as a contextual label mention.
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
 - **Anomaly Digital:** a future-jungle/hardcore-breaks label whose catalogue proved less decisive than its descriptions. Kranky & Lethal were too tangential; the Time Travel connection warrants only supporting context.
+- **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz's own country allocation is unresolved. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
@@ -177,7 +210,6 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
-- **Inna Riddim / Sydney:** broad bass label currently under ear-check. Tokyo Noir's *The Feelin' / Keep the Vibes Alive* does **not** qualify. The label remains pending rather than included.
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
 - **B&H catalogue:** *BotB 2* was found jungle-focused; Nickname's *Groove 4* has an old-school jungle sound; *Deep into the Rave* is substantially jungle, including Noneohone's *CARLISLE* and MOOD$' *Forgotten*; SAV/Blank's *Dune Rider* is liquid jungle; Knuckle's *Trick* and Myledo's *Freddy No* also passed listening. Exact label identity and Australian provenance still need resolution.
 - **XTR catalogue:** XTR001 did not qualify. Knuckle's *Manifold* from *Vamos EP* is definite jungle, *Trick* also works, and Oi Ocha's *Jungle Informer EP* is relevant. Possible People's material was judged drum and bass. Label identity and artist provenance still need documentation.
@@ -187,7 +219,7 @@ The following listening and provenance work is preserved without promoting unres
 
 ## Excluded or deprioritized in this pass
 
-Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People and Sekkleman.
+Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 ## Sources
 
@@ -206,6 +238,7 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People and Sekk
 - [DJ Speaks / JMA historical discussion (Dogsonacid)](https://www.dogsonacid.com/threads/jungletrain-net-promomix-march-2012-by-dj-speaks.733372/)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
+- [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
 
 ### Melbourne
 
@@ -233,6 +266,15 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People and Sekk
 
 ### Perth and Western Australia
 
+- [Third Degree Records catalogue](https://thirddegreerecords.bandcamp.com/)
+- [HAZMAT: Hazardous Materials Vol. 002](https://thirddegreerecords.bandcamp.com/album/hazmat-hazardous-materials-vol-002)
+- [HAZMAT: Hazardous Materials Vol. 001](https://thirddegreerecords.bandcamp.com/album/hazmat-compilation-hazardous-materials-vol-001)
+- [Ghost Snares – For Real / Dream Jungle](https://truloverecords.bandcamp.com/album/ghost-snares-for-real-dream-jungle)
+- [Third Degree profile and Perth context](https://themusic.com.au/features/meet-third-degree-the-crew-bringing-new-energy-into-perth-s-late-nights/lr8kiIuKjYw/01-10-21)
+- [Little Rascal Records catalogue](https://littlerascalrecords.bandcamp.com/)
+- [Little Rascal Records profile](https://lrrecords.com.au/little-rascal-records)
+- [DJ Jools – High Rolling EP](https://littlerascalrecords.bandcamp.com/album/high-rolling-ep)
+- [DJ Jools – Intelligence EP](https://littlerascalrecords.bandcamp.com/album/intelligence-ep)
 - [8-Bit Recordings catalogue](https://8-bitrecordings.bandcamp.com/)
 - [8-Bit Recordings profile](https://soundcloud.com/8-bit-recordings)
 - [System Corrupt party archive](https://systemcorrupt.com/parties.html)
@@ -248,3 +290,5 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People and Sekk
 - [Golden Orb Records catalogue](https://goldenorbrecords.bandcamp.com/music)
 - [Golden Orb Records profile](https://soundcloud.com/goldenorbrecords)
 - [Big Dog Records archive description](https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/)
+- [Eko-system – Mondowun, Frequent Flyer EP](https://eko-system.bandcamp.com/album/frequent-flyer-eko002)
+- [Gorilla Tactics – Soul Ryderz featuring MC Bear](https://soundcloud.com/gorilla-tactics/soul-ryderz-ft-mc-bear-jungle)
