@@ -122,7 +122,7 @@ This strategy supplements rather than replaces backward historical research: inc
 
 ## 16. Archive-first historical sources
 
-Historical research must not be limited to currently indexed catalogues, streaming services, or active label pages. Search archived scene forums (for example Dogsonacid), old radio tracklists and recordings (including Kool FM, Don FM, and local equivalents), tape-pack listings and scans, flyers and zines, and interview transcripts or oral histories. Use these sources proactively to discover obscure aliases, white labels, defunct labels, local collectives, and cross-border connections.
+Historical research must not be limited to currently indexed catalogues, streaming services, or active label pages. Search archived scene forums (for example Dogsonacid), old radio tracklists and recordings (including Kool FM, Don FM, and local equivalents), Mixcloud archives and uploads, tape-pack listings and scans, flyers and zines, and interview transcripts or oral histories. Use these sources proactively to discover obscure aliases, white labels, defunct labels, local collectives, and cross-border connections.
 
 These archival artifacts are discovery and corroboration evidence, not automatic qualification. Airplay, appearance in a radio tracklist or tape pack, or listing on a flyer can establish circulation or scene participation, but does not by itself prove an artist's country allocation or establish that the artist produced a qualifying jungle track. Verify country association separately, and apply the owner's musical judgement where genre classification requires listening.
 
