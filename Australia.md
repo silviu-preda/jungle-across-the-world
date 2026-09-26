@@ -51,6 +51,55 @@ Jungle Massive Australia (JMA) is essential historical infrastructure. DJ Popeye
 
 Archived forums, surviving tape uploads and old tracklists are particularly important here because conventional streaming metadata is incomplete.
 
+#### Soul Spill Records
+
+**Relevant activity:** 2017–present  
+**Role:** Qualifying Sydney/Gadigal label and artist home
+
+Soul Spill is a broad electronic label rather than a jungle-only imprint, but Scram gives it a strong, sustained jungle lane.
+
+**Qualifying artist**
+
+- **Scram** — Western Sydney producer whose *SSR005* was ear-checked as a complete qualifying release, with *Ruffage* landing especially cleanly. *Yōkai*, *Underworld* and *Water Polo* add further catalogue evidence. *Rapture* was checked and rejected, so it is not used to inflate the case.
+
+#### Music For Change Recordings
+
+**Relevant activity:** 2021–present  
+**Role:** Qualifying broad Sydney/Eora label
+
+Music For Change is not exclusively a jungle label, but the catalogue contains repeated, independently checked jungle material rather than a single accidental outlier. Thierry D's *Unknown Future*, *Jungle Bells* and *Jungle Dub* form the clearest recurring line. BAUM's *Make Me Feel* and Ten Tun's *Spoons (Floor Twenty Remix)* add label-level evidence.
+
+**Qualifying artist**
+
+- **Thierry D** — Mauritius-born producer with sustained Sydney-scene activity. The qualifying tracks above keep the country claim at scene participation rather than birthplace.
+
+**Cross-border distinction**
+
+- **BAUM** is Berlin-based. *Make Me Feel* qualifies the Australian label catalogue, not BAUM as an Australian artist.
+- Floor Twenty's remix is retained as catalogue evidence while individual provenance remains unresolved.
+
+#### Sydney City Chiptune Ministries
+
+**Relevant activity:** 2020s–present  
+**Role:** Core contemporary Sydney label at the jungle/chipbreak/breakcore junction
+
+*M8 Jungle Volume 1* was ear-checked as genuine jungle with multiple strong cuts, making Sydney City Chiptune Ministries a firm label entry rather than a footnote. The wider catalogue moves through chipbreak, footwork, gabber and breakcore, so the claim remains specifically tied to its recurring jungle strand.
+
+**Qualifying artist**
+
+- **LOW STAKES** — Sydney producer whose *m8tracker junglist* releases provide direct jungle evidence. *NGLJK* and *Incendental* passed listening; *Recovery* was borderline, and *Massive Stakes* leans more toward footwork. The artist qualifies, but the stylistic breadth should remain visible.
+
+**Cross-border distinction**
+
+- Breakbeat Heartbeat's *Flowers* is a strong cut on the label's *chipbreak alliance*, but Breakbeat Heartbeat is Dublin-based. It supports the label case only.
+
+#### HOTEL 84
+
+**Relevant activity:** 2020s–present  
+**Role:** Direct Sydney jungle artist
+
+HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogue supports it. *Jungle Technahh*, *Rave Stab*, *Junglist Selecta* and *Rasta Drive Home* all passed listening; some of the surrounding material pushes toward breakcore without erasing the core jungle line.
+
 ### Melbourne
 
 #### Rising Lantern Records
@@ -123,7 +172,40 @@ Detrimental Audio was established in Melbourne and is now based in London. Both 
 
 - **Tactical Aspect** — confirmed Australian-scene jungle act.
 - **Tokyo Noir** — Melbourne producer whose *Dopamine* on Detrimental passed the listening test and supplies the qualifying jungle evidence. The Inna Riddim release *The Feelin' / Keep the Vibes Alive* was rejected as non-qualifying.
-- **Pickleman** — musically strong and has a Tim Reaper connection, but personal Australian provenance remains unresolved.
+- **Pickleman** — musically strong and linked to Tim Reaper. The alias is Melbourne producer Rory McPike; its provenance is resolved below alongside Rings Around Saturn and Turner Street Sound.
+
+#### Butter Sessions / Turner Street Sound and the Rory McPike aliases
+
+**Relevant activity:** 2010s–present  
+**Role:** Qualifying Melbourne label node and connected artist cluster
+
+Butter Sessions is a broad Naarm/Melbourne electronic label, not a jungle imprint. Its qualification is narrow but concrete: Turner Street Sound's *Bunsens Vol. 1* contains the accepted jungle material *Dunes* and *Stoned Mix*.
+
+**Qualifying artists**
+
+- **Turner Street Sound** — the duo of Rory McPike and Ryan Hunter. The project qualifies through the two tracks above without implying that its full catalogue is jungle.
+- **Rory McPike (Rings Around Saturn / Pickleman)** — one Melbourne artist operating under multiple names, not three separate people. Rings Around Saturn contributes *No Appetite (Jungle Mix)* and the jungle-informed *Plasticity* material; Pickleman supplies the previously established Detrimental/Tim Reaper connection.
+
+#### Unsoundbwoy
+
+**Relevant activity:** 2000s–present  
+**Role:** Core Melbourne artist across jungle, dancehall and breakcore
+
+Unsoundbwoy belongs in the Melbourne core. *Pressure Drop / One Step Beyond* and the earlier jungle material provide the strongest anchors, while the catalogue's dancehall and breakcore pressure explains its harder edges. *Circuit / Never Get Away Remix* was checked and rejected as jungle; *Wheel Them Out* was judged only jungle-flavoured. Those negatives are retained so the entry does not overstate the catalogue.
+
+#### CC:White / The Reverend Glock
+
+**Relevant activity:** 2010s–present  
+**Role:** Broad Melbourne label with a narrow but genuine jungle strand
+
+CC:White is no longer excluded. The Reverend Glock qualifies through *The Departed II “Amen”* and the tracks *The D.T.I.* and *Only Thing We Got* on *Step Fm*. *Step Fm* as a whole is an amalgamation rather than a jungle release, and *Till the Glock Jams* was explicitly rejected as jungle.
+
+#### Night Shop Records
+
+**Relevant activity:** 2020s–present  
+**Role:** Contextual Melbourne label with one verified artist entry
+
+Night Shop is not being promoted as a jungle label. Rita Bass's *Reimagining* title track passed as jungle, while the rest of the release did not establish a broader jungle catalogue. Rita Bass therefore qualifies narrowly; the label remains contextual.
 
 ### Perth and Western Australia
 
@@ -151,6 +233,19 @@ Third Degree qualifies through *HAZMAT: Hazardous Materials Vol. 002*, which was
 
 - **Sterlo** — *Sunblush* passed the listening test, but Sterlo is Sheffield-based. The track supports Third Degree's label qualification without turning Sterlo into an Australian artist.
 - R-15+'s *FEEL U* and Calm Stiege's *Mood Eye* were rejected. RESY is Perth-based but did not provide enough jungle evidence to qualify as an artist entry.
+
+#### Tru Love Records
+
+**Relevant activity:** 2020s–present  
+**Role:** Core contemporary Perth/Boorloo jungle and drum-and-bass label
+
+Tru Love explicitly presents itself around Southern Hemisphere jungle and drum and bass, and its catalogue survives the listening test.
+
+**Qualifying artists**
+
+- **Sammy C** — Perth producer whose *Stick Break / Cape Leveque* was accepted as a definite jungle release.
+- **Ghost Snares** — already established through Third Degree; the Tru Love releases strengthen the case rather than duplicating the artist.
+- **Citizens of Earth** — *Technique of Air* begins in drum-and-bass territory before opening into Amen breaks. It is supporting crossover evidence, not the label's strongest anchor.
 
 #### Little Rascal Records
 
@@ -197,6 +292,8 @@ Enja Bergman's *Atmospheric Jungle* was found to be Amen jungle throughout, and 
 
 These entries matter to the surrounding ecosystem, but they are intentionally not presented as peers of the core labels above.
 
+- **200PLUS — Sydney:** a 200-BPM-plus hard-music label whose centre of gravity is gabber, breakcore and speedcore. *MEDication* and *Microchipped Dub Dog* contain some jungle vocabulary, but the reviewed material remains predominantly faster hardcore; Melt Unit did not qualify. Retain as a contextual footnote, not a jungle-label claim.
+
 - **8-Bit Recordings — Perth:** primarily breakcore, glitch, IDM and noise. Holt's *Nocturne* is the likeliest qualifying track found so far, while Deadcode's *The Dirty Truth* contains worthwhile chopped-break material. Retain as a contextual label mention.
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
 - **Anomaly Digital:** a future-jungle/hardcore-breaks label whose catalogue proved less decisive than its descriptions. Kranky & Lethal were too tangential; the Time Travel connection warrants only supporting context.
@@ -215,11 +312,10 @@ The following listening and provenance work is preserved without promoting unres
 - **XTR catalogue:** XTR001 did not qualify. Knuckle's *Manifold* from *Vamos EP* is definite jungle, *Trick* also works, and Oi Ocha's *Jungle Informer EP* is relevant. Possible People's material was judged drum and bass. Label identity and artist provenance still need documentation.
 - **Rising Lantern artist provenance:** Rich Tones, Stemfilth, Visible Sound and Civilian Flexibility require individual allocation work.
 - **Bitwise artist provenance:** Mutant Limit and Subnet43 are firmly qualified musically but not yet individually allocated.
-- **Pickleman:** qualifies musically; Australian scene provenance remains unresolved.
 
 ## Excluded or deprioritized in this pass
 
-Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
+Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 ## Sources
 
@@ -239,6 +335,17 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekklem
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
+- [Soul Spill Records catalogue](https://soulspill.bandcamp.com/)
+- [Scram – SSR005](https://soulspill.bandcamp.com/album/ssr005-scram)
+- [Music For Change Recordings catalogue](https://musicforchangeaus.bandcamp.com/)
+- [Music For Change – Business Meeting EP](https://musicforchangeaus.bandcamp.com/album/business-meeting-ep)
+- [Music For Change – Music For Ukraine](https://musicforchangeaus.bandcamp.com/album/music-for-ukraine)
+- [Sydney City Chiptune Ministries](https://www.sydneycitychiptuneministries.com/)
+- [M8 Jungle Volume 1](https://sydneycitychiptuneministries.bandcamp.com/album/m8-jungle-volume-1)
+- [LOW STAKES catalogue](https://lowstakesbeats.bandcamp.com/music)
+- [LOW STAKES – m8tracker junglist](https://lowstakesbeats.bandcamp.com/album/m8tracker-junglist)
+- [LOW STAKES – m8tracker junglist II](https://lowstakesbeats.bandcamp.com/album/m8tracker-junglist-ii)
+- [HOTEL 84 catalogue](https://hotel84.bandcamp.com/)
 
 ### Melbourne
 
@@ -263,6 +370,16 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekklem
 - [Pugilist & Tamen – Source discussion (Dogsonacid)](https://www.dogsonacid.com/threads/pugilist-tamen-source-ruff-kutz-002.830132/)
 - [Ruff Kutz catalogue](https://ruffkutzz.bandcamp.com/)
 - [Shadow Club discussion identifying the New Zealand connection](https://www.dogsonacid.com/threads/shadow-club-libra-12-track-atmospheric-jungle-lp.827054/)
+- [Butter Sessions catalogue](https://buttersessions.bandcamp.com/)
+- [Turner Street Sound – Bunsens Vol. 1](https://buttersessions.bandcamp.com/album/bunsens-vol-1)
+- [Rings Around Saturn – Plasticity](https://rings-around-saturn.bandcamp.com/album/rc-08-plasticity)
+- [Rings Around Saturn – RC-Ultra](https://rings-around-saturn.bandcamp.com/album/rc-14-rc-ultra)
+- [Unsoundbwoy catalogue](https://unsoundbwoy.bandcamp.com/)
+- [JungleXpeditions producer index](https://www.raggajungle.biz/producer/)
+- [CC:White catalogue](https://ccwhite.bandcamp.com/)
+- [The Reverend Glock – Step Fm](https://ccwhite.bandcamp.com/album/step-fm)
+- [Night Shop Records catalogue](https://nightshoprecords.bandcamp.com/)
+- [Rita Bass – Reimagining](https://nightshoprecords.bandcamp.com/album/reimagining)
 
 ### Perth and Western Australia
 
@@ -283,6 +400,9 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekklem
 - [Enja Bergman – Atmospheric Jungle](https://enderecords.bandcamp.com/album/ende182-enja-bergman-atmospheric-jungle)
 - [3 Past 3 – From the Depth](https://enderecords.bandcamp.com/album/ende249-3-past-3-from-the-depth)
 - [3 Past 3 – Zero Fucks](https://enderecords.bandcamp.com/album/3-past-3-zero-fucks)
+- [Tru Love Records catalogue](https://truloverecords.bandcamp.com/)
+- [Sammy C – Stick Break / Cape Leveque](https://truloverecords.bandcamp.com/album/sammy-c-stick-break-cape-leveque)
+- [Citizens of Earth – Trigunz / Technique of Air](https://truloverecords.bandcamp.com/album/citizens-of-earth-trigunz-technique-of-air)
 
 ### Context and deferred listening
 
@@ -292,3 +412,4 @@ Royalston, Evil Eye Recordings, CC:White, *Breakology*, Possible People, Sekklem
 - [Big Dog Records archive description](https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/)
 - [Eko-system – Mondowun, Frequent Flyer EP](https://eko-system.bandcamp.com/album/frequent-flyer-eko002)
 - [Gorilla Tactics – Soul Ryderz featuring MC Bear](https://soundcloud.com/gorilla-tactics/soul-ryderz-ft-mc-bear-jungle)
+- [200PLUS catalogue](https://200plus.bandcamp.com/)
