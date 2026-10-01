@@ -112,14 +112,13 @@ Rising Lantern is run by brothers MshCode and Time Travel. It is a primary route
 **Qualifying artists**
 
 - **MshCode** — co-runs the label. *Silver Dub – The Remixes* was a strong listening result and helps establish the dub/jungle junction.
-- **Time Travel** — co-runs the label and participates across the Rising Lantern, Bitwise and Echo Chamber networks.
+- **Time Travel** — co-runs the label and participates across the Rising Lantern, Bitwise and Echo Chamber networks. Rising Lantern links the Civilian Flexibility account as TIME TRAVEL, so Civilian Flexibility is treated as a Time Travel alias/handle, not another artist.
 
-**Strong catalogue leads still needing independent artist allocation**
+**Resolved and unresolved catalogue leads**
 
-- **Rich Tones** — especially strong in the listening review.
-- **Stemfilth** — additional individual trail through *Intensity* and *Three Spots*.
-- **Civilian Flexibility** — appears in the *Dub Plate Specials* series.
-- **Visible Sound** — remains a worthwhile lead, but must not be identified as Alistair Brown without better evidence.
+- **Stemfilth** — Australian-based: Top Drawer Digital's 2011 *Inna Fear* description independently places Stemfilth and MshCode in Australia; *Intensity* and *Three Spots* also passed listening.
+- **Rich Tones** — Cambridge-based; accepted catalogue evidence, not an Australian artist allocation.
+- **Visible Sound (Alistair Brown)** — identity established in 2012 reporting, but Australian-scene provenance remains unverified.
 - **Subnet43, OneSec, SpinFX, C:1 and Strangenotes** — part of the wider roster/discovery trail; roster appearance alone is not enough for Australian allocation.
 
 #### Bitwise
@@ -129,7 +128,7 @@ Rising Lantern is run by brothers MshCode and Time Travel. It is a primary route
 
 Bitwise is one of the strongest discoveries from the Australian research. Confirmed listening highlights include *Silver Dub – The Remixes*, Subnet43's *The Empirical EP*, and especially *The Mutant Limit EP*, whose clean, energetic Amen chopping invited comparison with Tim Reaper.
 
-Time Travel and MshCode connect Bitwise to the wider Melbourne ecosystem. Subnet43 and Mutant Limit are firm musical discoveries, but their individual Australian-scene allocation still needs independent provenance.
+Time Travel and MshCode connect Bitwise to Melbourne. **Mutant_Limit** is independently identified by Bitwise as a Melbourne jungle producer and qualifies for Australia. Subnet43's music passed listening, but independent Australian-scene provenance is still outstanding.
 
 #### Echo Chamber Sound / Run It Red
 
@@ -279,6 +278,40 @@ ENDE is predominantly a breakcore/hardcore/IDM/noise label, but its catalogue co
 
 Enja Bergman's *Atmospheric Jungle* was found to be Amen jungle throughout, and 3 Past 3 supplied another strong jungle/breakcore result. Both artists remain allocated outside Australia where their own provenance requires it: they establish ENDE's qualifying catalogue, not Australian artist status.
 
+### Further qualifying Australian labels
+
+#### B&H Records — Australia (city unresolved)
+
+B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Their individual country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
+
+#### Hypoxia Records — Gold Coast
+
+Established in 2025. Narrow qualification through flatbar's *Gold Coast Shenanigans Volume 1*, accepted by the owner as jungle. The other checked releases were rejected as breakcore/gabber; flatbar's personal country allocation still requires independent corroboration.
+
+#### LAN — Melbourne/Naarm
+
+D. Tyrone's *Radar* on *new base* is the only accepted jungle track from that compilation. LAN describes the participating artists as emerging Naarm artists. FOREIGNER's *Crossing* was rejected for jungle. Do not repeat those listening assignments.
+
+#### HAPPY WAX RECORDS — Melbourne
+
+nickname's *HWR003* passed listening. The other identified roster members—STÜM, Sam Alfred and KSMBA, plus international Ben Prophet—have no established qualifying jungle track in our investigation; retain them as label context.
+
+#### Dogme Tapes — Melbourne/Naarm
+
+Heather Vomiting God (Heather Jardany) qualifies through *TRASH JUNGLE*, produced in Melbourne in 2023 and released in 2024. Dogme's other published release, *WASHING MACHINE MUSIC*, is described by the artist as outsider house/techno. Heather's independent work can be revisited later but is not needed for qualification.
+
+#### Heard and Felt — Melbourne
+
+Predominantly jazz, soul and broken beat. Melbourne-based Jonny Faith qualifies through *Nuthin' But a Jungle Thang*, the vinyl bonus track of *On Lock* (2021). The remaining EP tracks were judged excellent D&B fusion. Ennio Styles is the label curator, not an independently qualified jungle artist.
+
+#### Bangers LLC — Perth
+
+Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's *Foundation* on *Eat The Bangers Vol. 1*. The latter is a joint Eat The Rich/Bangers LLC project, not a Bangers-exclusive release. BUEX's own profile places him in Perth. Shift and Mindset's individual country affiliations remain unresolved.
+
+#### Foreign Frequencies — Brisbane/Meanjin
+
+*FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. sn33ze's *WAITING 4 U* has no recoverable individual listening verdict; do not automatically recommend the compilation again.
+
 ### Direct Australian artist outside a resolved label cluster
 
 #### 12bit Jungle Out There
@@ -298,20 +331,24 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
 - **Anomaly Digital:** a future-jungle/hardcore-breaks label whose catalogue proved less decisive than its descriptions. Kranky & Lethal were too tangential; the Time Travel connection warrants only supporting context.
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
-- **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz's own country allocation is unresolved. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
+- **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
 - **Atom 1 / Soundboy Melbourne:** *Imminent* documents historical Melbourne techstep/drum and bass, not a jungle anchor.
+- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its historical Sydney links versus later production in Chile still need chronologically sound country allocation.
+- **Pure Space:** Dividens' *Blueprints* was rejected (*Bionic* jungle-adjacent); Consulate's *The Pulse of Iron* was judged D&B.
+- **Motorik! Records:** Horowitz's *Jungle Blood* was rejected; no stronger lead established.
+- **Secret World:** DVNS' *Secret Garden* was judged D&B; not a qualifying jungle-label entry.
 
 ## Open research ledger
 
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
-- **B&H catalogue:** *BotB 2* was found jungle-focused; Nickname's *Groove 4* has an old-school jungle sound; *Deep into the Rave* is substantially jungle, including Noneohone's *CARLISLE* and MOOD$' *Forgotten*; SAV/Blank's *Dune Rider* is liquid jungle; Knuckle's *Trick* and Myledo's *Freddy No* also passed listening. Exact label identity and Australian provenance still need resolution.
-- **XTR catalogue:** XTR001 did not qualify. Knuckle's *Manifold* from *Vamos EP* is definite jungle, *Trick* also works, and Oi Ocha's *Jungle Informer EP* is relevant. Possible People's material was judged drum and bass. Label identity and artist provenance still need documentation.
-- **Rising Lantern artist provenance:** Rich Tones, Stemfilth, Visible Sound and Civilian Flexibility require individual allocation work.
-- **Bitwise artist provenance:** Mutant Limit and Subnet43 are firmly qualified musically but not yet individually allocated.
+- **B&H artist provenance:** label resolved as Australian; individual allocation still open for Noneohone, MOOD$, SAV/Blank, Knuckle and Myledo. nickname's Melbourne connection is independently corroborated.
+- **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Artist provenance remains open.
+- **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
+- **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
 ## Excluded or deprioritized in this pass
 
@@ -350,6 +387,9 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 ### Melbourne
 
 - [Bitwise catalogue](https://bitwisemusic.bandcamp.com/)
+- [Silver Dub – The Remixes](https://bitwisemusic.bandcamp.com/album/silver-dub-the-remixes)
+- [Stemfilth vs MshCode – Inna Fear](https://topdrawerdigital.bandcamp.com/album/inna-fear)
+- [Visible Sound identity (2012)](https://futurejungle.blogspot.com/2012/05/)
 - [Rising Lantern profile and catalogue trail](https://soundcloud.com/risinglantern)
 - [Subnet43 – The Empirical EP](https://soundcloud.com/risinglantern/rlr002-a-digital-version)
 - [Echo Chamber Sound catalogue](https://echochambersound.bandcamp.com/music)
@@ -409,6 +449,18 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Anomaly Digital catalogue](https://anomalydigital.bandcamp.com/)
 - [Golden Orb Records catalogue](https://goldenorbrecords.bandcamp.com/music)
 - [Golden Orb Records profile](https://soundcloud.com/goldenorbrecords)
+- [Shebuzzz biography](https://diametralrecords.bandcamp.com/album/shebuzzz-encrypted-music-source)
+- [B&H Records](https://bnhrecords.bandcamp.com/)
+- [Extra Spicy / XTR](https://extraspicy.bandcamp.com/)
+- [Hypoxia Records](https://hypoxiarecords.bandcamp.com/)
+- [LAN – new base](https://lansonor.bandcamp.com/album/new-base)
+- [Happy Wax – HWR003](https://happywaxrecords.bandcamp.com/album/hwr003-nickname)
+- [Dogme – TRASH JUNGLE](https://dogmetapes.bandcamp.com/album/trash-jungle)
+- [Jonny Faith – On Lock](https://jonnyfaith.bandcamp.com/album/on-lock)
+- [BUEX – Eat The Bangers Vol. 1](https://buexeattherich.bandcamp.com/album/eat-the-bangers-vol-1)
+- [Foreign Frequencies – FF001](https://foreignfrequencies.bandcamp.com/album/ff001-troubleshoot-the-moon)
+- [Protocore – The Brutalist](https://protocorerecords.bandcamp.com/album/pc02-dark-matter-project-the-brutalist)
+- [ENDE – Dark Matter Project](https://enderecords.bandcamp.com/album/ende69-dark-matter-project-dark-matter-project)
 - [Big Dog Records archive description](https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/)
 - [Eko-system – Mondowun, Frequent Flyer EP](https://eko-system.bandcamp.com/album/frequent-flyer-eko002)
 - [Gorilla Tactics – Soul Ryderz featuring MC Bear](https://soundcloud.com/gorilla-tactics/soul-ryderz-ft-mc-bear-jungle)
