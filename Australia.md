@@ -341,7 +341,7 @@ Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's 
 
 #### Foreign Frequencies — Brisbane/Meanjin
 
-*FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. The transcript recovers sn33ze's *WAITING 4 U* as borderline/junglish, not a firm jungle cut. *Exclusive DJ Nate Swan Mix* also passed the owner's listening test, but its exact release placement and whether it documents original production were not preserved; retain it as label/selector evidence without allocating Nate Swan as an Australian producer.
+*FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. The transcript recovers sn33ze's *WAITING 4 U* as borderline/junglish, not a firm jungle cut. North Queensland producer and DJ **Nate Swan**, previously connected with Brisbane, released *The Year My Voice Broke* on Foreign Frequencies on 13 May 2022. Track 7, *Exclusive DJ Nate Swan Mix (physical only)*, is a two-minute digital preview of the cassette's exclusive 40-minute B-side DJ mix. The owner accepted the mix as jungle. This establishes a documented Australian jungle selector/scene connection, **not** a qualifying original jungle production by Nate Swan. His credited original work, including *Initiate / No Contact* with Lithe, has no recovered qualifying listening verdict; do not promote him as a qualifying jungle producer without one.
 
 ### Direct Australian artist outside a resolved label cluster
 
@@ -509,6 +509,8 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Jonny Faith – On Lock](https://jonnyfaith.bandcamp.com/album/on-lock)
 - [BUEX – Eat The Bangers Vol. 1](https://buexeattherich.bandcamp.com/album/eat-the-bangers-vol-1)
 - [Foreign Frequencies – FF001](https://foreignfrequencies.bandcamp.com/album/ff001-troubleshoot-the-moon)
+- [Nate Swan – The Year My Voice Broke (Foreign Frequencies; includes DJ-mix preview)](https://foreignfrequencies.bandcamp.com/album/the-year-my-voice-broke)
+- [Nate Swan – triple j Unearthed biography](https://www.abc.net.au/triplejunearthed/artist/nate-swan/)
 - [Protocore – The Brutalist](https://protocorerecords.bandcamp.com/album/pc02-dark-matter-project-the-brutalist)
 - [ENDE – Dark Matter Project](https://enderecords.bandcamp.com/album/ende69-dark-matter-project-dark-matter-project)
 - [Big Dog Records archive description](https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/)
