@@ -1,0 +1,626 @@
+{
+  "schema_version": 1,
+  "country": "Australia",
+  "revision": "2026-10-01-au-01",
+  "source_base_commit": "c06c996b0a83aabe659b3c8b794191b27b42727f",
+  "authoritative_path": "research/Australia.json",
+  "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
+  "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
+  "states": {
+    "qualified": "Accepted jungle evidence or explicitly independently resolved allocation",
+    "contextual": "Investigated, adjacent or insufficient jungle evidence",
+    "excluded": "Rejected by listening for jungle",
+    "listening_required": "No audition recorded",
+    "provenance_required": "Musical case established; independent country evidence missing",
+    "prior_listening_verdict_unrecovered": "Already heard; precise track verdict unknown and not a new assignment"
+  },
+  "labels": [
+    {
+      "name": "Bloody Fist Records",
+      "city": "Newcastle",
+      "status": "qualified",
+      "detail": "Syndicate and Epsilon established; Epsilon location separately assessed.",
+      "url": "https://bloodyfistrecords.bandcamp.com/"
+    },
+    {
+      "name": "Hardline Rekordingz",
+      "city": "Newcastle",
+      "status": "qualified",
+      "detail": "Paulblackout; Arkon.",
+      "url": "https://hardlinerekzdigital.bandcamp.com/"
+    },
+    {
+      "name": "Jungle Massive Australia",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "DJ Popeye, DJ Speaks, Tactical Aspect. Historical DJ mixes are not original productions.",
+      "url": "https://soundcloud.com/djrikochet/sets/popeye-series"
+    },
+    {
+      "name": "Soul Spill Records",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Scram.",
+      "url": "https://soulspill.bandcamp.com/"
+    },
+    {
+      "name": "Music For Change Recordings",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Thierry D. BAUM is Berlin-based.",
+      "url": "https://musicforchangeaus.bandcamp.com/"
+    },
+    {
+      "name": "Sydney City Chiptune Ministries",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "LOW STAKES.",
+      "url": "https://sydneycitychiptuneministries.bandcamp.com/"
+    },
+    {
+      "name": "Rising Lantern Records",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "MshCode, Time Travel, Stemfilth; Rich Tones Cambridge; Visible Sound country open.",
+      "url": "https://soundcloud.com/risinglantern"
+    },
+    {
+      "name": "Bitwise",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Mutant_Limit confirmed Melbourne; Subnet43 provenance open.",
+      "url": "https://bitwisemusic.bandcamp.com/"
+    },
+    {
+      "name": "Echo Chamber Sound / Run It Red",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "LQ, Kloke, Dizz1; Zeldin provenance open.",
+      "url": "https://echochambersound.bandcamp.com/"
+    },
+    {
+      "name": "Detrimental Audio",
+      "city": "Melbourne origin; later London",
+      "status": "qualified",
+      "detail": "Tactical Aspect; Tokyo Noir; Pickleman.",
+      "url": "https://detrimentalaudio.bandcamp.com/"
+    },
+    {
+      "name": "Butter Sessions",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Turner Street Sound; Rory McPike aliases.",
+      "url": "https://buttersessions.bandcamp.com/"
+    },
+    {
+      "name": "CC:White",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "The Reverend Glock.",
+      "url": "https://ccwhite.bandcamp.com/"
+    },
+    {
+      "name": "Night Shop Records",
+      "city": "Melbourne",
+      "status": "contextual",
+      "detail": "Rita Bass qualifies individually; label itself remains contextual.",
+      "url": "https://nightshoprecords.bandcamp.com/"
+    },
+    {
+      "name": "Third Degree",
+      "city": "Perth",
+      "status": "qualified",
+      "detail": "Ghost Snares.",
+      "url": "https://thirddegreerecords.bandcamp.com/"
+    },
+    {
+      "name": "Tru Love Records",
+      "city": "Perth",
+      "status": "qualified",
+      "detail": "Sammy C; Ghost Snares. Citizens of Earth checked as crossover.",
+      "url": "https://truloverecords.bandcamp.com/"
+    },
+    {
+      "name": "Little Rascal Records",
+      "city": "Perth",
+      "status": "qualified",
+      "detail": "DJ Jools.",
+      "url": "https://littlerascalrecords.bandcamp.com/"
+    },
+    {
+      "name": "ENDE Records Australia",
+      "city": "Australia",
+      "status": "qualified",
+      "detail": "Dark Matter Project self-titled accepted; artist production chronology open. Enja Bergman/3 Past 3 cross-border.",
+      "url": "https://enderecords.bandcamp.com/"
+    },
+    {
+      "name": "B&H Records",
+      "city": "Australia (city open)",
+      "status": "qualified",
+      "detail": "Multiple compilations and artists accepted; most artist provenance open.",
+      "url": "https://bnhrecords.bandcamp.com/"
+    },
+    {
+      "name": "Extra Spicy / XTR",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "XTR is catalogue prefix; Knuckle/Oi Ocha accepted; individual provenance open.",
+      "url": "https://extraspicy.bandcamp.com/"
+    },
+    {
+      "name": "Hypoxia Records",
+      "city": "Gold Coast",
+      "status": "qualified",
+      "detail": "Gold Coast Shenanigans Vol. 1 only; remainder breakcore/gabber.",
+      "url": "https://hypoxiarecords.bandcamp.com/"
+    },
+    {
+      "name": "LAN",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "D. Tyrone Radar only; other new base cuts and Crossing rejected.",
+      "url": "https://lansonor.bandcamp.com/"
+    },
+    {
+      "name": "HAPPY WAX RECORDS",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "nickname HWR003 qualifies; other roster contextual.",
+      "url": "https://happywaxrecords.bandcamp.com/"
+    },
+    {
+      "name": "Dogme Tapes",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Heather Vomiting God TRASH JUNGLE qualifies; Washing Machine Music outsider house/techno.",
+      "url": "https://dogmetapes.bandcamp.com/"
+    },
+    {
+      "name": "Heard and Felt",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Jonny Faith Nuthin' But a Jungle Thang; remainder EP D&B fusion.",
+      "url": "https://heardandfelt.bandcamp.com/"
+    },
+    {
+      "name": "Bangers LLC",
+      "city": "Perth",
+      "status": "qualified",
+      "detail": "Shift & Mindset Sirens Lament and joint Eat The Rich release with BUEX Foundation.",
+      "url": "https://bandcamp.com/bangersllc"
+    },
+    {
+      "name": "Foreign Frequencies",
+      "city": "Brisbane",
+      "status": "qualified",
+      "detail": "Litherland Simple Deceptions qualifies label, but artist is Bristol-based; sn33ze exact verdict unrecovered.",
+      "url": "https://foreignfrequencies.bandcamp.com/"
+    },
+    {
+      "name": "Big Dog Records",
+      "city": "Adelaide",
+      "status": "listening_required",
+      "detail": "Historical download-only archive; defer until listenable.",
+      "url": "https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/"
+    },
+    {
+      "name": "Protocore Records",
+      "city": "Perth",
+      "status": "contextual",
+      "detail": "Brutalist inconclusive; Noistruct Transgressor breakcore.",
+      "url": "https://protocorerecords.bandcamp.com/"
+    },
+    {
+      "name": "Pure Space",
+      "city": "Sydney",
+      "status": "excluded",
+      "detail": "Blueprints adjacent and Pulse of Iron D&B.",
+      "url": "https://purespacerecords.bandcamp.com/"
+    },
+    {
+      "name": "Motorik! Records",
+      "city": "Sydney",
+      "status": "excluded",
+      "detail": "Jungle Blood rejected.",
+      "url": "https://motorikrecords.bandcamp.com/"
+    },
+    {
+      "name": "Secret World",
+      "city": "Melbourne",
+      "status": "excluded",
+      "detail": "Secret Garden D&B.",
+      "url": "https://secretworldlabel.bandcamp.com/"
+    },
+    {
+      "name": "200PLUS",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Gabber, breakcore, speedcore rather than jungle.",
+      "url": "https://200plus.bandcamp.com/"
+    },
+    {
+      "name": "8-Bit Recordings",
+      "city": "Perth",
+      "status": "contextual",
+      "detail": "Breakcore/glitch; limited chopped break evidence.",
+      "url": "https://8-bitrecordings.bandcamp.com/"
+    },
+    {
+      "name": "System Corrupt / SY:CO",
+      "city": "Australia",
+      "status": "contextual",
+      "detail": "Hardcore/breakcore scene history.",
+      "url": "https://systemcorrupt.com/"
+    },
+    {
+      "name": "Anomaly Digital",
+      "city": "Australia",
+      "status": "contextual",
+      "detail": "Reviewed catalogue less junglist than tags suggest.",
+      "url": "https://anomalydigital.bandcamp.com/"
+    },
+    {
+      "name": "Inna Riddim",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Aural Blueprint Reminisce crossover; other tracks rejected.",
+      "url": "https://innariddim.bandcamp.com/"
+    },
+    {
+      "name": "Golden Orb Records",
+      "city": "Brisbane",
+      "status": "contextual",
+      "detail": "Shebuzzz track accepted; artist is Moldova/Transnistria based.",
+      "url": "https://goldenorbrecords.bandcamp.com/"
+    },
+    {
+      "name": "Best Effort",
+      "city": "Australia",
+      "status": "contextual",
+      "detail": "Nutcase & Papachubba/Hugh B minor follow-up."
+    }
+  ],
+  "listening": [
+    {
+      "label": "B&H",
+      "release": "Bottom Of The Barrel Vol. 2",
+      "status": "qualified",
+      "verdict": "Jungle-focused; nickname Groove 4 accepted."
+    },
+    {
+      "label": "B&H",
+      "release": "Deep Into The Rave",
+      "status": "qualified",
+      "verdict": "Noneohone CARLISLE and MOOD$ Forgotten accepted."
+    },
+    {
+      "label": "B&H",
+      "release": "Lucid Encounters",
+      "status": "qualified",
+      "verdict": "SAV/Blank Dune Rider accepted."
+    },
+    {
+      "label": "B&H",
+      "release": "Bag of Tricks / prior leads",
+      "status": "qualified",
+      "verdict": "Knuckle Trick, Myledo Freddy No accepted."
+    },
+    {
+      "label": "Extra Spicy",
+      "release": "XTR001",
+      "status": "excluded",
+      "verdict": "Rejected."
+    },
+    {
+      "label": "Extra Spicy",
+      "release": "Knuckle Manifold and Trick",
+      "status": "qualified",
+      "verdict": "Both accepted."
+    },
+    {
+      "label": "Extra Spicy",
+      "release": "Oi Ocha Jungle Informer EP",
+      "status": "qualified",
+      "verdict": "Relevant jungle material."
+    },
+    {
+      "label": "Extra Spicy",
+      "release": "Possible People",
+      "status": "excluded",
+      "verdict": "D&B."
+    },
+    {
+      "label": "Big Dog",
+      "release": "MPK Presents Archive",
+      "status": "listening_required",
+      "verdict": "ZIP cannot conveniently stream; deferred."
+    },
+    {
+      "label": "Hypoxia",
+      "release": "Gold Coast Shenanigans Volume 1",
+      "status": "qualified",
+      "verdict": "Owner: definite jungle."
+    },
+    {
+      "label": "Hypoxia",
+      "release": "Other checked releases",
+      "status": "excluded",
+      "verdict": "Owner: breakcore/gabber."
+    },
+    {
+      "label": "Protocore",
+      "release": "Dark Matter Project The Brutalist",
+      "status": "contextual",
+      "verdict": "So-and-so; not sufficient to qualify label."
+    },
+    {
+      "label": "Protocore",
+      "release": "Noistruct The Transgressor",
+      "status": "excluded",
+      "verdict": "Breakcore."
+    },
+    {
+      "label": "ENDE",
+      "release": "Dark Matter Project self-titled",
+      "status": "qualified",
+      "verdict": "Entire album accepted; Infinite Void singled out."
+    },
+    {
+      "label": "LAN",
+      "release": "new base: D. Tyrone Radar",
+      "status": "qualified",
+      "verdict": "Only accepted track on compilation."
+    },
+    {
+      "label": "LAN",
+      "release": "new base: remaining tracks",
+      "status": "excluded",
+      "verdict": "Not jungle."
+    },
+    {
+      "label": "LAN",
+      "release": "FOREIGNER Crossing",
+      "status": "excluded",
+      "verdict": "Not jungle."
+    },
+    {
+      "label": "Happy Wax",
+      "release": "nickname HWR003",
+      "status": "qualified",
+      "verdict": "EP accepted."
+    },
+    {
+      "label": "Dogme",
+      "release": "Heather Vomiting God TRASH JUNGLE",
+      "status": "qualified",
+      "verdict": "Release accepted."
+    },
+    {
+      "label": "Dogme",
+      "release": "WASHING MACHINE MUSIC",
+      "status": "contextual",
+      "verdict": "Artist describes outsider house/techno, not ear-tested for jungle."
+    },
+    {
+      "label": "Heard and Felt",
+      "release": "Jonny Faith Nuthin' But a Jungle Thang",
+      "status": "qualified",
+      "verdict": "Vinyl bonus; definite jungle."
+    },
+    {
+      "label": "Heard and Felt",
+      "release": "On Lock remainder",
+      "status": "contextual",
+      "verdict": "Excellent D&B fusion."
+    },
+    {
+      "label": "Bangers LLC",
+      "release": "Bangers 001: Shift & Mindset Sirens Lament",
+      "status": "qualified",
+      "verdict": "Definite jungle; already listened."
+    },
+    {
+      "label": "Bangers LLC / Eat The Rich",
+      "release": "Eat The Bangers Vol. 1: BUEX Foundation",
+      "status": "qualified",
+      "verdict": "Definite jungle; already listened."
+    },
+    {
+      "label": "Tru Love",
+      "release": "Citizens of Earth Technique of Air",
+      "status": "contextual",
+      "verdict": "D&B turning into Amen breaks; already heard."
+    },
+    {
+      "label": "Foreign Frequencies",
+      "release": "FF001: Litherland Simple Deceptions",
+      "status": "qualified",
+      "verdict": "Definite jungle; British artist."
+    },
+    {
+      "label": "Foreign Frequencies",
+      "release": "FF001: sn33ze WAITING 4 U",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Album heard; track judgment unknown. Do not reassign."
+    },
+    {
+      "label": "Pure Space",
+      "release": "Dividens Blueprints / Bionic",
+      "status": "excluded",
+      "verdict": "Bionic jungle-adjacent only."
+    },
+    {
+      "label": "Pure Space",
+      "release": "Consulate The Pulse of Iron",
+      "status": "excluded",
+      "verdict": "D&B."
+    },
+    {
+      "label": "Motorik",
+      "release": "Horowitz Jungle Blood",
+      "status": "excluded",
+      "verdict": "Rejected."
+    },
+    {
+      "label": "Secret World",
+      "release": "DVNS Secret Garden",
+      "status": "excluded",
+      "verdict": "D&B."
+    }
+  ],
+  "artist_provenance": [
+    {
+      "name": "nickname",
+      "location": "Melbourne/Naarm",
+      "status": "qualified",
+      "notes": "HWR003 and local LAN context; B&H also carries accepted material."
+    },
+    {
+      "name": "Stemfilth",
+      "location": "Australia; city unverified",
+      "status": "qualified",
+      "notes": "2011 Top Drawer Digital source describes artist Australian-based."
+    },
+    {
+      "name": "Mutant_Limit",
+      "location": "Melbourne",
+      "status": "qualified",
+      "notes": "Bitwise Silver Dub remix credits identify Melbourne producer."
+    },
+    {
+      "name": "Civilian Flexibility / Time Travel",
+      "location": "Melbourne",
+      "status": "qualified",
+      "notes": "Linked alias/handle; not separate person."
+    },
+    {
+      "name": "Rich Tones",
+      "location": "Cambridge, UK",
+      "status": "qualified",
+      "notes": "Cross-border Rising Lantern artist; not Australia allocation."
+    },
+    {
+      "name": "Visible Sound / Alistair Brown",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Identity established, Australian-scene activity unknown."
+    },
+    {
+      "name": "Subnet43",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Music accepted; country unknown."
+    },
+    {
+      "name": "Shebuzzz / Jurij Sophijsky",
+      "location": "Bender, Transnistria/Moldova",
+      "status": "qualified",
+      "notes": "Cross-border Golden Orb contributor."
+    },
+    {
+      "name": "Heather Vomiting God / Heather Jardany",
+      "location": "Melbourne",
+      "status": "qualified",
+      "notes": "TRASH JUNGLE Melbourne production in 2023."
+    },
+    {
+      "name": "Jonny Faith",
+      "location": "Melbourne",
+      "status": "qualified",
+      "notes": "On Lock released 2021; formerly Edinburgh."
+    },
+    {
+      "name": "D. Tyrone",
+      "location": "Melbourne/Naarm",
+      "status": "qualified",
+      "notes": "Identified by LAN as emerging Naarm artist."
+    },
+    {
+      "name": "BUEX",
+      "location": "Perth",
+      "status": "qualified",
+      "notes": "Own Bandcamp locates artist in Perth."
+    },
+    {
+      "name": "Litherland",
+      "location": "Bristol, UK",
+      "status": "qualified",
+      "notes": "Cross-border Foreign Frequencies contributor."
+    },
+    {
+      "name": "sn33ze",
+      "location": "Perth",
+      "status": "prior_listening_verdict_unrecovered",
+      "notes": "Artist city known; jungle verdict unrecovered."
+    },
+    {
+      "name": "Shift",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Mindset",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Noneohone",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "MOOD$",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "SAV/Blank",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Knuckle",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Myledo",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Oi Ocha",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "flatbar",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Accepted material or qualified-label association; independent location unverified."
+    },
+    {
+      "name": "Dark Matter Project / Luciano Zepeda",
+      "location": "Sydney historically; Chile later",
+      "status": "provenance_required",
+      "notes": "Self-titled ENDE album accepted; qualify chronology before allocating."
+    }
+  ],
+  "open_tasks": [
+    "Determine independent locations for B&H and Extra Spicy contributors.",
+    "Resolve Subnet43 and Visible Sound scene provenance.",
+    "Resolve Shift and Mindset individually.",
+    "Establish Dark Matter Project chronology for Australia vs Chile.",
+    "Defer Big Dog archive listening until convenient access.",
+    "Do not recommend FF001 again just to recover sn33ze verdict."
+  ]
+}
