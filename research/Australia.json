@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-01-au-01",
-  "source_base_commit": "c06c996b0a83aabe659b3c8b794191b27b42727f",
+  "revision": "2026-10-01-au-02",
+  "source_base_commit": "18420f59f24466f74fb29b0abd493d3550b17be2",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -279,6 +279,27 @@
       "city": "Australia",
       "status": "contextual",
       "detail": "Nutcase & Papachubba/Hugh B minor follow-up."
+    },
+    {
+      "name": "ZZAAPP Records",
+      "city": "Darwin, Northern Territory",
+      "status": "qualified",
+      "detail": "Laptop Destroyer Tell Dem on ZZAAPP SEVENS 01 definite hard jungle; ZZAAPP Beats Vol. 2 rejected.",
+      "url": "https://zzaapp.bandcamp.com/"
+    },
+    {
+      "name": "Big Ting Recordings",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Myledo Say Something (Myledo ReFlip) accepted; N-Va BTRMIX 008 documents jungle DJ activity in second half, not original production.",
+      "url": "https://bigtingrecordings.bandcamp.com/"
+    },
+    {
+      "name": "Flatlife Records Australia",
+      "city": "Melbourne/Ferntree Gully association; Australian output unverified",
+      "status": "contextual",
+      "detail": "Australian operation previously investigated; no concrete local jungle release established. Do not transfer Dutch catalogue to Australia.",
+      "url": "https://flatliferecordsaustralia.bandcamp.com/music"
     }
   ],
   "listening": [
@@ -467,6 +488,41 @@
       "release": "DVNS Secret Garden",
       "status": "excluded",
       "verdict": "D&B."
+    },
+    {
+      "label": "ZZAAPP Records",
+      "release": "ZZAAPP SEVENS 01: Laptop Destroyer Tell Dem",
+      "status": "qualified",
+      "verdict": "Owner: definite hard jungle; album/release accepted.",
+      "url": "https://zzaapp.bandcamp.com/album/tell-dem-zzaapp-sevens-01"
+    },
+    {
+      "label": "ZZAAPP Records",
+      "release": "Laptop Destroyer ZZAAPP Beats Vol. 2",
+      "status": "excluded",
+      "verdict": "Owner: does not qualify as jungle.",
+      "url": "https://zzaapp.bandcamp.com/album/zzaapp-beats-vol-2"
+    },
+    {
+      "label": "Big Ting Recordings",
+      "release": "BTR004: Myledo Say Something (Myledo ReFlip)",
+      "status": "qualified",
+      "verdict": "Owner: qualifies as jungle; already heard.",
+      "url": "https://bigtingrecordings.bandcamp.com/album/btr004-say-something-hold-on-w8"
+    },
+    {
+      "label": "Big Ting Recordings",
+      "release": "N-Va BTRMIX 008 (DJ mix)",
+      "status": "contextual",
+      "verdict": "Owner: not entirely jungle; builds into jungle in the second half. Selector evidence, not original production.",
+      "url": "https://m.soundcloud.com/big-ting-recordings/btrmix-008-n-va"
+    },
+    {
+      "label": "Butter Sessions / RBI",
+      "release": "RBI Disseminate",
+      "status": "excluded",
+      "verdict": "Owner: previously listened; does not qualify as jungle. Do not reassign.",
+      "url": "https://djrbi.bandcamp.com/album/disseminate"
     }
   ],
   "artist_provenance": [
@@ -592,9 +648,9 @@
     },
     {
       "name": "Myledo",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Accepted material or qualified-label association; independent location unverified."
+      "location": "Sydney/Eora",
+      "status": "qualified",
+      "notes": "Independent Sydney provenance from artist SoundCloud and Music For Change. Owner accepted Freddy No (B&H) and Say Something (Myledo ReFlip) (Big Ting)."
     },
     {
       "name": "Oi Ocha",
@@ -613,14 +669,27 @@
       "location": "Sydney historically; Chile later",
       "status": "provenance_required",
       "notes": "Self-titled ENDE album accepted; qualify chronology before allocating."
+    },
+    {
+      "name": "Laptop Destroyer / Kris Keogh",
+      "location": "Darwin, Northern Territory",
+      "status": "qualified",
+      "notes": "Tell Dem on ZZAAPP SEVENS 01 accepted as hard jungle; Beats Vol. 2 rejected."
+    },
+    {
+      "name": "N-Va",
+      "location": "Sydney",
+      "status": "contextual",
+      "notes": "Big Ting co-founder, jungle selector; BTRMIX 008 progresses to jungle in second half. No qualifying original jungle production yet."
     }
   ],
   "open_tasks": [
-    "Determine independent locations for B&H and Extra Spicy contributors.",
+    "Determine independent locations for remaining B&H and Extra Spicy contributors (Myledo and nickname resolved).",
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
     "Establish Dark Matter Project chronology for Australia vs Chile.",
     "Defer Big Dog archive listening until convenient access.",
-    "Do not recommend FF001 again just to recover sn33ze verdict."
+    "Do not recommend FF001 again just to recover sn33ze verdict.",
+    "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion."
   ]
 }
