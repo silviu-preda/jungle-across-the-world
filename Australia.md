@@ -100,6 +100,15 @@ Music For Change is not exclusively a jungle label, but the catalogue contains r
 
 HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogue supports it. *Jungle Technahh*, *Rave Stab*, *Junglist Selecta* and *Rasta Drive Home* all passed listening; some of the surrounding material pushes toward breakcore without erasing the core jungle line.
 
+#### Big Ting Recordings
+
+**Location:** Sydney  
+**Role:** Narrowly qualifying Australian bass-music label
+
+Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR004*, accepted by the owner as jungle. Myledo is independently documented as a Sydney producer; *Freddy No* on B&H supplies a second accepted jungle track. The label's other contributors should not be allocated to Australia or classified as jungle solely through association.
+
+**N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. No additional Big Ting artist qualified as a jungle producer in this pass.
+
 ### Melbourne
 
 #### Rising Lantern Records
@@ -278,6 +287,14 @@ ENDE is predominantly a breakcore/hardcore/IDM/noise label, but its catalogue co
 
 Enja Bergman's *Atmospheric Jungle* was found to be Amen jungle throughout, and 3 Past 3 supplied another strong jungle/breakcore result. Both artists remain allocated outside Australia where their own provenance requires it: they establish ENDE's qualifying catalogue, not Australian artist status.
 
+### Northern Territory
+
+#### ZZAAPP Records — Darwin
+
+**Role:** Narrowly qualifying independent electronic label
+
+ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, accepted by the owner as definite hard jungle. **Laptop Destroyer** is the alias of Kris Keogh, documented as an Australian producer associated with Darwin. Keogh's *ZZAAPP Beats Vol. 2* was subsequently heard and rejected as jungle. The remaining roster does not currently have an established qualifying jungle production.
+
 ### Further qualifying Australian labels
 
 #### B&H Records — Australia (city unresolved)
@@ -333,6 +350,8 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
+- **Flatlife Records Australia — Melbourne/Ferntree Gully association:** Australian operation of a Dutch-origin label/distributor, with no verified local jungle release from this pass. Keep as an unqualified discovery lead; do not assume the Dutch parent's catalogue establishes an Australian jungle label.
+- **RBI – *Disseminate*:** previously heard and explicitly rejected by the owner as jungle. Butter Sessions remains qualified through Turner Street Sound; do not recommend *Disseminate* again.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
 - **Atom 1 / Soundboy Melbourne:** *Imminent* documents historical Melbourne techstep/drum and bass, not a jungle anchor.
 - **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its historical Sydney links versus later production in Chile still need chronologically sound country allocation.
@@ -345,7 +364,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
-- **B&H artist provenance:** label resolved as Australian; individual allocation still open for Noneohone, MOOD$, SAV/Blank, Knuckle and Myledo. nickname's Melbourne connection is independently corroborated.
+- **B&H artist provenance:** label resolved as Australian; individual allocation still open for Noneohone, MOOD$, SAV/Blank and Knuckle. nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
 - **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Artist provenance remains open.
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
@@ -383,9 +402,16 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [LOW STAKES – m8tracker junglist](https://lowstakesbeats.bandcamp.com/album/m8tracker-junglist)
 - [LOW STAKES – m8tracker junglist II](https://lowstakesbeats.bandcamp.com/album/m8tracker-junglist-ii)
 - [HOTEL 84 catalogue](https://hotel84.bandcamp.com/)
+- [Big Ting Recordings catalogue](https://bigtingrecordings.bandcamp.com/)
+- [Big Ting – Say Something / Hold On W8 (Myledo ReFlip)](https://bigtingrecordings.bandcamp.com/album/btr004-say-something-hold-on-w8)
+- [Big Ting – N-Va BTRMIX 008](https://m.soundcloud.com/big-ting-recordings/btrmix-008-n-va)
+- [Myledo SoundCloud profile](https://soundcloud.com/myledo)
+- [Myledo – Eat/Feel EP](https://musicforchangeaus.bandcamp.com/album/eat-feel-ep)
 
 ### Melbourne
 
+- [Flatlife Records Australia catalogue](https://flatliferecordsaustralia.bandcamp.com/music)
+- [RBI – Disseminate](https://djrbi.bandcamp.com/album/disseminate)
 - [Bitwise catalogue](https://bitwisemusic.bandcamp.com/)
 - [Silver Dub – The Remixes](https://bitwisemusic.bandcamp.com/album/silver-dub-the-remixes)
 - [Stemfilth vs MshCode – Inna Fear](https://topdrawerdigital.bandcamp.com/album/inna-fear)
@@ -443,6 +469,11 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Tru Love Records catalogue](https://truloverecords.bandcamp.com/)
 - [Sammy C – Stick Break / Cape Leveque](https://truloverecords.bandcamp.com/album/sammy-c-stick-break-cape-leveque)
 - [Citizens of Earth – Trigunz / Technique of Air](https://truloverecords.bandcamp.com/album/citizens-of-earth-trigunz-technique-of-air)
+
+### Northern Territory
+
+- [ZZAAPP – SEVENS 01](https://zzaapp.bandcamp.com/album/tell-dem-zzaapp-sevens-01)
+- [Laptop Destroyer – ZZAAPP Beats Vol. 2](https://zzaapp.bandcamp.com/album/zzaapp-beats-vol-2)
 
 ### Context and deferred listening
 
