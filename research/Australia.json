@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-01-au-03",
-  "source_base_commit": "70a4fbb2f1a4eafa9608f881b7880193764c4457",
+  "revision": "2026-10-01-au-04",
+  "source_base_commit": "f0ffb42f76aeb5d5985724636e663db6635e8d46",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -194,7 +194,7 @@
       "name": "Foreign Frequencies",
       "city": "Brisbane",
       "status": "qualified",
-      "detail": "Litherland Simple Deceptions qualifies cross-border; sn33ze WAITING 4 U is borderline, not unrecovered. Exclusive DJ Nate Swan Mix passed listening, with exact release placement/production status unresolved.",
+      "detail": "Litherland Simple Deceptions qualifies cross-border; sn33ze WAITING 4 U borderline. Nate Swan is North Queensland-based and his Exclusive DJ Nate Swan Mix appears on his May 2022 Foreign Frequencies The Year My Voice Broke; mix passes listening but is selector evidence only.",
       "url": "https://foreignfrequencies.bandcamp.com/"
     },
     {
@@ -664,7 +664,8 @@
       "label": "Foreign Frequencies",
       "release": "Exclusive DJ Nate Swan Mix",
       "status": "qualified",
-      "verdict": "Owner: fits the bill. Exact release placement and whether it documents original production remain unresolved."
+      "verdict": "Owner: qualifies as jungle. Track 7 of Nate Swan's 13 May 2022 EP The Year My Voice Broke: two-minute digital preview of a 40-minute physical-only cassette B-side DJ mix. Selector activity, not proven original jungle production.",
+      "url": "https://foreignfrequencies.bandcamp.com/album/the-year-my-voice-broke"
     },
     {
       "label": "All Combo",
@@ -989,9 +990,9 @@
     },
     {
       "name": "Nate Swan",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Exclusive DJ Nate Swan Mix passed listening, but exact release placement, production status and country provenance remain unresolved."
+      "location": "North Queensland / Gurrumbilbarra (Townsville); earlier Brisbane links",
+      "status": "selector_activity_confirmed_producer_jungle_unverified",
+      "notes": "Nate Swan's 2022 Foreign Frequencies EP The Year My Voice Broke is credited as a Gurrumbilbarra local production; track 7 is a two-minute digital preview of a physical-only 40-minute cassette B-side DJ mix. Owner accepted the mix as jungle. This supports Australian DJ/selector participation, not original jungle production. Original release Initiate / No Contact with Lithe has no recovered jungle listening verdict."
     },
     {
       "name": "All Combo",
@@ -1008,6 +1009,6 @@
     "Defer Big Dog archive listening until convenient access.",
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
-    "Nate Swan: pin down the exact release placement, original-production status and provenance of Exclusive DJ Nate Swan Mix without discarding the recovered listening verdict."
+    "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix."
   ]
 }
