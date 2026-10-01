@@ -127,3 +127,11 @@ Historical research must not be limited to currently indexed catalogues, streami
 These archival artifacts are discovery and corroboration evidence, not automatic qualification. Airplay, appearance in a radio tracklist or tape pack, or listing on a flyer can establish circulation or scene participation, but does not by itself prove an artist's country allocation or establish that the artist produced a qualifying jungle track. Verify country association separately, and apply the owner's musical judgement where genre classification requires listening.
 
 Where material is inaccessible, unindexed, incomplete, or illegible, state that limitation rather than claiming an exhaustive search.
+ 
+## 17. Research ledger and session bootstrap
+
+For high-load countries maintain `research/<Country>.json` in GitHub alongside the curated country Markdown. Track every investigated label, artist and listening assignment, including accepted, rejected, contextual, deferred, and verdict-unrecovered material. A matching file attached to the ChatGPT Project is a convenience copy only, not automatically synchronized. Compare `revision` and refresh the Project copy after GitHub updates.
+
+Before each new research recommendation, load the guardrails, country Markdown and JSON ledger; check aliases, rejected releases, previously completed listening and open tasks. Do not repeat completed listening solely because an individual track verdict is missing. Record user listening decisions promptly and independently investigate artist provenance; a label's location does not transfer to its artists. Provide verified direct release links. Explore the associated artists before closing a qualifying label.
+
+Use plain Markdown in research conversations: no decorative images, layout tags or unrendered citation syntax. Verify the structure of rewritten files against clean `main` before updating a PR.
