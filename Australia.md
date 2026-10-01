@@ -51,32 +51,46 @@ Jungle Massive Australia (JMA) is essential historical infrastructure. DJ Popeye
 
 Archived forums, surviving tape uploads and old tracklists are particularly important here because conventional streaming metadata is incomplete.
 
+#### OTIS Records / Outer Time Inner Space
+
+**Relevant activity:** 2015–present  
+**Role:** Qualifying Sydney label
+
+OTIS qualifies through *Sweet Echoes vol. 2* (2020), which the owner accepted as a good jungle release. The compilation presents five locally produced 160+ BPM tracks, but the release-level verdict must not be expanded into five individual track or artist verdicts.
+
+**Qualifying artists**
+
+- **Splitch** — identified as Sydney-based in the release credits; *KD4* was subsequently and explicitly accepted as jungle.
+- **Hugh B** — Sydney-based; *Low Pressure System* on *Floating on a Trippy Biscuit* passed listening, while the rest of that release did not.
+
+Rings Around Saturn, Freda and Roy Batty Jr remain contributors to an accepted release, not newly inferred qualifying artists from unrecovered track-level verdicts.
+
 #### Soul Spill Records
 
 **Relevant activity:** 2017–present  
 **Role:** Qualifying Sydney/Gadigal label and artist home
 
-Soul Spill is a broad electronic label rather than a jungle-only imprint, but Scram gives it a strong, sustained jungle lane.
+Soul Spill is a broad electronic label rather than a jungle-only imprint, but Scram gives it a strong, sustained jungle lane. BAKGROUND's *Escape From Reality* also passed listening; BAKGROUND is from southern Indiana, so this is cross-border label evidence rather than an Australian artist allocation.
 
 **Qualifying artist**
 
-- **Scram** — Western Sydney producer whose *SSR005* was ear-checked as a complete qualifying release, with *Ruffage* landing especially cleanly. *Yōkai*, *Underworld* and *Water Polo* add further catalogue evidence. *Rapture* was checked and rejected, so it is not used to inflate the case.
+- **Scram** — Western Sydney producer whose *SSR005* was ear-checked as a complete qualifying release, with *Ruffage* landing especially cleanly. *Yōkai*, *Underworld* and *Water Polo* add further catalogue evidence. *RAPTURE* and *BREAKER5* were checked and rejected; *BREAKER5* was judged IDM.
 
 #### Music For Change Recordings
 
 **Relevant activity:** 2021–present  
 **Role:** Qualifying broad Sydney/Eora label
 
-Music For Change is not exclusively a jungle label, but the catalogue contains repeated, independently checked jungle material rather than a single accidental outlier. Thierry D's *Unknown Future*, *Jungle Bells* and *Jungle Dub* form the clearest recurring line. BAUM's *Make Me Feel* and Ten Tun's *Spoons (Floor Twenty Remix)* add label-level evidence.
+Music For Change is not exclusively a jungle label, but the catalogue contains repeated, independently checked jungle material rather than a single accidental outlier. Thierry D's *Unknown Future*, *Jungle Bells*, *Jungle Dub* and *Dark Sunday* form the clearest recurring line. BAUM's *Make Me Feel* and Ten Tun's *Spoons (Floor Twenty Remix)* add further evidence.
 
 **Qualifying artist**
 
-- **Thierry D** — Mauritius-born producer with sustained Sydney-scene activity. The qualifying tracks above keep the country claim at scene participation rather than birthplace.
+- **Thierry D** — Mauritius-born producer with sustained Sydney-scene activity. His artist-run **The Elements of Tech & Bass** label/series also qualifies through the recovered *Jungle Bells*, *Jungle Dub* and *Dark Sunday* verdicts.
+- **Floor Twenty** — recovered research identified an Eora/Sydney producer; *Spoons (Floor Twenty Remix)* passed listening.
 
 **Cross-border distinction**
 
 - **BAUM** is Berlin-based. *Make Me Feel* qualifies the Australian label catalogue, not BAUM as an Australian artist.
-- Floor Twenty's remix is retained as catalogue evidence while individual provenance remains unresolved.
 
 #### Sydney City Chiptune Ministries
 
@@ -107,7 +121,7 @@ HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogu
 
 Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR004*, accepted by the owner as jungle. Myledo is independently documented as a Sydney producer; *Freddy No* on B&H supplies a second accepted jungle track. The label's other contributors should not be allocated to Australia or classified as jungle solely through association.
 
-**N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. No additional Big Ting artist qualified as a jungle producer in this pass.
+**N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. Splitch's *Apex* did not qualify in the Big Ting pass; Splitch later qualifies independently through *KD4* on OTIS.
 
 ### Melbourne
 
@@ -327,7 +341,7 @@ Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's 
 
 #### Foreign Frequencies — Brisbane/Meanjin
 
-*FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. sn33ze's *WAITING 4 U* has no recoverable individual listening verdict; do not automatically recommend the compilation again.
+*FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. The transcript recovers sn33ze's *WAITING 4 U* as borderline/junglish, not a firm jungle cut. *Exclusive DJ Nate Swan Mix* also passed the owner's listening test, but its exact release placement and whether it documents original production were not preserved; retain it as label/selector evidence without allocating Nate Swan as an Australian producer.
 
 ### Direct Australian artist outside a resolved label cluster
 
@@ -357,7 +371,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its historical Sydney links versus later production in Chile still need chronologically sound country allocation.
 - **Pure Space:** Dividens' *Blueprints* was rejected (*Bionic* jungle-adjacent); Consulate's *The Pulse of Iron* was judged D&B.
 - **Motorik! Records:** Horowitz's *Jungle Blood* was rejected; no stronger lead established.
-- **Secret World:** DVNS' *Secret Garden* was judged D&B; not a qualifying jungle-label entry.
+- **Secret World:** DVNS' *Secret Garden* and AD ZEE's *New Aquatic* were both judged D&B; not a qualifying jungle-label entry.
 
 ## Open research ledger
 
@@ -371,7 +385,7 @@ The following listening and provenance work is preserved without promoting unres
 
 ## Excluded or deprioritized in this pass
 
-Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
+Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 ## Sources
 
@@ -391,11 +405,16 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
+- [OTIS Records catalogue](https://otisrecords.bandcamp.com/music)
+- [OTIS – Sweet Echoes vol. 2](https://otisrecords.bandcamp.com/album/sweet-echoes-vol-2-otis007)
+- [Hugh B – Floating on a Trippy Biscuit](https://hughb.bandcamp.com/album/floating-on-a-trippy-biscuit-otis003)
 - [Soul Spill Records catalogue](https://soulspill.bandcamp.com/)
 - [Scram – SSR005](https://soulspill.bandcamp.com/album/ssr005-scram)
+- [Soul Spill – SSR001: Exploration Spilling](https://soulspill.bandcamp.com/album/ssr001-exploration-spilling-va)
 - [Music For Change Recordings catalogue](https://musicforchangeaus.bandcamp.com/)
 - [Music For Change – Business Meeting EP](https://musicforchangeaus.bandcamp.com/album/business-meeting-ep)
 - [Music For Change – Music For Ukraine](https://musicforchangeaus.bandcamp.com/album/music-for-ukraine)
+- [The Elements of Tech & Bass catalogue](https://theelementsoftechandbassrecordings.bandcamp.com/music)
 - [Sydney City Chiptune Ministries](https://www.sydneycitychiptuneministries.com/)
 - [M8 Jungle Volume 1](https://sydneycitychiptuneministries.bandcamp.com/album/m8-jungle-volume-1)
 - [LOW STAKES catalogue](https://lowstakesbeats.bandcamp.com/music)
@@ -494,5 +513,8 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [ENDE – Dark Matter Project](https://enderecords.bandcamp.com/album/ende69-dark-matter-project-dark-matter-project)
 - [Big Dog Records archive description](https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/)
 - [Eko-system – Mondowun, Frequent Flyer EP](https://eko-system.bandcamp.com/album/frequent-flyer-eko002)
+- [Modern Hypnosis – Pugilist, Vintage EP](https://pugilist.bandcamp.com/album/pugilist-vintage-ep)
+- [Dolphin Flips – Sniper1, Trackside EP](https://dolphinflipsrecords.bandcamp.com/album/flps005-trackside-ep)
+- [All Combo – Extra Dimensional](https://allcombo.bandcamp.com/album/extra-dimensional)
 - [Gorilla Tactics – Soul Ryderz featuring MC Bear](https://soundcloud.com/gorilla-tactics/soul-ryderz-ft-mc-bear-jungle)
 - [200PLUS catalogue](https://200plus.bandcamp.com/)
