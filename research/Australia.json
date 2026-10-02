@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-01-au-04",
-  "source_base_commit": "f0ffb42f76aeb5d5985724636e663db6635e8d46",
+  "revision": "2026-10-02-au-05",
+  "source_base_commit": "edf950786f026f627c79c86c76835a16ad9f2ee1",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -328,6 +328,20 @@
       "status": "excluded",
       "detail": "Sniper1 Trackside judged D&B.",
       "url": "https://dolphinflipsrecords.bandcamp.com/"
+    },
+    {
+      "name": "Big Mountain Sound Records",
+      "city": "Sydney/Canberra",
+      "status": "qualified",
+      "detail": "Narrow qualification: Yusetsu Lodestone Resonator accepted as breakbeat-led with heavy Amen chopping; rest of catalogue checked, no further qualifying tracks.",
+      "url": "https://bigmountainsound.bandcamp.com/music"
+    },
+    {
+      "name": "JM Records",
+      "city": "Perth",
+      "status": "qualified",
+      "detail": "Narrow artist-run imprint qualification through Jimi E Universal Love on JMR001 (20 Nov 2025).",
+      "url": "https://jmrecords.bandcamp.com/album/jmr001"
     }
   ],
   "listening": [
@@ -757,6 +771,20 @@
       "release": "BTR002: Splitch Apex",
       "status": "excluded",
       "verdict": "Owner: did not qualify in the Big Ting pass. Splitch later qualifies through KD4 on OTIS."
+    },
+    {
+      "label": "Big Mountain Sound Records",
+      "release": "Yusetsu Lodestone Resonator",
+      "status": "qualified",
+      "verdict": "Owner: breaks rather than straightforward jungle, but heavy Amen chops and accepted under porous boundary. Other label catalogue checked; nothing else.",
+      "url": "https://bigmountainsound.bandcamp.com/track/lodestone-resonator"
+    },
+    {
+      "label": "JM Records",
+      "release": "Jimi E Universal Love (JMR001)",
+      "status": "qualified",
+      "verdict": "Owner: qualifies as jungle. Label closed narrowly.",
+      "url": "https://jmrecords.bandcamp.com/album/jmr001"
     }
   ],
   "artist_provenance": [
@@ -999,6 +1027,18 @@
       "location": "Adelaide",
       "status": "contextual",
       "notes": "Extra Dimensional judged mostly D&B; 0x539 borderline only."
+    },
+    {
+      "name": "Yusetsu / T. Woolmer",
+      "location": "Sydney Inner West",
+      "status": "qualified",
+      "notes": "Big Mountain Sound identifies artist as Inner West; Lodestone Resonator (2016) accepted as breaks with heavy Amen chops."
+    },
+    {
+      "name": "Jimi E",
+      "location": "Perth",
+      "status": "qualified",
+      "notes": "Artist-run JM Records Perth; Universal Love (JMR001) accepted jungle."
     }
   ],
   "open_tasks": [
