@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-19",
+  "revision": "2026-10-26-au-20",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -960,6 +960,13 @@
       "status": "contextual",
       "verdict": "Owner: kind of jungle, but the catalogue is a mixture of jungle and DnB; artist can be included as a contextual mention rather than a clean jungle qualification.",
       "url": "https://breakbeatjarrodahj.bandcamp.com/track/night-trucking-jungle-vol1-breakbeat-jarrod-jungle-drum-and-bass-2026"
+    },
+    {
+      "label": "self-released / Burna",
+      "release": "codename & Burna – Marching Orders / Syanptic Pressure EP",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://itsburna.bandcamp.com/album/syanptic-pressure"
     }
   ],
   "artist_provenance": [
