@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-24",
+  "revision": "2026-10-26-au-25",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -994,6 +994,13 @@
       "release": "sc:ssors – singularity [v01d] / WARPA!NT / sc:ssors – ROLL X001",
       "status": "qualified",
       "verdict": "Owner: yes, this goes right in; definite jungle qualification.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "WARPA!NT – Panda / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, it goes well; accepted as qualifying jungle.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
