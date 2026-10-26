@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-07",
+  "revision": "2026-10-26-au-08",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -862,6 +862,13 @@
       "status": "qualified",
       "verdict": "Owner: track can go in; qualifies as jungle.",
       "url": "https://soundcloud.com/wompkrew99/deejaysavethechildren-rumpypumpythejazzbar"
+    },
+    {
+      "label": "Womp Krew",
+      "release": "A WOMP Christmas Charity Pack: Run.Prowler INTAMEEN",
+      "status": "excluded",
+      "verdict": "Owner: yeah, not really; does not qualify as jungle.",
+      "url": "https://wompkrew.bandcamp.com/album/a-womp-christmas-charity-pack"
     }
   ],
   "artist_provenance": [
