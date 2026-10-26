@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-23",
+  "revision": "2026-10-26-au-24",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -391,6 +391,13 @@
       "status": "contextual",
       "detail": "ch40 & Ugo – Drum Embrace (2025) contains jungle-adjacent IDM and DnB, but owner judged the release not jungle.",
       "url": "https://prefix.bandcamp.com/album/drum-embrace"
+    },
+    {
+      "name": "Ghost Dice",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Melbourne label qualifies through sc:ssors – singularity [v01d] on ROLL X001 (2026), accepted by owner as jungle.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
   "listening": [
@@ -981,6 +988,13 @@
       "status": "qualified",
       "verdict": "Owner: around 3:45 it becomes heavily Amen-driven; accepted for the catalogue under the porous jungle boundary. Do not describe the entire track as straight jungle.",
       "url": "https://waxthief.bandcamp.com/track/feel-real-good-wax-thiefs-set-weapon-dub"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "sc:ssors – singularity [v01d] / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, this goes right in; definite jungle qualification.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
   "artist_provenance": [
@@ -1271,6 +1285,12 @@
       "location": "Naarm / Melbourne",
       "status": "qualified",
       "notes": "Feel Real Good (Wax Thief’s Set Weapon Dub) accepted because its later section, around 3:45, becomes heavily Amen-driven; qualification is porous/crossover rather than straight-jungle throughout."
+    },
+    {
+      "name": "sc:ssors",
+      "location": "Melbourne / Naarm",
+      "status": "qualified",
+      "notes": "singularity [v01d] on Ghost Dice ROLL X001 accepted by owner as definite jungle."
     }
   ],
   "open_tasks": [
