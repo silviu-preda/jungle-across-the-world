@@ -125,7 +125,7 @@ HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogu
 
 **Role:** Qualifying local junglist collective/imprint
 
-BOYSWHOCRY qualifies through **Recoil – *Crazy Ivan*** on *Breakout Blowout Summer Pop Jam Anthems* (2024), accepted by the owner as definitely jungle. The collective presents itself as part of a contemporary Eora/Sydney junglist network; artist qualification remains track- and provenance-specific. **Arsonist & 4M4Eddy – *Souljah’s Parade*** from the same compilation was also accepted enthusiastically by the owner. The compilation as a whole was praised as a strong release, while individual jungle qualification remains track-specific.
+BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* (2024), which the owner accepted as a **qualifying jungle release in full**. Individual highlights already called out include **Recoil – *Crazy Ivan***, accepted as definitely jungle, and **Arsonist & 4M4Eddy – *Souljah’s Parade***, praised enthusiastically. The collective presents itself as part of a contemporary Eora/Sydney junglist network; artist provenance should still be resolved independently rather than inherited from the compilation.
 
 #### Heartcore — Sydney
 
