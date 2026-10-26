@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-11",
+  "revision": "2026-10-26-au-12",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -377,6 +377,13 @@
       "status": "qualified",
       "detail": "Sydney bass collective/imprint qualifies through DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar, accepted by owner as jungle. Do not characterize Womp Krew as a full-on jungle label: its wider catalogue is multi-genre, and Gowchii's Megaraptor EP was judged contextual rather than jungle proper.",
       "url": "https://wompkrew.bandcamp.com/"
+    },
+    {
+      "name": "BOYSWHOCRY",
+      "city": "Sydney / Eora",
+      "status": "qualified",
+      "detail": "Eora/Sydney junglist collective/imprint qualifies through Recoil – Crazy Ivan on Breakout Blowout Summer Pop Jam Anthems (2024), accepted by owner as definitely jungle.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
     }
   ],
   "listening": [
@@ -890,6 +897,13 @@
       "status": "excluded",
       "verdict": "Owner: DnB; does not qualify as jungle.",
       "url": "https://soundcloud.com/shufla/shufla-jungle-funk"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "Recoil – Crazy Ivan / Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: definitely jungle.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan"
     }
   ],
   "artist_provenance": [
