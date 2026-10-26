@@ -551,6 +551,10 @@ ch40 & Ugo's *Drum Embrace* (2025) was checked in full. The owner found jungle-a
 
 Jarrod A. Freeman / BREAKBEAT JARROD has independently documented Ballarat provenance and works across jungle/DnB. *DWN AND OUT* (2026) was judged more DnB than jungle, while *NIGHT TRUCKING & JUNGLE VOL1* was judged only partly jungle within a broader mixture. Keep him as a **contextual Australian mention**, not a clean jungle qualification.
 
+### Burna — Perth / Boorloo
+
+Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and related bass styles. **codename & Burna – *Marching Orders*** from *Syanptic Pressure* was checked and rejected by the owner as jungle. Keep Burna contextual unless a stronger original jungle production is identified.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
