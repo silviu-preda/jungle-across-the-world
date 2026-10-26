@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-12",
+  "revision": "2026-10-26-au-13",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -904,6 +904,13 @@
       "status": "qualified",
       "verdict": "Owner: definitely jungle.",
       "url": "https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "Arsonist & 4M4Eddy – Souljah’s Parade / Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: tune is 'murdah'; qualifies. Compilation itself praised as banging, but genre qualification remains track-specific.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
     }
   ],
   "artist_provenance": [
