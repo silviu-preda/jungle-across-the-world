@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-25",
+  "revision": "2026-10-26-au-26",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1298,6 +1298,12 @@
       "location": "Melbourne / Naarm",
       "status": "qualified",
       "notes": "singularity [v01d] on Ghost Dice ROLL X001 accepted by owner as definite jungle."
+    },
+    {
+      "name": "WARPA!NT",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Independently documented as Melbourne-based. Panda on Ghost Dice ROLL X001 accepted by owner as qualifying jungle."
     }
   ],
   "open_tasks": [
