@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-22",
+  "revision": "2026-10-26-au-23",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1082,9 +1082,9 @@
     },
     {
       "name": "Noneohone",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Accepted material or qualified-label association; independent location unverified."
+      "location": "Naarm / Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Scottish-born Andrew Beveridge, residing in Naarm/Melbourne since early 2016. Existing accepted Australian jungle material plus independently documented Melbourne residence resolves provenance."
     },
     {
       "name": "MOOD$",
