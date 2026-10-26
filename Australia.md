@@ -543,6 +543,10 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [ZZAAPP – SEVENS 01](https://zzaapp.bandcamp.com/album/tell-dem-zzaapp-sevens-01)
 - [Laptop Destroyer – ZZAAPP Beats Vol. 2](https://zzaapp.bandcamp.com/album/zzaapp-beats-vol-2)
 
+### Prefix — Sydney / Eora
+
+ch40 & Ugo's *Drum Embrace* (2025) was checked in full. The owner found jungle-adjacent IDM and DnB elements, but not enough to classify the release as jungle. Keep Prefix as contextual rather than qualifying.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
