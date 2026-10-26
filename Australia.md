@@ -130,6 +130,15 @@ Heartcore's *HTCR001* documents a Sydney/Canberra-connected breakbeat and jungle
 
 Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence.
 
+#### Womp Krew — Sydney
+
+**Documented activity:** 2023–present  
+**Role:** Qualifying Sydney bass collective/imprint
+
+Womp Krew is independently documented as a Sydney collective and release platform. **DEEJAYSAVETHECHILDREN – *rumpypumpy@thejazzbar*** was accepted by the owner as jungle; Mixmag independently described the Australian producer's track as fusing jazz with jungle. This gives Womp Krew direct qualifying release evidence rather than only event or DJ-context evidence.
+
+The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific.
+
 #### Big Ting Recordings
 
 **Location:** Sydney  
@@ -430,6 +439,9 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
+- [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
+- [Mixmag – DEEJAYSAVETHECHILDREN, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
+- [Resident Advisor – Chinese Laundry Invites WOMP KREW, Sydney](https://ra.co/events/2278260)
 - [Resident Advisor – Critical Thought at Sknkn Syndkt Vol III, Sydney](https://ra.co/events/2149834)
 - [Resident Advisor – deejaysavethechildren artist profile](https://ra.co/dj/deejaysavethechildren)
 - [Mixmag – deejaysavethechildren, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
