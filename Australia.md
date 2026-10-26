@@ -559,6 +559,10 @@ Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and
 
 **Overseen – *CIA*** (2024) was accepted enthusiastically by the owner as qualifying jungle. The artist's Melbourne provenance is independently documented, making this a direct Australian artist qualification rather than label-derived geography.
 
+### Wax Thief — Naarm / Melbourne
+
+**Wax Thief – *Feel Real Good (Wax Thief’s Set Weapon Dub)*** (2024) qualifies under the project's porous boundary. The owner noted that around **3:45** the track becomes heavily Amen-driven; preserve that nuance rather than describing the entire edit as straight jungle.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
