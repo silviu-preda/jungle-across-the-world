@@ -121,6 +121,12 @@ Music For Change is not exclusively a jungle label, but the catalogue contains r
 
 HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogue supports it. *Jungle Technahh*, *Rave Stab*, *Junglist Selecta* and *Rasta Drive Home* all passed listening; some of the surrounding material pushes toward breakcore without erasing the core jungle line.
 
+#### BOYSWHOCRY — Sydney / Eora
+
+**Role:** Qualifying local junglist collective/imprint
+
+BOYSWHOCRY qualifies through **Recoil – *Crazy Ivan*** on *Breakout Blowout Summer Pop Jam Anthems* (2024), accepted by the owner as definitely jungle. The collective presents itself as part of a contemporary Eora/Sydney junglist network; artist qualification remains track- and provenance-specific.
+
 #### Heartcore — Sydney
 
 **Documented activity:** 2024–present  
@@ -438,6 +444,8 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
+- [BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems](https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems)
+- [Recoil – Crazy Ivan](https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
 - [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
 - [Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us](https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us)
