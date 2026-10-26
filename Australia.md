@@ -555,6 +555,10 @@ Jarrod A. Freeman / BREAKBEAT JARROD has independently documented Ballarat prove
 
 Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and related bass styles. **codename & Burna – *Marching Orders*** from *Syanptic Pressure* was checked and rejected by the owner as jungle. Keep Burna contextual unless a stronger original jungle production is identified.
 
+### Overseen — Melbourne
+
+**Overseen – *CIA*** (2024) was accepted enthusiastically by the owner as qualifying jungle. The artist's Melbourne provenance is independently documented, making this a direct Australian artist qualification rather than label-derived geography.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
