@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-08",
+  "revision": "2026-10-26-au-09",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -869,6 +869,13 @@
       "status": "excluded",
       "verdict": "Owner: yeah, not really; does not qualify as jungle.",
       "url": "https://wompkrew.bandcamp.com/album/a-womp-christmas-charity-pack"
+    },
+    {
+      "label": "self-released",
+      "release": "Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us",
+      "status": "qualified",
+      "verdict": "Owner: great release; release-level qualification accepted.",
+      "url": "https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us"
     }
   ],
   "artist_provenance": [
@@ -1135,6 +1142,12 @@
       "location": "Sydney scene activity documented; residence not independently resolved",
       "status": "qualified",
       "notes": "Heartbreak on Heartcore accepted as jungle. Repeated Sydney jungle event activity documented, including Boys Who Cry-linked lineups; do not infer biography beyond that evidence."
+    },
+    {
+      "name": "Awkwerd",
+      "location": "New South Wales, Australia",
+      "status": "qualified",
+      "notes": "Self-released Nu Jungle Volume 1: Life is Roblox / Among Us (2024) accepted enthusiastically by owner as a great jungle release. Later Womp Krew orbit activity is contextual; qualification comes from independently documented NSW provenance plus original jungle production."
     }
   ],
   "open_tasks": [
