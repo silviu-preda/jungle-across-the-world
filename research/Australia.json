@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-13",
+  "revision": "2026-10-26-au-14",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -382,7 +382,7 @@
       "name": "BOYSWHOCRY",
       "city": "Sydney / Eora",
       "status": "qualified",
-      "detail": "Eora/Sydney junglist collective/imprint qualifies through Recoil – Crazy Ivan on Breakout Blowout Summer Pop Jam Anthems (2024), accepted by owner as definitely jungle.",
+      "detail": "Eora/Sydney junglist collective/imprint. Breakout Blowout Summer Pop Jam Anthems (2024) is accepted by the owner as a qualifying jungle release in full; individual highlights include Recoil – Crazy Ivan and Arsonist & 4M4Eddy – Souljah’s Parade.",
       "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
     }
   ],
@@ -910,6 +910,13 @@
       "release": "Arsonist & 4M4Eddy – Souljah’s Parade / Breakout Blowout Summer Pop Jam Anthems",
       "status": "qualified",
       "verdict": "Owner: tune is 'murdah'; qualifies. Compilation itself praised as banging, but genre qualification remains track-specific.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: whole release should go in, definitely. Release-level jungle qualification.",
       "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
     }
   ],
