@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-15",
+  "revision": "2026-10-26-au-16",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -925,6 +925,13 @@
       "status": "excluded",
       "verdict": "Owner: not jungle; not bad, but definitely not it.",
       "url": "https://sttrukii.bandcamp.com/album/project-x"
+    },
+    {
+      "label": "Heartcore",
+      "release": "Meat Conglomerate – My Best Friend / HTCR001",
+      "status": "excluded",
+      "verdict": "Owner: emphatic rejection; definitely not jungle.",
+      "url": "https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001"
     }
   ],
   "artist_provenance": [
