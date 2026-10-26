@@ -137,7 +137,7 @@ Critical Thought has independently documented Sydney jungle performance activity
 
 Womp Krew is independently documented as a Sydney collective and release platform. **DEEJAYSAVETHECHILDREN – *rumpypumpy@thejazzbar*** was accepted by the owner as jungle; Mixmag independently described the Australian producer's track as fusing jazz with jungle. This gives Womp Krew direct qualifying release evidence rather than only event or DJ-context evidence.
 
-The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific. **Run.Prowler – *INTAMEEN*** was checked and rejected by the owner as jungle.
+The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific. **Run.Prowler – *INTAMEEN*** was checked and rejected by the owner as jungle. The wider Womp Krew network also surfaces **Awkwerd**, an independently documented New South Wales producer; his self-released *Nu Jungle Volume 1: Life is Roblox / Among Us* (2024) was accepted by the owner as a strong jungle release. This qualifies Awkwerd directly as an Australian artist, while the release itself remains self-released rather than Womp Krew catalogue evidence.
 
 #### Big Ting Recordings
 
@@ -440,6 +440,7 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
 - [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
+- [Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us](https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us)
 - [Mixmag – DEEJAYSAVETHECHILDREN, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
 - [Resident Advisor – Chinese Laundry Invites WOMP KREW, Sydney](https://ra.co/events/2278260)
 - [Resident Advisor – Critical Thought at Sknkn Syndkt Vol III, Sydney](https://ra.co/events/2149834)
