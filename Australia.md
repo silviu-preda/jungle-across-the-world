@@ -131,7 +131,7 @@ BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* 
 
 **Role:** Qualifying jungle / drumfunk-adjacent Melbourne label
 
-Ghost Dice qualifies through **sc:ssors – *singularity [v01d]*** on *WARPA!NT / sc:ssors – ROLL X001* (2026), accepted by the owner as definite jungle. Keep further roster qualification track-specific.
+Ghost Dice qualifies through **sc:ssors – *singularity [v01d]*** on *WARPA!NT / sc:ssors – ROLL X001* (2026), accepted by the owner as definite jungle. Keep further roster qualification track-specific. **WARPA!NT – *Panda*** from the same release was also accepted by the owner as qualifying.
 
 #### Heartcore — Sydney
 
