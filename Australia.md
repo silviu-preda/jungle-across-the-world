@@ -127,6 +127,12 @@ HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogu
 
 BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* (2024), which the owner accepted as a **qualifying jungle release in full**. Individual highlights already called out include **Recoil – *Crazy Ivan***, accepted as definitely jungle, and **Arsonist & 4M4Eddy – *Souljah’s Parade***, praised enthusiastically. The collective presents itself as part of a contemporary Eora/Sydney junglist network; artist provenance should still be resolved independently rather than inherited from the compilation. **STTRUKII – *PROJECT X*** was checked separately and rejected by the owner as jungle.
 
+#### Ghost Dice — Melbourne / Naarm
+
+**Role:** Qualifying jungle / drumfunk-adjacent Melbourne label
+
+Ghost Dice qualifies through **sc:ssors – *singularity [v01d]*** on *WARPA!NT / sc:ssors – ROLL X001* (2026), accepted by the owner as definite jungle. Keep further roster qualification track-specific.
+
 #### Heartcore — Sydney
 
 **Documented activity:** 2024–present  
@@ -446,6 +452,7 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
 - [BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems](https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems)
 - [Recoil – Crazy Ivan](https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan)
+- [Ghost Dice – ROLL X001](https://ghostdice.bandcamp.com/album/roll-x001)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
 - [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
 - [Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us](https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us)
