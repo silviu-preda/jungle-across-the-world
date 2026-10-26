@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-09",
+  "revision": "2026-10-26-au-10",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -375,7 +375,7 @@
       "name": "Womp Krew",
       "city": "Sydney",
       "status": "qualified",
-      "detail": "Sydney bass collective/imprint qualifies through DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar, accepted by owner as jungle; wider catalogue remains multi-genre.",
+      "detail": "Sydney bass collective/imprint qualifies through DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar, accepted by owner as jungle. Do not characterize Womp Krew as a full-on jungle label: its wider catalogue is multi-genre, and Gowchii's Megaraptor EP was judged contextual rather than jungle proper.",
       "url": "https://wompkrew.bandcamp.com/"
     }
   ],
@@ -876,6 +876,13 @@
       "status": "qualified",
       "verdict": "Owner: great release; release-level qualification accepted.",
       "url": "https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us"
+    },
+    {
+      "label": "Womp Krew / Gowchii",
+      "release": "Gowchii – Megaraptor EP",
+      "status": "contextual",
+      "verdict": "Owner: not really jungle. Worth a note, but not full-on jungle material.",
+      "url": "https://soundcloud.com/gowchiidnb/sets/megaraptor-ep"
     }
   ],
   "artist_provenance": [
