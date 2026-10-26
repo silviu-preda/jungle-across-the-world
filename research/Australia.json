@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-18",
+  "revision": "2026-10-26-au-19",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -953,6 +953,13 @@
       "status": "contextual",
       "verdict": "Owner: more DnB than jungle; does not qualify as jungle.",
       "url": "https://breakbeatjarrodahj.bandcamp.com/track/dwn-and-out-breakbeat-jarrod-jungle-drum-and-bass-2026"
+    },
+    {
+      "label": "self-released",
+      "release": "BREAKBEAT JARROD – NIGHT TRUCKING & JUNGLE VOL1",
+      "status": "contextual",
+      "verdict": "Owner: kind of jungle, but the catalogue is a mixture of jungle and DnB; artist can be included as a contextual mention rather than a clean jungle qualification.",
+      "url": "https://breakbeatjarrodahj.bandcamp.com/track/night-trucking-jungle-vol1-breakbeat-jarrod-jungle-drum-and-bass-2026"
     }
   ],
   "artist_provenance": [
@@ -1225,6 +1232,12 @@
       "location": "New South Wales, Australia",
       "status": "qualified",
       "notes": "Self-released Nu Jungle Volume 1: Life is Roblox / Among Us (2024) accepted enthusiastically by owner as a great jungle release. Later Womp Krew orbit activity is contextual; qualification comes from independently documented NSW provenance plus original jungle production."
+    },
+    {
+      "name": "BREAKBEAT JARROD / Jarrod A. Freeman",
+      "location": "Ballarat, Victoria",
+      "status": "contextual",
+      "notes": "Catalogue mixes jungle and DnB. Owner judged DWN AND OUT more DnB than jungle and NIGHT TRUCKING & JUNGLE VOL1 only kind of jungle; include as a contextual Australian mention, not a clean jungle qualification."
     }
   ],
   "open_tasks": [
