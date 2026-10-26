@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-17",
+  "revision": "2026-10-26-au-18",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -946,6 +946,13 @@
       "status": "contextual",
       "verdict": "Owner: some jungle-adjacent IDM & DnB, but the release is not jungle.",
       "url": "https://prefix.bandcamp.com/album/drum-embrace"
+    },
+    {
+      "label": "self-released",
+      "release": "BREAKBEAT JARROD – DWN AND OUT",
+      "status": "contextual",
+      "verdict": "Owner: more DnB than jungle; does not qualify as jungle.",
+      "url": "https://breakbeatjarrodahj.bandcamp.com/track/dwn-and-out-breakbeat-jarrod-jungle-drum-and-bass-2026"
     }
   ],
   "artist_provenance": [
