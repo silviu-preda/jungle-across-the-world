@@ -547,6 +547,10 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ch40 & Ugo's *Drum Embrace* (2025) was checked in full. The owner found jungle-adjacent IDM and DnB elements, but not enough to classify the release as jungle. Keep Prefix as contextual rather than qualifying.
 
+### BREAKBEAT JARROD — Ballarat, Victoria
+
+Jarrod A. Freeman / BREAKBEAT JARROD has independently documented Ballarat provenance and self-identifies across jungle/DnB production. *DWN AND OUT* (2026) was checked and judged by the owner as more DnB than jungle, so it remains contextual and does not by itself qualify the artist.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
