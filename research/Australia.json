@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-21",
+  "revision": "2026-10-26-au-22",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -974,6 +974,13 @@
       "status": "qualified",
       "verdict": "Owner: enthusiastic positive verdict ('oh yeah, this track is heavy!!!'); accepted as qualifying jungle.",
       "url": "https://overseen.bandcamp.com/track/cia"
+    },
+    {
+      "label": "self-released",
+      "release": "Wax Thief – Feel Real Good (Wax Thief’s Set Weapon Dub)",
+      "status": "qualified",
+      "verdict": "Owner: around 3:45 it becomes heavily Amen-driven; accepted for the catalogue under the porous jungle boundary. Do not describe the entire track as straight jungle.",
+      "url": "https://waxthief.bandcamp.com/track/feel-real-good-wax-thiefs-set-weapon-dub"
     }
   ],
   "artist_provenance": [
@@ -1258,6 +1265,12 @@
       "location": "Melbourne, Australia",
       "status": "qualified",
       "notes": "CIA (2024) accepted enthusiastically by owner as qualifying jungle."
+    },
+    {
+      "name": "Wax Thief",
+      "location": "Naarm / Melbourne",
+      "status": "qualified",
+      "notes": "Feel Real Good (Wax Thief’s Set Weapon Dub) accepted because its later section, around 3:45, becomes heavily Amen-driven; qualification is porous/crossover rather than straight-jungle throughout."
     }
   ],
   "open_tasks": [
