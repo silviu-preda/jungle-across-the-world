@@ -134,7 +134,7 @@ BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* 
 
 Heartcore's *HTCR001* documents a Sydney/Canberra-connected breakbeat and jungle network. Two tracks have passed the owner's listening test: **Critical Thought – *Heartbreak***, described by the owner as effectively a re-orchestration of *Amen Brother* but nonetheless genuinely jungle, and **Hypochondriac (FKA deejaysavethechildren) – *Parramatta Road Freakazoids***, also accepted as jungle.
 
-Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence.
+Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence. **Meat Conglomerate – *My Best Friend*** from *HTCR001* was checked and emphatically rejected by the owner as jungle.
 
 #### Womp Krew — Sydney
 
