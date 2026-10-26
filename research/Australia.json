@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-16",
+  "revision": "2026-10-26-au-17",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -384,6 +384,13 @@
       "status": "qualified",
       "detail": "Eora/Sydney junglist collective/imprint. Breakout Blowout Summer Pop Jam Anthems (2024) is accepted by the owner as a qualifying jungle release in full; individual highlights include Recoil – Crazy Ivan and Arsonist & 4M4Eddy – Souljah’s Parade.",
       "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
+    },
+    {
+      "name": "Prefix",
+      "city": "Sydney / Eora",
+      "status": "contextual",
+      "detail": "ch40 & Ugo – Drum Embrace (2025) contains jungle-adjacent IDM and DnB, but owner judged the release not jungle.",
+      "url": "https://prefix.bandcamp.com/album/drum-embrace"
     }
   ],
   "listening": [
@@ -932,6 +939,13 @@
       "status": "excluded",
       "verdict": "Owner: emphatic rejection; definitely not jungle.",
       "url": "https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001"
+    },
+    {
+      "label": "Prefix",
+      "release": "ch40 & Ugo – Drum Embrace",
+      "status": "contextual",
+      "verdict": "Owner: some jungle-adjacent IDM & DnB, but the release is not jungle.",
+      "url": "https://prefix.bandcamp.com/album/drum-embrace"
     }
   ],
   "artist_provenance": [
