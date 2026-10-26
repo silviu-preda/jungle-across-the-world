@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-02-au-05",
+  "revision": "2026-10-26-au-06",
   "source_base_commit": "edf950786f026f627c79c86c76835a16ad9f2ee1",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -342,6 +342,34 @@
       "status": "qualified",
       "detail": "Narrow artist-run imprint qualification through Jimi E Universal Love on JMR001 (20 Nov 2025).",
       "url": "https://jmrecords.bandcamp.com/album/jmr001"
+    },
+    {
+      "name": "Heartcore",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "HTCR001 qualifies through Critical Thought Heartbreak and Hypochondriac/deejaysavethechildren Parramatta Road Freakazoids, both accepted by owner.",
+      "url": "https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001"
+    },
+    {
+      "name": "ILIO Records",
+      "city": "Melbourne/Naarm",
+      "status": "excluded",
+      "detail": "Marli Jungle Tool rejected; no stronger qualifying material established.",
+      "url": "https://iliorecords.bandcamp.com/album/marli-mood-independent"
+    },
+    {
+      "name": "New Forms",
+      "city": "Perth/Boorloo",
+      "status": "contextual",
+      "detail": "Dr. Telefunken Jungle These Days judged borderline/sorta-but-not-quite; insufficient for label qualification.",
+      "url": "https://thosenewforms.bandcamp.com/album/perth-halftime-compilation-vol-2"
+    },
+    {
+      "name": "LUNCH Records",
+      "city": "Perth/Boorloo",
+      "status": "excluded",
+      "detail": "DEHNOE CLOWNING AROUND explored beyond title lead and rejected as jungle overall.",
+      "url": "https://dehnoe.bandcamp.com/album/clowning-around"
     }
   ],
   "listening": [
@@ -785,6 +813,41 @@
       "status": "qualified",
       "verdict": "Owner: qualifies as jungle. Label closed narrowly.",
       "url": "https://jmrecords.bandcamp.com/album/jmr001"
+    },
+    {
+      "label": "Heartcore",
+      "release": "HTCR001: Critical Thought Heartbreak",
+      "status": "qualified",
+      "verdict": "Owner: genuinely jungle; effectively a re-orchestration of Amen Brother, which does not disqualify it.",
+      "url": "https://heartcoreheartcoreheartcore.bandcamp.com/track/heartbreak"
+    },
+    {
+      "label": "Heartcore",
+      "release": "HTCR001: Hypochondriac (FKA deejaysavethechildren) Parramatta Road Freakazoids",
+      "status": "qualified",
+      "verdict": "Owner: goes in / qualifies as jungle.",
+      "url": "https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001"
+    },
+    {
+      "label": "ILIO Records",
+      "release": "Marli Jungle Tool",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle.",
+      "url": "https://iliorecords.bandcamp.com/album/marli-mood-independent"
+    },
+    {
+      "label": "New Forms",
+      "release": "Dr. Telefunken Jungle These Days",
+      "status": "contextual",
+      "verdict": "Owner: meh, sorta but not quite. Borderline; insufficient to qualify.",
+      "url": "https://thosenewforms.bandcamp.com/album/perth-halftime-compilation-vol-2"
+    },
+    {
+      "label": "LUNCH Records",
+      "release": "DEHNOE CLOWNING AROUND",
+      "status": "excluded",
+      "verdict": "Owner explored the release more thoroughly: not jungle.",
+      "url": "https://dehnoe.bandcamp.com/album/clowning-around"
     }
   ],
   "artist_provenance": [
@@ -1039,6 +1102,18 @@
       "location": "Perth",
       "status": "qualified",
       "notes": "Artist-run JM Records Perth; Universal Love (JMR001) accepted jungle."
+    },
+    {
+      "name": "Hypochondriac / deejaysavethechildren / James Pickering",
+      "location": "Australia; Sydney-centered activity",
+      "status": "qualified",
+      "notes": "Resident Advisor identifies James Pickering, location Australia, most-played region Sydney. Parramatta Road Freakazoids on Heartcore accepted as jungle; Mixmag independently describes rumpypumpy@thejazzbar as jungle fusion."
+    },
+    {
+      "name": "Critical Thought",
+      "location": "Sydney scene activity documented; residence not independently resolved",
+      "status": "qualified",
+      "notes": "Heartbreak on Heartcore accepted as jungle. Repeated Sydney jungle event activity documented, including Boys Who Cry-linked lineups; do not infer biography beyond that evidence."
     }
   ],
   "open_tasks": [
@@ -1049,6 +1124,7 @@
     "Defer Big Dog archive listening until convenient access.",
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
-    "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix."
+    "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
+    "Heartcore: no further roster listening required unless a new specific production lead emerges."
   ]
 }
