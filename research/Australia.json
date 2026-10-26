@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-20",
+  "revision": "2026-10-26-au-21",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -967,6 +967,13 @@
       "status": "excluded",
       "verdict": "Owner: not jungle.",
       "url": "https://itsburna.bandcamp.com/album/syanptic-pressure"
+    },
+    {
+      "label": "self-released",
+      "release": "Overseen – CIA",
+      "status": "qualified",
+      "verdict": "Owner: enthusiastic positive verdict ('oh yeah, this track is heavy!!!'); accepted as qualifying jungle.",
+      "url": "https://overseen.bandcamp.com/track/cia"
     }
   ],
   "artist_provenance": [
@@ -1245,6 +1252,12 @@
       "location": "Ballarat, Victoria",
       "status": "contextual",
       "notes": "Catalogue mixes jungle and DnB. Owner judged DWN AND OUT more DnB than jungle and NIGHT TRUCKING & JUNGLE VOL1 only kind of jungle; include as a contextual Australian mention, not a clean jungle qualification."
+    },
+    {
+      "name": "Overseen",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "CIA (2024) accepted enthusiastically by owner as qualifying jungle."
     }
   ],
   "open_tasks": [
