@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-06",
-  "source_base_commit": "edf950786f026f627c79c86c76835a16ad9f2ee1",
+  "revision": "2026-10-26-au-07",
+  "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -370,6 +370,13 @@
       "status": "excluded",
       "detail": "DEHNOE CLOWNING AROUND explored beyond title lead and rejected as jungle overall.",
       "url": "https://dehnoe.bandcamp.com/album/clowning-around"
+    },
+    {
+      "name": "Womp Krew",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Sydney bass collective/imprint qualifies through DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar, accepted by owner as jungle; wider catalogue remains multi-genre.",
+      "url": "https://wompkrew.bandcamp.com/"
     }
   ],
   "listening": [
@@ -848,6 +855,13 @@
       "status": "excluded",
       "verdict": "Owner explored the release more thoroughly: not jungle.",
       "url": "https://dehnoe.bandcamp.com/album/clowning-around"
+    },
+    {
+      "label": "Womp Krew",
+      "release": "DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar",
+      "status": "qualified",
+      "verdict": "Owner: track can go in; qualifies as jungle.",
+      "url": "https://soundcloud.com/wompkrew99/deejaysavethechildren-rumpypumpythejazzbar"
     }
   ],
   "artist_provenance": [
@@ -1107,7 +1121,7 @@
       "name": "Hypochondriac / deejaysavethechildren / James Pickering",
       "location": "Australia; Sydney-centered activity",
       "status": "qualified",
-      "notes": "Resident Advisor identifies James Pickering, location Australia, most-played region Sydney. Parramatta Road Freakazoids on Heartcore accepted as jungle; Mixmag independently describes rumpypumpy@thejazzbar as jungle fusion."
+      "notes": "Resident Advisor identifies James Pickering, location Australia, most-played region Sydney. Parramatta Road Freakazoids on Heartcore accepted as jungle; Mixmag independently describes rumpypumpy@thejazzbar as jungle fusion. rumpypumpy@thejazzbar on Womp Krew also accepted by owner as jungle, independently qualifying the Sydney collective/imprint."
     },
     {
       "name": "Critical Thought",
