@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-10",
+  "revision": "2026-10-26-au-11",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -883,6 +883,13 @@
       "status": "contextual",
       "verdict": "Owner: not really jungle. Worth a note, but not full-on jungle material.",
       "url": "https://soundcloud.com/gowchiidnb/sets/megaraptor-ep"
+    },
+    {
+      "label": "Womp Krew network",
+      "release": "SHÜFLA – Jungle Funk",
+      "status": "excluded",
+      "verdict": "Owner: DnB; does not qualify as jungle.",
+      "url": "https://soundcloud.com/shufla/shufla-jungle-funk"
     }
   ],
   "artist_provenance": [
