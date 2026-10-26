@@ -51,6 +51,13 @@ Jungle Massive Australia (JMA) is essential historical infrastructure. DJ Popeye
 
 Archived forums, surviving tape uploads and old tracklists are particularly important here because conventional streaming metadata is incomplete.
 
+#### Big Mountain Sound Records — Sydney/Canberra
+
+**Documented activity:** 2014–2016  
+**Role:** Narrowly qualifying independent collective/label
+
+Big Mountain Sound describes itself as a collective of producers, DJs and musicians from Sydney and Canberra, spanning dub, techno, breaks and bass music. **Yusetsu** (credited as T. Woolmer; identified by the label with Sydney's Inner West) qualifies through *Lodestone Resonator* (18 March 2016). The owner accepted it as breakbeat-led music with substantial heavy Amen chopping under the project's porous jungle boundary, not straightforward jungle. The rest of the small label catalogue was checked and supplied no further qualifying track; Ghostknyfe, Bloom Sydney and Ohmage remain roster context only.
+
 #### OTIS Records / Outer Time Inner Space
 
 **Relevant activity:** 2015–present  
@@ -113,6 +120,15 @@ Music For Change is not exclusively a jungle label, but the catalogue contains r
 **Role:** Direct Sydney jungle artist
 
 HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogue supports it. *Jungle Technahh*, *Rave Stab*, *Junglist Selecta* and *Rasta Drive Home* all passed listening; some of the surrounding material pushes toward breakcore without erasing the core jungle line.
+
+#### Heartcore — Sydney
+
+**Documented activity:** 2024–present  
+**Role:** Qualifying Sydney breakbeat/jungle label
+
+Heartcore's *HTCR001* documents a Sydney/Canberra-connected breakbeat and jungle network. Two tracks have passed the owner's listening test: **Critical Thought – *Heartbreak***, described by the owner as effectively a re-orchestration of *Amen Brother* but nonetheless genuinely jungle, and **Hypochondriac (FKA deejaysavethechildren) – *Parramatta Road Freakazoids***, also accepted as jungle.
+
+Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence.
 
 #### Big Ting Recordings
 
@@ -311,6 +327,10 @@ ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, ac
 
 ### Further qualifying Australian labels
 
+#### JM Records — Perth
+
+Small Perth artist-run imprint associated with **Jimi E**, who identifies as a longtime jungle producer and raver. Its *JMR001* (20 November 2025) contains *Universal Love*, accepted by the owner as jungle. Qualification is narrow; do not imply a larger qualifying catalogue.
+
 #### B&H Records — Australia (city unresolved)
 
 B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Their individual country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
@@ -364,6 +384,9 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
+- **ILIO Records — Melbourne/Naarm:** Marli's *Jungle Tool* was explicitly rejected by the owner as jungle; no stronger qualifying catalogue evidence established in this pass.
+- **New Forms — Perth/Boorloo:** Dr. Telefunken's *Jungle These Days* was judged “sorta but not quite” — borderline jungle vocabulary inside a halftime context, insufficient to qualify the label.
+- **LUNCH Records — Perth/Boorloo:** DEHNOE's *CLOWNING AROUND* was heard beyond the title-track lead and rejected as jungle overall; do not qualify the label or artist from tags alone.
 - **Flatlife Records Australia — Melbourne/Ferntree Gully association:** Australian operation of a Dutch-origin label/distributor, with no verified local jungle release from this pass. Keep as an unqualified discovery lead; do not assume the Dutch parent's catalogue establishes an Australian jungle label.
 - **RBI – *Disseminate*:** previously heard and explicitly rejected by the owner as jungle. Butter Sessions remains qualified through Turner Street Sound; do not recommend *Disseminate* again.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
@@ -400,11 +423,16 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Sydney
 
+- [Big Mountain Sound – Yusetsu, Lodestone Resonator](https://bigmountainsound.bandcamp.com/track/lodestone-resonator)
 - [DJ Popeye – JMA Vol. II (1996)](https://soundcloud.com/djrikochet/dj-popeye-jma-vol-ii-1996-side-a-dat-recording?in=djrikochet%2Fsets%2Fpopeye-series)
 - [DJ Speaks / JMA historical discussion (Dogsonacid)](https://www.dogsonacid.com/threads/jungletrain-net-promomix-march-2012-by-dj-speaks.733372/)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
+- [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
+- [Resident Advisor – Critical Thought at Sknkn Syndkt Vol III, Sydney](https://ra.co/events/2149834)
+- [Resident Advisor – deejaysavethechildren artist profile](https://ra.co/dj/deejaysavethechildren)
+- [Mixmag – deejaysavethechildren, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
 - [OTIS Records catalogue](https://otisrecords.bandcamp.com/music)
 - [OTIS – Sweet Echoes vol. 2](https://otisrecords.bandcamp.com/album/sweet-echoes-vol-2-otis007)
 - [Hugh B – Floating on a Trippy Biscuit](https://hughb.bandcamp.com/album/floating-on-a-trippy-biscuit-otis003)
@@ -496,6 +524,10 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Context and deferred listening
 
+- [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
+- [ILIO Records – Marli, Mood Independent](https://iliorecords.bandcamp.com/album/marli-mood-independent)
+- [New Forms – Perth Halftime Compilation Vol. 2](https://thosenewforms.bandcamp.com/album/perth-halftime-compilation-vol-2)
+- [DEHNOE – CLOWNING AROUND (LUNCH Records)](https://dehnoe.bandcamp.com/album/clowning-around)
 - [Anomaly Digital catalogue](https://anomalydigital.bandcamp.com/)
 - [Golden Orb Records catalogue](https://goldenorbrecords.bandcamp.com/music)
 - [Golden Orb Records profile](https://soundcloud.com/goldenorbrecords)
