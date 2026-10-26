@@ -137,7 +137,7 @@ Critical Thought has independently documented Sydney jungle performance activity
 
 Womp Krew is independently documented as a Sydney collective and release platform. **DEEJAYSAVETHECHILDREN – *rumpypumpy@thejazzbar*** was accepted by the owner as jungle; Mixmag independently described the Australian producer's track as fusing jazz with jungle. This gives Womp Krew direct qualifying release evidence rather than only event or DJ-context evidence.
 
-The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific.
+The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific. **Run.Prowler – *INTAMEEN*** was checked and rejected by the owner as jungle.
 
 #### Big Ting Recordings
 
