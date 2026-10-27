@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-34",
+  "revision": "2026-10-27-au-35",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1058,6 +1058,13 @@
       "status": "qualified",
       "verdict": "Owner: whole release is going in; release-level jungle qualification.",
       "url": "https://tacticalaspect.bandcamp.com/album/heavyweight-ep"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Lions EP",
+      "status": "qualified",
+      "verdict": "Owner: it's also good; accepted as a qualifying jungle release.",
+      "url": "https://tacticalaspect.bandcamp.com/album/lions-ep"
     }
   ],
   "artist_provenance": [
