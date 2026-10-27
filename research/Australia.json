@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-38",
+  "revision": "2026-10-27-au-37",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1071,6 +1071,13 @@
       "release": "Dizz1 – In The Zone (Midnight Dubs Remix) / In The Zone EP",
       "status": "qualified",
       "verdict": "Owner: the Midnight Dubs remix works; accepted as qualifying jungle. The qualifying treatment is the remix, so do not infer Dizz1's original mix independently qualifies from this verdict alone.",
+      "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
+    },
+    {
+      "label": "Echo Chamber Sound / Run It Red",
+      "release": "Dizz1 – In The Zone (Midnight Bass Remix) / In The Zone EP",
+      "status": "qualified",
+      "verdict": "Owner: the Midnight Bass remix of In The Zone works; accepted as qualifying jungle.",
       "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
     }
   ],
