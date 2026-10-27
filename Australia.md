@@ -137,7 +137,7 @@ Ghost Dice qualifies strongly through **WARPA!NT / sc:ssors – *ROLL X001*** (2
 
 **Role:** Qualifying jungle/DnB production duo
 
-Tactical Aspect, the Sydney duo of **Ruff Tactics & DJ Speaks**, qualifies through **_Feeding Frenzy_** on *Subaquatic EP* (2015), accepted by the owner as jungle.
+Tactical Aspect, the Sydney duo of **Ruff Tactics & DJ Speaks**, qualifies strongly through **_Subaquatic EP_** (2015), which the owner listened to in full and accepted as a **qualifying jungle release as a whole**. *Feeding Frenzy* remains an individual highlight already accepted earlier.
 
 #### Heartcore — Sydney
 
