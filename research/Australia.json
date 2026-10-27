@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-28",
+  "revision": "2026-10-27-au-29",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1016,6 +1016,13 @@
       "status": "qualified",
       "verdict": "Owner: yes, sure; it's good. Accepted as qualifying jungle.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "self-released",
+      "release": "Ourobonic Plague – Alien Tongue (Single)",
+      "status": "qualified",
+      "verdict": "Owner: not a floor banger, but jungle nevertheless. Qualify as ambient/drone jungle rather than dancefloor jungle.",
+      "url": "https://ourobonicplague.bandcamp.com/album/alien-tongue-single"
     }
   ],
   "artist_provenance": [
@@ -1318,6 +1325,12 @@
       "location": "Melbourne, Australia",
       "status": "qualified",
       "notes": "Independently documented as Melbourne-based. Panda on Ghost Dice ROLL X001 accepted by owner as qualifying jungle."
+    },
+    {
+      "name": "Ourobonic Plague",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Alien Tongue accepted by owner as jungle despite being ambient/drone and non-dancefloor in character."
     }
   ],
   "open_tasks": [
