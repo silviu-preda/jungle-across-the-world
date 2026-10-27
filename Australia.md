@@ -578,6 +578,10 @@ Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and
 
 *SIR W4TTS – Polly Waffle* (2025) was checked and judged by the owner as containing **hardly any jungle**. Keep the artist contextual rather than qualifying from this track.
 
+### Badmd — South Australia
+
+**Badmd – *Swordfish*** (2024) was accepted by the owner as a good qualifying jungle track. This provides a direct South Australian artist entry.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
