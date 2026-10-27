@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-06",
-  "source_base_commit": "edf950786f026f627c79c86c76835a16ad9f2ee1",
+  "revision": "2026-10-27-au-37",
+  "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -370,6 +370,34 @@
       "status": "excluded",
       "detail": "DEHNOE CLOWNING AROUND explored beyond title lead and rejected as jungle overall.",
       "url": "https://dehnoe.bandcamp.com/album/clowning-around"
+    },
+    {
+      "name": "Womp Krew",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Sydney bass collective/imprint qualifies through DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar, accepted by owner as jungle. Do not characterize Womp Krew as a full-on jungle label: its wider catalogue is multi-genre, and Gowchii's Megaraptor EP was judged contextual rather than jungle proper.",
+      "url": "https://wompkrew.bandcamp.com/"
+    },
+    {
+      "name": "BOYSWHOCRY",
+      "city": "Sydney / Eora",
+      "status": "qualified",
+      "detail": "Eora/Sydney junglist collective/imprint. Breakout Blowout Summer Pop Jam Anthems (2024) is accepted by the owner as a qualifying jungle release in full; individual highlights include Recoil – Crazy Ivan and Arsonist & 4M4Eddy – Souljah’s Parade.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
+    },
+    {
+      "name": "Prefix",
+      "city": "Sydney / Eora",
+      "status": "contextual",
+      "detail": "ch40 & Ugo – Drum Embrace (2025) contains jungle-adjacent IDM and DnB, but owner judged the release not jungle.",
+      "url": "https://prefix.bandcamp.com/album/drum-embrace"
+    },
+    {
+      "name": "Ghost Dice",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Melbourne/Naarm label strongly qualifies through WARPA!NT / sc:ssors – ROLL X001 (2026), accepted by owner as a worthy release in full. Individual highlights include sc:ssors – singularity [v01d], sc:ssors – jason, and WARPA!NT – Panda.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
   "listening": [
@@ -848,6 +876,209 @@
       "status": "excluded",
       "verdict": "Owner explored the release more thoroughly: not jungle.",
       "url": "https://dehnoe.bandcamp.com/album/clowning-around"
+    },
+    {
+      "label": "Womp Krew",
+      "release": "DEEJAYSAVETHECHILDREN rumpypumpy@thejazzbar",
+      "status": "qualified",
+      "verdict": "Owner: track can go in; qualifies as jungle.",
+      "url": "https://soundcloud.com/wompkrew99/deejaysavethechildren-rumpypumpythejazzbar"
+    },
+    {
+      "label": "Womp Krew",
+      "release": "A WOMP Christmas Charity Pack: Run.Prowler INTAMEEN",
+      "status": "excluded",
+      "verdict": "Owner: yeah, not really; does not qualify as jungle.",
+      "url": "https://wompkrew.bandcamp.com/album/a-womp-christmas-charity-pack"
+    },
+    {
+      "label": "self-released",
+      "release": "Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us",
+      "status": "qualified",
+      "verdict": "Owner: great release; release-level qualification accepted.",
+      "url": "https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us"
+    },
+    {
+      "label": "Womp Krew / Gowchii",
+      "release": "Gowchii – Megaraptor EP",
+      "status": "contextual",
+      "verdict": "Owner: not really jungle. Worth a note, but not full-on jungle material.",
+      "url": "https://soundcloud.com/gowchiidnb/sets/megaraptor-ep"
+    },
+    {
+      "label": "Womp Krew network",
+      "release": "SHÜFLA – Jungle Funk",
+      "status": "excluded",
+      "verdict": "Owner: DnB; does not qualify as jungle.",
+      "url": "https://soundcloud.com/shufla/shufla-jungle-funk"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "Recoil – Crazy Ivan / Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: definitely jungle.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "Arsonist & 4M4Eddy – Souljah’s Parade / Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: tune is 'murdah'; qualifies. Compilation itself praised as banging, but genre qualification remains track-specific.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
+    },
+    {
+      "label": "BOYSWHOCRY",
+      "release": "BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems",
+      "status": "qualified",
+      "verdict": "Owner: whole release should go in, definitely. Release-level jungle qualification.",
+      "url": "https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems"
+    },
+    {
+      "label": "self-released / Sydney scene",
+      "release": "STTRUKII – PROJECT X / PROJECT X EP",
+      "status": "excluded",
+      "verdict": "Owner: not jungle; not bad, but definitely not it.",
+      "url": "https://sttrukii.bandcamp.com/album/project-x"
+    },
+    {
+      "label": "Heartcore",
+      "release": "Meat Conglomerate – My Best Friend / HTCR001",
+      "status": "excluded",
+      "verdict": "Owner: emphatic rejection; definitely not jungle.",
+      "url": "https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001"
+    },
+    {
+      "label": "Prefix",
+      "release": "ch40 & Ugo – Drum Embrace",
+      "status": "contextual",
+      "verdict": "Owner: some jungle-adjacent IDM & DnB, but the release is not jungle.",
+      "url": "https://prefix.bandcamp.com/album/drum-embrace"
+    },
+    {
+      "label": "self-released",
+      "release": "BREAKBEAT JARROD – DWN AND OUT",
+      "status": "contextual",
+      "verdict": "Owner: more DnB than jungle; does not qualify as jungle.",
+      "url": "https://breakbeatjarrodahj.bandcamp.com/track/dwn-and-out-breakbeat-jarrod-jungle-drum-and-bass-2026"
+    },
+    {
+      "label": "self-released",
+      "release": "BREAKBEAT JARROD – NIGHT TRUCKING & JUNGLE VOL1",
+      "status": "contextual",
+      "verdict": "Owner: kind of jungle, but the catalogue is a mixture of jungle and DnB; artist can be included as a contextual mention rather than a clean jungle qualification.",
+      "url": "https://breakbeatjarrodahj.bandcamp.com/track/night-trucking-jungle-vol1-breakbeat-jarrod-jungle-drum-and-bass-2026"
+    },
+    {
+      "label": "self-released / Burna",
+      "release": "codename & Burna – Marching Orders / Syanptic Pressure EP",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://itsburna.bandcamp.com/album/syanptic-pressure"
+    },
+    {
+      "label": "self-released",
+      "release": "Overseen – CIA",
+      "status": "qualified",
+      "verdict": "Owner: enthusiastic positive verdict ('oh yeah, this track is heavy!!!'); accepted as qualifying jungle.",
+      "url": "https://overseen.bandcamp.com/track/cia"
+    },
+    {
+      "label": "self-released",
+      "release": "Wax Thief – Feel Real Good (Wax Thief’s Set Weapon Dub)",
+      "status": "qualified",
+      "verdict": "Owner: around 3:45 it becomes heavily Amen-driven; accepted for the catalogue under the porous jungle boundary. Do not describe the entire track as straight jungle.",
+      "url": "https://waxthief.bandcamp.com/track/feel-real-good-wax-thiefs-set-weapon-dub"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "sc:ssors – singularity [v01d] / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, this goes right in; definite jungle qualification.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "WARPA!NT – Panda / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, it goes well; accepted as qualifying jungle.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: entire release is worthy; promote to release-level qualification.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "sc:ssors – jason / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, sure; it's good. Accepted as qualifying jungle.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "self-released",
+      "release": "Ourobonic Plague – Alien Tongue (Single)",
+      "status": "qualified",
+      "verdict": "Owner: not a floor banger, but jungle nevertheless. Qualify as ambient/drone jungle rather than dancefloor jungle.",
+      "url": "https://ourobonicplague.bandcamp.com/album/alien-tongue-single"
+    },
+    {
+      "label": "self-released",
+      "release": "SIR W4TTS – Polly Waffle",
+      "status": "contextual",
+      "verdict": "Owner: hardly any jungle; insufficient to qualify.",
+      "url": "https://sirw4tts.bandcamp.com/track/polly-waffle"
+    },
+    {
+      "label": "self-released",
+      "release": "Badmd – Swordfish",
+      "status": "qualified",
+      "verdict": "Owner: yes, this is a good track; accepted as qualifying jungle.",
+      "url": "https://badmd.bandcamp.com/track/swordfish"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Feeding Frenzy / Subaquatic EP",
+      "status": "qualified",
+      "verdict": "Owner: yes, this qualifies.",
+      "url": "https://tacticalaspect.bandcamp.com/album/subaquatic-ep"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Subaquatic EP",
+      "status": "qualified",
+      "verdict": "Owner: listened to the full release; Subaquatic EP qualifies as a whole.",
+      "url": "https://tacticalaspect.bandcamp.com/album/subaquatic-ep"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Heavyweight EP",
+      "status": "qualified",
+      "verdict": "Owner: whole release is going in; release-level jungle qualification.",
+      "url": "https://tacticalaspect.bandcamp.com/album/heavyweight-ep"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Lions EP",
+      "status": "qualified",
+      "verdict": "Owner: it's also good; accepted as a qualifying jungle release.",
+      "url": "https://tacticalaspect.bandcamp.com/album/lions-ep"
+    },
+    {
+      "label": "Echo Chamber Sound / Run It Red",
+      "release": "Dizz1 – In The Zone (Midnight Dubs Remix) / In The Zone EP",
+      "status": "qualified",
+      "verdict": "Owner: the Midnight Dubs remix works; accepted as qualifying jungle. The qualifying treatment is the remix, so do not infer Dizz1's original mix independently qualifies from this verdict alone.",
+      "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
+    },
+    {
+      "label": "Echo Chamber Sound / Run It Red",
+      "release": "Dizz1 – In The Zone (Midnight Bass Remix) / In The Zone EP",
+      "status": "qualified",
+      "verdict": "Owner: the Midnight Bass remix of In The Zone works; accepted as qualifying jungle.",
+      "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
     }
   ],
   "artist_provenance": [
@@ -949,9 +1180,9 @@
     },
     {
       "name": "Noneohone",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Accepted material or qualified-label association; independent location unverified."
+      "location": "Naarm / Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Scottish-born Andrew Beveridge, residing in Naarm/Melbourne since early 2016. Existing accepted Australian jungle material plus independently documented Melbourne residence resolves provenance."
     },
     {
       "name": "MOOD$",
@@ -1107,13 +1338,79 @@
       "name": "Hypochondriac / deejaysavethechildren / James Pickering",
       "location": "Australia; Sydney-centered activity",
       "status": "qualified",
-      "notes": "Resident Advisor identifies James Pickering, location Australia, most-played region Sydney. Parramatta Road Freakazoids on Heartcore accepted as jungle; Mixmag independently describes rumpypumpy@thejazzbar as jungle fusion."
+      "notes": "Resident Advisor identifies James Pickering, location Australia, most-played region Sydney. Parramatta Road Freakazoids on Heartcore accepted as jungle; Mixmag independently describes rumpypumpy@thejazzbar as jungle fusion. rumpypumpy@thejazzbar on Womp Krew also accepted by owner as jungle, independently qualifying the Sydney collective/imprint."
     },
     {
       "name": "Critical Thought",
       "location": "Sydney scene activity documented; residence not independently resolved",
       "status": "qualified",
       "notes": "Heartbreak on Heartcore accepted as jungle. Repeated Sydney jungle event activity documented, including Boys Who Cry-linked lineups; do not infer biography beyond that evidence."
+    },
+    {
+      "name": "Awkwerd",
+      "location": "New South Wales, Australia",
+      "status": "qualified",
+      "notes": "Self-released Nu Jungle Volume 1: Life is Roblox / Among Us (2024) accepted enthusiastically by owner as a great jungle release. Later Womp Krew orbit activity is contextual; qualification comes from independently documented NSW provenance plus original jungle production."
+    },
+    {
+      "name": "BREAKBEAT JARROD / Jarrod A. Freeman",
+      "location": "Ballarat, Victoria",
+      "status": "contextual",
+      "notes": "Catalogue mixes jungle and DnB. Owner judged DWN AND OUT more DnB than jungle and NIGHT TRUCKING & JUNGLE VOL1 only kind of jungle; include as a contextual Australian mention, not a clean jungle qualification."
+    },
+    {
+      "name": "Overseen",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "CIA (2024) accepted enthusiastically by owner as qualifying jungle."
+    },
+    {
+      "name": "Wax Thief",
+      "location": "Naarm / Melbourne",
+      "status": "qualified",
+      "notes": "Feel Real Good (Wax Thief’s Set Weapon Dub) accepted because its later section, around 3:45, becomes heavily Amen-driven; qualification is porous/crossover rather than straight-jungle throughout."
+    },
+    {
+      "name": "sc:ssors",
+      "location": "Melbourne / Naarm",
+      "status": "qualified",
+      "notes": "singularity [v01d] on Ghost Dice ROLL X001 accepted by owner as definite jungle."
+    },
+    {
+      "name": "WARPA!NT",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Independently documented as Melbourne-based. Panda on Ghost Dice ROLL X001 accepted by owner as qualifying jungle."
+    },
+    {
+      "name": "Ourobonic Plague",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Alien Tongue accepted by owner as jungle despite being ambient/drone and non-dancefloor in character."
+    },
+    {
+      "name": "SIR W4TTS / Marshall Gray",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Polly Waffle contains only minimal jungle elements according to owner; insufficient for qualification."
+    },
+    {
+      "name": "Badmd",
+      "location": "South Australia",
+      "status": "qualified",
+      "notes": "Swordfish (2024) accepted by owner as qualifying jungle."
+    },
+    {
+      "name": "Tactical Aspect",
+      "location": "Sydney, Australia",
+      "status": "qualified",
+      "notes": "Sydney jungle/DnB duo Ruff Tactics & DJ Speaks. Subaquatic EP, Heavyweight EP and Lions EP all accepted by owner as qualifying; catalogue-level jungle identity is established and no further release-by-release checking is needed."
+    },
+    {
+      "name": "Dizz1",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne-based producer. In The Zone - Midnight Dubs Remix on In The Zone EP (2023) accepted by owner as qualifying jungle, but the qualifying jungle treatment is a remix; Dizz1's own original jungle production remains unverified by owner listening."
     }
   ],
   "open_tasks": [

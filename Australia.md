@@ -121,6 +121,24 @@ Music For Change is not exclusively a jungle label, but the catalogue contains r
 
 HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogue supports it. *Jungle Technahh*, *Rave Stab*, *Junglist Selecta* and *Rasta Drive Home* all passed listening; some of the surrounding material pushes toward breakcore without erasing the core jungle line.
 
+#### BOYSWHOCRY — Sydney / Eora
+
+**Role:** Qualifying local junglist collective/imprint
+
+BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* (2024), which the owner accepted as a **qualifying jungle release in full**. Individual highlights already called out include **Recoil – *Crazy Ivan***, accepted as definitely jungle, and **Arsonist & 4M4Eddy – *Souljah’s Parade***, praised enthusiastically. The collective presents itself as part of a contemporary Eora/Sydney junglist network; artist provenance should still be resolved independently rather than inherited from the compilation. **STTRUKII – *PROJECT X*** was checked separately and rejected by the owner as jungle.
+
+#### Ghost Dice — Melbourne / Naarm
+
+**Role:** Qualifying jungle / drumfunk-adjacent Melbourne label
+
+Ghost Dice qualifies strongly through **WARPA!NT / sc:ssors – *ROLL X001*** (2026), which the owner accepted as a **worthy qualifying release in full**. Individual highlights already accepted include **sc:ssors – *singularity [v01d]***, **sc:ssors – *jason***, and **WARPA!NT – *Panda***. WARPA!NT is independently documented as Melbourne-based, so *Panda* also qualifies the artist directly rather than via label geography. **sc:ssors – *jason*** from the same release was also accepted by the owner as qualifying.
+
+#### Tactical Aspect — Sydney
+
+**Role:** Qualifying jungle/DnB production duo
+
+Tactical Aspect, the Sydney duo of **Ruff Tactics & DJ Speaks**, qualifies strongly through **_Subaquatic EP_** (2015), which the owner listened to in full and accepted as a **qualifying jungle release as a whole**. *Feeding Frenzy* remains an individual highlight already accepted earlier. **_Heavyweight EP_** (2015) was subsequently listened to and also accepted by the owner as a qualifying release in full. **_Lions EP_** (2015) was also accepted by the owner as qualifying. These three accepted releases establish Tactical Aspect clearly as jungle; **no further release-by-release checking is needed** unless a specific historical question arises.
+
 #### Heartcore — Sydney
 
 **Documented activity:** 2024–present  
@@ -128,7 +146,16 @@ HOTEL 84 self-identifies as a Sydney breakbeat/jungle producer, and the catalogu
 
 Heartcore's *HTCR001* documents a Sydney/Canberra-connected breakbeat and jungle network. Two tracks have passed the owner's listening test: **Critical Thought – *Heartbreak***, described by the owner as effectively a re-orchestration of *Amen Brother* but nonetheless genuinely jungle, and **Hypochondriac (FKA deejaysavethechildren) – *Parramatta Road Freakazoids***, also accepted as jungle.
 
-Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence.
+Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence. **Meat Conglomerate – *My Best Friend*** from *HTCR001* was checked and emphatically rejected by the owner as jungle.
+
+#### Womp Krew — Sydney
+
+**Documented activity:** 2023–present  
+**Role:** Qualifying Sydney bass collective/imprint
+
+Womp Krew is independently documented as a Sydney collective and release platform. **DEEJAYSAVETHECHILDREN – *rumpypumpy@thejazzbar*** was accepted by the owner as jungle; Mixmag independently described the Australian producer's track as fusing jazz with jungle. This gives Womp Krew direct qualifying release evidence rather than only event or DJ-context evidence.
+
+The wider catalogue spans dubstep, garage, drum & bass and other bass music, so artist and release qualification must remain track-specific. **Run.Prowler – *INTAMEEN*** was checked and rejected by the owner as jungle. **Gowchii – *Megaraptor EP*** was also checked: worth noting as adjacent/contextual material, but the owner did not consider the release genuinely jungle. Womp Krew should therefore be described as a qualifying multi-genre bass collective with some jungle, not as a dedicated jungle label. **SHÜFLA – *Jungle Funk*** was also checked and rejected by the owner as DnB rather than jungle. The wider Womp Krew network also surfaces **Awkwerd**, an independently documented New South Wales producer; his self-released *Nu Jungle Volume 1: Life is Roblox / Among Us* (2024) was accepted by the owner as a strong jungle release. This qualifies Awkwerd directly as an Australian artist, while the release itself remains self-released rather than Womp Krew catalogue evidence.
 
 #### Big Ting Recordings
 
@@ -198,6 +225,10 @@ Pugilist is a Scottish/Kiwi producer operating from Melbourne. His qualifying ju
 *Waveforms 19–20* is the strongest entry found so far: both tracks use mid-1990s break architecture, with *Waveform 20* providing a direct Amen workout. *Onyx* is another major result. The Pugilist & Tamen *Source* EP supplies a further jungle lane. *Looking Out* is good but sits slightly outside jungle.
 
 Ruff Kutz is presented as cross-border release infrastructure, not reassigned to Australia merely because it releases Pugilist.
+
+#### Dizz1 — Melbourne
+
+**Dizz1 – *In The Zone (Midnight Dubs Remix)*** on *In The Zone EP* (2023, Echo Chamber Sound) was accepted by the owner as qualifying jungle. Dizz1 is independently documented as Melbourne-based.
 
 #### Detrimental Audio
 
@@ -429,7 +460,15 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/)
 - [Tokyo Noir – The Feelin' / Keep the Vibes Alive](https://innariddim.bandcamp.com/album/the-feelin-keep-the-vibes-alive)
 - [Inna Riddim catalogue](https://innariddim.bandcamp.com/music)
+- [BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems](https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems)
+- [Recoil – Crazy Ivan](https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan)
+- [Ghost Dice – ROLL X001](https://ghostdice.bandcamp.com/album/roll-x001)
+- [Tactical Aspect – Subaquatic EP](https://tacticalaspect.bandcamp.com/album/subaquatic-ep)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
+- [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
+- [Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us](https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us)
+- [Mixmag – DEEJAYSAVETHECHILDREN, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
+- [Resident Advisor – Chinese Laundry Invites WOMP KREW, Sydney](https://ra.co/events/2278260)
 - [Resident Advisor – Critical Thought at Sknkn Syndkt Vol III, Sydney](https://ra.co/events/2149834)
 - [Resident Advisor – deejaysavethechildren artist profile](https://ra.co/dj/deejaysavethechildren)
 - [Mixmag – deejaysavethechildren, rumpypumpy@thejazzbar](https://mixmag.net/feature/the-best-tracks-of-the-year-2023-so-far-august)
@@ -521,6 +560,42 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 - [ZZAAPP – SEVENS 01](https://zzaapp.bandcamp.com/album/tell-dem-zzaapp-sevens-01)
 - [Laptop Destroyer – ZZAAPP Beats Vol. 2](https://zzaapp.bandcamp.com/album/zzaapp-beats-vol-2)
+
+### Prefix — Sydney / Eora
+
+ch40 & Ugo's *Drum Embrace* (2025) was checked in full. The owner found jungle-adjacent IDM and DnB elements, but not enough to classify the release as jungle. Keep Prefix as contextual rather than qualifying.
+
+### BREAKBEAT JARROD — Ballarat, Victoria
+
+Jarrod A. Freeman / BREAKBEAT JARROD has independently documented Ballarat provenance and works across jungle/DnB. *DWN AND OUT* (2026) was judged more DnB than jungle, while *NIGHT TRUCKING & JUNGLE VOL1* was judged only partly jungle within a broader mixture. Keep him as a **contextual Australian mention**, not a clean jungle qualification.
+
+### Burna — Perth / Boorloo
+
+Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and related bass styles. **codename & Burna – *Marching Orders*** from *Syanptic Pressure* was checked and rejected by the owner as jungle. Keep Burna contextual unless a stronger original jungle production is identified.
+
+### Overseen — Melbourne
+
+**Overseen – *CIA*** (2024) was accepted enthusiastically by the owner as qualifying jungle. The artist's Melbourne provenance is independently documented, making this a direct Australian artist qualification rather than label-derived geography.
+
+### Wax Thief — Naarm / Melbourne
+
+**Wax Thief – *Feel Real Good (Wax Thief’s Set Weapon Dub)*** (2024) qualifies under the project's porous boundary. The owner noted that around **3:45** the track becomes heavily Amen-driven; preserve that nuance rather than describing the entire edit as straight jungle.
+
+### Ourobonic Plague — Melbourne
+
+**Ourobonic Plague – *Alien Tongue*** (2026) qualifies as jungle. The owner explicitly noted that it is **not a floor banger**, but is jungle nevertheless; preserve it as an ambient/drone jungle example rather than recasting it as dancefloor material.
+
+### SIR W4TTS — Melbourne
+
+*SIR W4TTS – Polly Waffle* (2025) was checked and judged by the owner as containing **hardly any jungle**. Keep the artist contextual rather than qualifying from this track.
+
+### Badmd — South Australia
+
+**Badmd – *Swordfish*** (2024) was accepted by the owner as a good qualifying jungle track. This provides a direct South Australian artist entry.
+
+### Dizz1 — Melbourne
+
+Dizz1 is independently documented as a Melbourne-based producer. On *In The Zone EP* (2023), the owner accepted **_In The Zone (Midnight Dubs Remix)_** as qualifying jungle. Because the qualifying version is a remix, keep Dizz1 himself contextual until an original Dizz1 production passes the owner's listening test.
 
 ### Context and deferred listening
 
