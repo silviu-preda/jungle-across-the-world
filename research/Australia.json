@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-30",
+  "revision": "2026-10-27-au-31",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1030,6 +1030,13 @@
       "status": "contextual",
       "verdict": "Owner: hardly any jungle; insufficient to qualify.",
       "url": "https://sirw4tts.bandcamp.com/track/polly-waffle"
+    },
+    {
+      "label": "self-released",
+      "release": "Badmd – Swordfish",
+      "status": "qualified",
+      "verdict": "Owner: yes, this is a good track; accepted as qualifying jungle.",
+      "url": "https://badmd.bandcamp.com/track/swordfish"
     }
   ],
   "artist_provenance": [
@@ -1344,6 +1351,12 @@
       "location": "Melbourne, Australia",
       "status": "contextual",
       "notes": "Polly Waffle contains only minimal jungle elements according to owner; insufficient for qualification."
+    },
+    {
+      "name": "Badmd",
+      "location": "South Australia",
+      "status": "qualified",
+      "notes": "Swordfish (2024) accepted by owner as qualifying jungle."
     }
   ],
   "open_tasks": [
