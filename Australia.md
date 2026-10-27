@@ -574,6 +574,10 @@ Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and
 
 **Ourobonic Plague – *Alien Tongue*** (2026) qualifies as jungle. The owner explicitly noted that it is **not a floor banger**, but is jungle nevertheless; preserve it as an ambient/drone jungle example rather than recasting it as dancefloor material.
 
+### SIR W4TTS — Melbourne
+
+*SIR W4TTS – Polly Waffle* (2025) was checked and judged by the owner as containing **hardly any jungle**. Keep the artist contextual rather than qualifying from this track.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
