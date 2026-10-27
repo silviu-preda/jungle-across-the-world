@@ -226,6 +226,10 @@ Pugilist is a Scottish/Kiwi producer operating from Melbourne. His qualifying ju
 
 Ruff Kutz is presented as cross-border release infrastructure, not reassigned to Australia merely because it releases Pugilist.
 
+#### Dizz1 — Melbourne
+
+**Dizz1 – *In The Zone (Midnight Bass Remix)*** on *In The Zone EP* (2023, Echo Chamber Sound) was accepted by the owner as qualifying jungle. Dizz1 is independently documented as Melbourne-based.
+
 #### Detrimental Audio
 
 **Relevant activity:** 2010s–present  
