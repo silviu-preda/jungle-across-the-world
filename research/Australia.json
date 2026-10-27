@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-33",
+  "revision": "2026-10-27-au-34",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1051,6 +1051,13 @@
       "status": "qualified",
       "verdict": "Owner: listened to the full release; Subaquatic EP qualifies as a whole.",
       "url": "https://tacticalaspect.bandcamp.com/album/subaquatic-ep"
+    },
+    {
+      "label": "self-released / Tactical Aspect",
+      "release": "Tactical Aspect – Heavyweight EP",
+      "status": "qualified",
+      "verdict": "Owner: whole release is going in; release-level jungle qualification.",
+      "url": "https://tacticalaspect.bandcamp.com/album/heavyweight-ep"
     }
   ],
   "artist_provenance": [
