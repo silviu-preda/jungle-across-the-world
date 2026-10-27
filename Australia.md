@@ -133,6 +133,12 @@ BOYSWHOCRY qualifies strongly through *Breakout Blowout Summer Pop Jam Anthems* 
 
 Ghost Dice qualifies strongly through **WARPA!NT / sc:ssors – *ROLL X001*** (2026), which the owner accepted as a **worthy qualifying release in full**. Individual highlights already accepted include **sc:ssors – *singularity [v01d]***, **sc:ssors – *jason***, and **WARPA!NT – *Panda***. WARPA!NT is independently documented as Melbourne-based, so *Panda* also qualifies the artist directly rather than via label geography. **sc:ssors – *jason*** from the same release was also accepted by the owner as qualifying.
 
+#### Tactical Aspect — Sydney
+
+**Role:** Qualifying jungle/DnB production duo
+
+Tactical Aspect, the Sydney duo of **Ruff Tactics & DJ Speaks**, qualifies through **_Feeding Frenzy_** on *Subaquatic EP* (2015), accepted by the owner as jungle.
+
 #### Heartcore — Sydney
 
 **Documented activity:** 2024–present  
@@ -453,6 +459,7 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 - [BOYSWHOCRY – Breakout Blowout Summer Pop Jam Anthems](https://boyswhocrytilidie.bandcamp.com/album/breakout-blowout-summer-pop-jam-anthems)
 - [Recoil – Crazy Ivan](https://boyswhocrytilidie.bandcamp.com/track/crazy-ivan)
 - [Ghost Dice – ROLL X001](https://ghostdice.bandcamp.com/album/roll-x001)
+- [Tactical Aspect – Subaquatic EP](https://tacticalaspect.bandcamp.com/album/subaquatic-ep)
 - [Heartcore – HTCR001](https://heartcoreheartcoreheartcore.bandcamp.com/album/htcr001)
 - [Womp Krew – Bandcamp](https://wompkrew.bandcamp.com/)
 - [Awkwerd – Nu Jungle Volume 1: Life is Roblox / Among Us](https://awkwerd.bandcamp.com/album/nu-jungle-volume-1-life-is-roblox-among-us)
