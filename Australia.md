@@ -589,6 +589,10 @@ Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and
 
 **Badmd – *Swordfish*** (2024) was accepted by the owner as a good qualifying jungle track. This provides a direct South Australian artist entry.
 
+### Dizz1 — Melbourne
+
+Dizz1 is independently documented as a Melbourne-based producer. On *In The Zone EP* (2023), the owner accepted **_In The Zone (Midnight Dubs Remix)_** as qualifying jungle. Because the qualifying version is a remix, keep Dizz1 himself contextual until an original Dizz1 production passes the owner's listening test.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
