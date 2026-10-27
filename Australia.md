@@ -570,6 +570,10 @@ Burna is a Perth producer/DJ working across hard drum, grime, techno, jungle and
 
 **Wax Thief – *Feel Real Good (Wax Thief’s Set Weapon Dub)*** (2024) qualifies under the project's porous boundary. The owner noted that around **3:45** the track becomes heavily Amen-driven; preserve that nuance rather than describing the entire edit as straight jungle.
 
+### Ourobonic Plague — Melbourne
+
+**Ourobonic Plague – *Alien Tongue*** (2026) qualifies as jungle. The owner explicitly noted that it is **not a floor banger**, but is jungle nevertheless; preserve it as an ambient/drone jungle example rather than recasting it as dancefloor material.
+
 ### Context and deferred listening
 
 - [JM Records – Jimi E, Universal Love](https://jmrecords.bandcamp.com/album/jmr001)
