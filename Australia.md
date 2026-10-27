@@ -228,7 +228,7 @@ Ruff Kutz is presented as cross-border release infrastructure, not reassigned to
 
 #### Dizz1 — Melbourne
 
-**Dizz1 – *In The Zone (Midnight Bass Remix)*** on *In The Zone EP* (2023, Echo Chamber Sound) was accepted by the owner as qualifying jungle. Dizz1 is independently documented as Melbourne-based.
+**Dizz1 – *In The Zone (Midnight Dubs Remix)*** on *In The Zone EP* (2023, Echo Chamber Sound) was accepted by the owner as qualifying jungle. Dizz1 is independently documented as Melbourne-based.
 
 #### Detrimental Audio
 
