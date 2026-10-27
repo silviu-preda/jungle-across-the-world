@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-26-au-26",
+  "revision": "2026-10-27-au-28",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -396,7 +396,7 @@
       "name": "Ghost Dice",
       "city": "Melbourne / Naarm",
       "status": "qualified",
-      "detail": "Melbourne label qualifies through sc:ssors – singularity [v01d] on ROLL X001 (2026), accepted by owner as jungle.",
+      "detail": "Melbourne/Naarm label strongly qualifies through WARPA!NT / sc:ssors – ROLL X001 (2026), accepted by owner as a worthy release in full. Individual highlights include sc:ssors – singularity [v01d], sc:ssors – jason, and WARPA!NT – Panda.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
@@ -1001,6 +1001,20 @@
       "release": "WARPA!NT – Panda / WARPA!NT / sc:ssors – ROLL X001",
       "status": "qualified",
       "verdict": "Owner: yes, it goes well; accepted as qualifying jungle.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: entire release is worthy; promote to release-level qualification.",
+      "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "label": "Ghost Dice",
+      "release": "sc:ssors – jason / WARPA!NT / sc:ssors – ROLL X001",
+      "status": "qualified",
+      "verdict": "Owner: yes, sure; it's good. Accepted as qualifying jungle.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
     }
   ],
