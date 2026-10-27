@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-36",
+  "revision": "2026-10-27-au-37",
   "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1065,6 +1065,13 @@
       "status": "qualified",
       "verdict": "Owner: it's also good; accepted as a qualifying jungle release.",
       "url": "https://tacticalaspect.bandcamp.com/album/lions-ep"
+    },
+    {
+      "label": "Echo Chamber Sound / Run It Red",
+      "release": "Dizz1 – In The Zone (Midnight Dubs Remix) / In The Zone EP",
+      "status": "qualified",
+      "verdict": "Owner: the Midnight Dubs remix works; accepted as qualifying jungle. Do not infer that Dizz1's original production is independently qualified solely from this remix.",
+      "url": "https://echochambersound.bandcamp.com/track/in-the-zone-midnight-dubs-remix"
     }
   ],
   "artist_provenance": [
@@ -1391,6 +1398,12 @@
       "location": "Sydney, Australia",
       "status": "qualified",
       "notes": "Sydney jungle/DnB duo Ruff Tactics & DJ Speaks. Subaquatic EP, Heavyweight EP and Lions EP all accepted by owner as qualifying; catalogue-level jungle identity is established and no further release-by-release checking is needed."
+    },
+    {
+      "name": "Dizz1",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne-based producer. In The Zone (Midnight Dubs Remix) accepted by owner as qualifying jungle, but the qualifying jungle treatment is a remix; Dizz1's own original jungle production remains unverified by owner listening."
     }
   ],
   "open_tasks": [
