@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-28-au-38",
+  "revision": "2026-10-28-au-39",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -256,8 +256,8 @@
     {
       "name": "Anomaly Digital",
       "city": "Australia",
-      "status": "contextual",
-      "detail": "Reviewed catalogue less junglist than tags suggest.",
+      "status": "qualified",
+      "detail": "Australian future-jungle/J-Tek and hardcore-breaks label; the owner's accepted verdict on Time Travel's 'Back to 94' remix of 'Reflection' (ANM016) establishes a qualifying jungle connection. Verdict applies to that remix only.",
       "url": "https://anomalydigital.bandcamp.com/"
     },
     {
@@ -1107,6 +1107,12 @@
       "status": "excluded",
       "verdict": "Owner: not jungle.",
       "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Anomaly Digital",
+      "release": "ANM016: Kranky & Lethal - Reflection (The Remixes)",
+      "status": "qualified",
+      "verdict": "Owner: Time Travel's 'Back to 94' remix of 'Reflection' is jungle. This verdict applies to that remix only."
     }
   ],
   "artist_provenance": [
