@@ -394,6 +394,10 @@ Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's 
 
 *FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. The transcript recovers sn33ze's *WAITING 4 U* as borderline/junglish, not a firm jungle cut. North Queensland producer and DJ **Nate Swan**, previously connected with Brisbane, released *The Year My Voice Broke* on Foreign Frequencies on 13 May 2022. Track 7, *Exclusive DJ Nate Swan Mix (physical only)*, is a two-minute digital preview of the cassette's exclusive 40-minute B-side DJ mix. The owner accepted the mix as jungle. This establishes a documented Australian jungle selector/scene connection, **not** a qualifying original jungle production by Nate Swan. His credited original work, including *Initiate / No Contact* with Lithe, has no recovered qualifying listening verdict; do not promote him as a qualifying jungle producer without one.
 
+#### Anomaly Digital — Australia
+
+Anomaly's broad catalogue spans future jungle, J-Tek and hardcore breaks. The owner's verdict accepts **Time Travel's *Back to 94* remix of *Reflection*** on *ANM016: Reflection (The Remixes)* as jungle, establishing a qualifying Australian-label connection. This verdict applies to that remix only; do not infer it for the original or other remixes. Time Travel is separately allocated to Melbourne.
+
 ### Direct Australian artist outside a resolved label cluster
 
 #### 12bit Jungle Out There
@@ -411,7 +415,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 
 - **8-Bit Recordings — Perth:** primarily breakcore, glitch, IDM and noise. Holt's *Nocturne* is the likeliest qualifying track found so far, while Deadcode's *The Dirty Truth* contains worthwhile chopped-break material. Retain as a contextual label mention.
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
-- **Anomaly Digital:** a future-jungle/hardcore-breaks label whose catalogue proved less decisive than its descriptions. Kranky & Lethal were too tangential; the Time Travel connection warrants only supporting context.
+
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
@@ -603,7 +607,8 @@ Dizz1 is independently documented as a Melbourne-based producer. On *In The Zone
 - [ILIO Records – Marli, Mood Independent](https://iliorecords.bandcamp.com/album/marli-mood-independent)
 - [New Forms – Perth Halftime Compilation Vol. 2](https://thosenewforms.bandcamp.com/album/perth-halftime-compilation-vol-2)
 - [DEHNOE – CLOWNING AROUND (LUNCH Records)](https://dehnoe.bandcamp.com/album/clowning-around)
-- [Anomaly Digital catalogue](https://anomalydigital.bandcamp.com/)
+- [Anomaly Digital — ANM016: Reflection (The Remixes)](https://anomalydigital.bandcamp.com/album/anm016-kranky-lethal-reflection-the-remixes)
+- [Future Jungle archive, October 2012](https://futurejungle.blogspot.com/2012/10/)
 - [Golden Orb Records catalogue](https://goldenorbrecords.bandcamp.com/music)
 - [Golden Orb Records profile](https://soundcloud.com/goldenorbrecords)
 - [Shebuzzz biography](https://diametralrecords.bandcamp.com/album/shebuzzz-encrypted-music-source)
