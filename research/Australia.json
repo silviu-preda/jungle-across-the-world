@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-37",
-  "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
+  "revision": "2026-10-28-au-38",
+  "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -398,6 +398,13 @@
       "status": "qualified",
       "detail": "Melbourne/Naarm label strongly qualifies through WARPA!NT / sc:ssors – ROLL X001 (2026), accepted by owner as a worthy release in full. Individual highlights include sc:ssors – singularity [v01d], sc:ssors – jason, and WARPA!NT – Panda.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "name": "Finespun Recordings",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Finespun Recordings is independently identified as Sydney-based on its Bandcamp profile. Finespun 002 was checked through three candidate cuts: the owner rejected Myledo – 10120, Knuckle – Spirax and Splitch – Tangerine as jungle. No qualifying evidence is established yet; retain the label as contextual.",
+      "url": "https://finespunrecordings.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1079,6 +1086,27 @@
       "status": "qualified",
       "verdict": "Owner: the Midnight Bass remix of In The Zone works; accepted as qualifying jungle.",
       "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Myledo – 10120 / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Knuckle – Spirax / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Splitch – Tangerine / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
     }
   ],
   "artist_provenance": [
@@ -1198,9 +1226,9 @@
     },
     {
       "name": "Knuckle",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Accepted material or qualified-label association; independent location unverified."
+      "location": "Australia (city unverified)",
+      "status": "qualified",
+      "notes": "UK Bass Music's 2021 Finespun 002 feature calls Knuckle one of the compilation's home-grown Australian producers; no city identified. Accepted jungle tracks remain Manifold and Trick. Source: https://ukbassmusic.com/akul-listen-up-finespun-records-ukbm-premiere/"
     },
     {
       "name": "Myledo",
@@ -1414,7 +1442,7 @@
     }
   ],
   "open_tasks": [
-    "Determine independent locations for remaining B&H and Extra Spicy contributors (Myledo and nickname resolved).",
+    "Determine independent city-level locations for remaining B&H and Extra Spicy contributors; Knuckle now has Australia-level provenance (city unverified), while Myledo and nickname are resolved.",
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
     "Establish Dark Matter Project chronology for Australia vs Chile.",
@@ -1422,6 +1450,7 @@
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
-    "Heartcore: no further roster listening required unless a new specific production lead emerges."
+    "Heartcore: no further roster listening required unless a new specific production lead emerges.",
+    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found."
   ]
 }
