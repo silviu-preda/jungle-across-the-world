@@ -364,7 +364,7 @@ Small Perth artist-run imprint associated with **Jimi E**, who identifies as a l
 
 #### B&H Records — Australia (city unresolved)
 
-B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Their individual country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
+B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Knuckle is independently described as a home-grown Australian producer by [UK Bass Music](https://ukbassmusic.com/akul-listen-up-finespun-records-ukbm-premiere/); no city is identified. Other contributors' country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
 
 #### Hypoxia Records — Gold Coast
 
@@ -432,8 +432,8 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
-- **B&H artist provenance:** label resolved as Australian; individual allocation still open for Noneohone, MOOD$, SAV/Blank and Knuckle. nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
-- **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Artist provenance remains open.
+- **B&H artist provenance:** label resolved as Australian; individual allocation remains open for Noneohone, MOOD$ and SAV/Blank. Knuckle is independently described as a home-grown Australian producer, though the city is unverified; nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
+- **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Knuckle's Australian country allocation is now independently supported; Oi Ocha's remains open.
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
