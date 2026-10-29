@@ -63,7 +63,7 @@ Big Mountain Sound describes itself as a collective of producers, DJs and musici
 **Relevant activity:** 2021–2026 (documented releases)  
 **Role:** Qualifying multi-genre label, established in Bristol and now based in Sydney
 
-Banana Bombs qualifies through three owner-accepted jungle treatments: *Healing* (2026), *Drip (Chris Munky & Operon Remix)* (2022), and Gold Dubs' remix of *Policeman* (2021). The label's wider catalogue ranges across bass music, reggae and DnB: *Junglist Tonight* was judged not quite jungle, while *Try Test (Instrumental Jungle Mix)* and the *Tenement Yard* bootleg were judged too DnB-heavy.
+Banana Bombs qualifies through owner-accepted jungle treatments including *Healing* and *Satisfy* (2026), *Who R U?* (BBR009, 2023), *Drip (Chris Munky & Operon Remix)* (2022), and Gold Dubs' remix of *Policeman* (2021). The wider catalogue ranges across bass music, reggae and DnB: *Junglist Tonight* and *Bluenotes* were judged contextual; *Sine* was described as an interesting jungle–dubwise crossover without a firm qualification; *Gully (Dancehall Dubplate)*, *Urbia* and *Try Test (Instrumental Jungle Mix)* were rejected as jungle, with *Try Test* judged too DnB-heavy; the *Tenement Yard* bootleg was also judged DnB rather than jungle.
 
 **Qualifying Australian artists**
 
