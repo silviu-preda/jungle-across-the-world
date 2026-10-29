@@ -417,7 +417,7 @@
       "name": "Banana Bombs Records",
       "city": "Sydney",
       "status": "qualified",
-      "detail": "Established in Bristol and now based in Sydney. Qualifies through owner-accepted jungle treatments Healing and Satisfy (2026), Who R U? (BBR009, 2023), Drip (Chris Munky & Operon Remix, 2022), and Policeman (Gold Dubs Remix, 2021). Junglist Tonight and Bluenotes were contextual; Sine was noted as an interesting jungle–dubwise crossover without a firm qualify verdict; Sounds Iller has a similar character with less emphasis on the beat and received a note only. Gully (Dancehall Dubplate), Urbia, Try Test (Instrumental Jungle Mix), and the Tenement Yard bootleg were rejected as jungle. Chris Munky is Sydney-based and Operon Brisbane-based; their collaborations provide local Australian artist evidence. Policeman qualifies only through Gold Dubs' remix, not the original reggae mix. The Drip verdict applies to the remix, not an inferred jungle production by Friendless or Jannah Beth.",
+      "detail": "Established in Bristol and now based in Sydney. Qualifies through owner-accepted jungle treatments Healing and Satisfy (2026), Who R U? (BBR009, 2023), Drip (Chris Munky & Operon Remix, 2022), and Policeman (Gold Dubs Remix, 2021). Junglist Tonight and Bluenotes were contextual; Sine was noted as an interesting jungle–dubwise crossover without a firm qualify verdict; Sounds Iller has a similar character with less emphasis on the beat and received a note only. Gully (Dancehall Dubplate), Urbia, Let's Be Vigilantes (BBR001), Try Test (Instrumental Jungle Mix), and the Tenement Yard bootleg were rejected as jungle. Chris Munky is Sydney-based and Operon Brisbane-based; their collaborations provide local Australian artist evidence. Policeman qualifies only through Gold Dubs' remix, not the original reggae mix. The Drip verdict applies to the remix, not an inferred jungle production by Friendless or Jannah Beth.",
       "url": "https://bananabombsrecords.bandcamp.com/"
     }
   ],
@@ -1232,6 +1232,13 @@
       "status": "contextual",
       "verdict": "Owner: same general jungle/dubwise character as Sine, but the accent is not on the beat; add a note only, not a jungle qualification.",
       "url": "https://bananabombsrecords.bandcamp.com/track/sounds-iller-bbr002"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Chris Munky – Let's Be Vigilantes [BBR001]",
+      "status": "excluded",
+      "verdict": "Owner: not jungle; release was wrongly labelled for this exploration.",
+      "url": "https://bananabombsrecords.bandcamp.com/album/lets-be-vigilantes-bbr001"
     }
   ],
   "artist_provenance": [
