@@ -58,6 +58,20 @@ Archived forums, surviving tape uploads and old tracklists are particularly impo
 
 Big Mountain Sound describes itself as a collective of producers, DJs and musicians from Sydney and Canberra, spanning dub, techno, breaks and bass music. **Yusetsu** (credited as T. Woolmer; identified by the label with Sydney's Inner West) qualifies through *Lodestone Resonator* (18 March 2016). The owner accepted it as breakbeat-led music with substantial heavy Amen chopping under the project's porous jungle boundary, not straightforward jungle. The rest of the small label catalogue was checked and supplied no further qualifying track; Ghostknyfe, Bloom Sydney and Ohmage remain roster context only.
 
+#### Banana Bombs Records — Sydney
+
+**Relevant activity:** 2021–2026 (documented releases)  
+**Role:** Qualifying multi-genre label, established in Bristol and now based in Sydney
+
+Banana Bombs qualifies through three owner-accepted jungle treatments: *Healing* (2026), *Drip (Chris Munky & Operon Remix)* (2022), and Gold Dubs' remix of *Policeman* (2021). The label's wider catalogue ranges across bass music, reggae and DnB: *Junglist Tonight* was judged not quite jungle, while *Try Test (Instrumental Jungle Mix)* and the *Tenement Yard* bootleg were judged too DnB-heavy.
+
+**Qualifying Australian artists**
+
+- **Chris Munky** — Sydney-based producer; *Healing* and the *Drip* remix were accepted.
+- **Operon** — Brisbane-based producer; co-produced both accepted tracks with Chris Munky.
+
+The *Policeman* verdict applies specifically to Gold Dubs' remix, not Chris Munky and Berise's original reggae mix. The label identifies Gold Dubs as a UK jungle producer; this is cross-border catalogue evidence, not an Australian-scene allocation. Likewise, the *Drip* verdict applies to Chris Munky and Operon's remix; it does not by itself establish Friendless or Jannah Beth as jungle producers.
+
 #### OTIS Records / Outer Time Inner Space
 
 **Relevant activity:** 2015–present  
@@ -416,6 +430,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **8-Bit Recordings — Perth:** primarily breakcore, glitch, IDM and noise. Holt's *Nocturne* is the likeliest qualifying track found so far, while Deadcode's *The Dirty Truth* contains worthwhile chopped-break material. Retain as a contextual label mention.
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
 
+- **SubSine Records — Melbourne:** a DnB label retained as contextual after the owner judged *Narks – Acidic (Jinx Remix)* worth mentioning but not jungle per se, and *Esym – Lost Within (Future Engineers Remix)* generic repetitive DnB. No qualifying jungle evidence is established by these listens.
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
@@ -458,6 +473,17 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Sydney
 
+- [Banana Bombs Records catalogue](https://bananabombsrecords.bandcamp.com/)
+- [Banana Bombs – Junglist Tonight (BBR012)](https://bananabombsrecords.bandcamp.com/album/junglist-tonight-bbr012)
+- [Banana Bombs – Try Test (BBR010)](https://bananabombsrecords.bandcamp.com/album/try-test-bbr010)
+- [Banana Bombs – Tenement Yard bootleg](https://bananabombsrecords.bandcamp.com/track/jacob-miller-tenement-yard-chris-munky-operon-bootleg)
+- [Chris Munky, Operon & JMan – Healing / Satisfy](https://chrismunky.bandcamp.com/album/healing-satisfy-bbr014)
+- [Friendless & Jannah Beth – Drip (Chris Munky & Operon Remix)](https://bananabombsrecords.bandcamp.com/track/friendless-jannah-beth-drip-chris-munky-operon-remix)
+- [Chris Munky ft. Berise – Policeman (Gold Dubs Remix)](https://chrismunky.bandcamp.com/track/policeman-ft-berise-gold-dubs-remix)
+- [Chris Munky – Sydney artist profile](https://chrismunky.bandcamp.com/)
+- [Operon – Brisbane artist profile](https://operondnb.bandcamp.com/)
+- [Friendless & Jannah Beth – DRIP feature (The AU Review)](https://www.theaureview.com/music/exclusive-single-premiere-friendless-ft-jannah-beth-drip-2021/)
+- [Jannah Beth – triple j Unearthed profile](https://www.abc.net.au/triplejunearthed/artist/jannah-beth)
 - [Big Mountain Sound – Yusetsu, Lodestone Resonator](https://bigmountainsound.bandcamp.com/track/lodestone-resonator)
 - [DJ Popeye – JMA Vol. II (1996)](https://soundcloud.com/djrikochet/dj-popeye-jma-vol-ii-1996-side-a-dat-recording?in=djrikochet%2Fsets%2Fpopeye-series)
 - [DJ Speaks / JMA historical discussion (Dogsonacid)](https://www.dogsonacid.com/threads/jungletrain-net-promomix-march-2012-by-dj-speaks.733372/)
@@ -500,6 +526,8 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Melbourne
 
+- [SubSine Records – Narks, Acidic (Jinx Remix)](https://subsinerecords.bandcamp.com/track/narks-acidic-jinx-remix)
+- [SubSine Records – Esym, Lost Within (Future Engineers Remix)](https://subsinerecords.bandcamp.com/track/lost-within-future-engineers-remix)
 - [Flatlife Records Australia catalogue](https://flatliferecordsaustralia.bandcamp.com/music)
 - [RBI – Disseminate](https://djrbi.bandcamp.com/album/disseminate)
 - [Bitwise catalogue](https://bitwisemusic.bandcamp.com/)
