@@ -58,6 +58,20 @@ Archived forums, surviving tape uploads and old tracklists are particularly impo
 
 Big Mountain Sound describes itself as a collective of producers, DJs and musicians from Sydney and Canberra, spanning dub, techno, breaks and bass music. **Yusetsu** (credited as T. Woolmer; identified by the label with Sydney's Inner West) qualifies through *Lodestone Resonator* (18 March 2016). The owner accepted it as breakbeat-led music with substantial heavy Amen chopping under the project's porous jungle boundary, not straightforward jungle. The rest of the small label catalogue was checked and supplied no further qualifying track; Ghostknyfe, Bloom Sydney and Ohmage remain roster context only.
 
+#### Banana Bombs Records — Sydney
+
+**Relevant activity:** 2021–2026 (documented releases)  
+**Role:** Qualifying multi-genre label, established in Bristol and now based in Sydney
+
+Banana Bombs qualifies through three owner-accepted jungle treatments: *Healing* (2026), *Drip (Chris Munky & Operon Remix)* (2022), and Gold Dubs' remix of *Policeman* (2021). The label's wider catalogue ranges across bass music, reggae and DnB: *Junglist Tonight* was judged not quite jungle, while *Try Test (Instrumental Jungle Mix)* and the *Tenement Yard* bootleg were judged too DnB-heavy.
+
+**Qualifying Australian artists**
+
+- **Chris Munky** — Sydney-based producer; *Healing* and the *Drip* remix were accepted.
+- **Operon** — Brisbane-based producer; co-produced both accepted tracks with Chris Munky.
+
+The *Policeman* verdict applies specifically to Gold Dubs' remix, not Chris Munky and Berise's original reggae mix. The label identifies Gold Dubs as a UK jungle producer; this is cross-border catalogue evidence, not an Australian-scene allocation. Likewise, the *Drip* verdict applies to Chris Munky and Operon's remix; it does not by itself establish Friendless or Jannah Beth as jungle producers.
+
 #### OTIS Records / Outer Time Inner Space
 
 **Relevant activity:** 2015–present  
@@ -364,7 +378,7 @@ Small Perth artist-run imprint associated with **Jimi E**, who identifies as a l
 
 #### B&H Records — Australia (city unresolved)
 
-B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Their individual country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
+B&H's own Bandcamp identifies it as Australian. The completed listening established jungle in *Bottom Of The Barrel Vol. 2*, *Deep Into The Rave*, *Lucid Encounters* and *Bag of Tricks*: nickname (*Groove 4*), Noneohone (*CARLISLE*), MOOD$ (*Forgotten*), SAV/Blank (*Dune Rider*), Knuckle (*Trick*) and Myledo (*Freddy No*) all contributed accepted material. Knuckle is independently described as a home-grown Australian producer by [UK Bass Music](https://ukbassmusic.com/akul-listen-up-finespun-records-ukbm-premiere/); no city is identified. Other contributors' country allocations cannot be inferred from the label. nickname has independent Melbourne-scene evidence through Happy Wax and LAN.
 
 #### Hypoxia Records — Gold Coast
 
@@ -394,6 +408,10 @@ Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's 
 
 *FF001: Troubleshoot The Moon* was already heard. Bristol-based Litherland's *Simple Deceptions* passed as jungle and qualifies the Australian label through a cross-border release, not Litherland as an Australian artist. The transcript recovers sn33ze's *WAITING 4 U* as borderline/junglish, not a firm jungle cut. North Queensland producer and DJ **Nate Swan**, previously connected with Brisbane, released *The Year My Voice Broke* on Foreign Frequencies on 13 May 2022. Track 7, *Exclusive DJ Nate Swan Mix (physical only)*, is a two-minute digital preview of the cassette's exclusive 40-minute B-side DJ mix. The owner accepted the mix as jungle. This establishes a documented Australian jungle selector/scene connection, **not** a qualifying original jungle production by Nate Swan. His credited original work, including *Initiate / No Contact* with Lithe, has no recovered qualifying listening verdict; do not promote him as a qualifying jungle producer without one.
 
+#### Anomaly Digital — Australia
+
+Anomaly's broad catalogue spans future jungle, J-Tek and hardcore breaks. The owner's verdict accepts **Time Travel's *Back to 94* remix of *Reflection*** on *ANM016: Reflection (The Remixes)* as jungle, establishing a qualifying Australian-label connection. This verdict applies to that remix only; do not infer it for the original or other remixes. Time Travel is separately allocated to Melbourne.
+
 ### Direct Australian artist outside a resolved label cluster
 
 #### 12bit Jungle Out There
@@ -411,7 +429,8 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 
 - **8-Bit Recordings — Perth:** primarily breakcore, glitch, IDM and noise. Holt's *Nocturne* is the likeliest qualifying track found so far, while Deadcode's *The Dirty Truth* contains worthwhile chopped-break material. Retain as a contextual label mention.
 - **System Corrupt / SY:CO:** a breakcore, noise, speedcore and hardcore network with occasional jungle fusion. Contextual scene history, not a jungle-label claim.
-- **Anomaly Digital:** a future-jungle/hardcore-breaks label whose catalogue proved less decisive than its descriptions. Kranky & Lethal were too tangential; the Time Travel connection warrants only supporting context.
+
+- **SubSine Records — Melbourne:** a DnB label retained as contextual after the owner judged *Narks – Acidic (Jinx Remix)* worth mentioning but not jungle per se, and *Esym – Lost Within (Future Engineers Remix)* generic repetitive DnB. No qualifying jungle evidence is established by these listens.
 - **Inna Riddim — Sydney:** a broad bass/D&B label rather than a jungle imprint. Aural Blueprint's *Reminisce* passed as a jungle/D&B crossover and supports a narrow contextual label mention. Anomie's *What You Gonna Do About It* remains borderline; Tokyo Noir's *The Feelin' / Keep the Vibes Alive* and *Hijack* featuring Slice MC were rejected.
 - **Golden Orb Records — Brisbane:** an atmospheric/liquid D&B label, not a jungle label. The only qualifying evidence found is Shebuzzz's *In Infinity*, whose aggressive Amen drop passed the listening test. Shebuzzz (Jurij Sophijsky) was based in Bender, Transnistria/Moldova; this is cross-border catalogue evidence, not Australian artist allocation. Golden Orb is therefore a narrow footnote, not a core ecosystem entry.
 - **Best Effort:** not a jungle label. Nutcase & Papachubba and a Hugh B release justify only light artist-level follow-up.
@@ -432,8 +451,8 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
-- **B&H artist provenance:** label resolved as Australian; individual allocation still open for Noneohone, MOOD$, SAV/Blank and Knuckle. nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
-- **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Artist provenance remains open.
+- **B&H artist provenance:** label resolved as Australian; individual allocation remains open for Noneohone, MOOD$ and SAV/Blank. Knuckle is independently described as a home-grown Australian producer, though the city is unverified; nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
+- **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Knuckle's Australian country allocation is now independently supported; Oi Ocha's remains open.
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
@@ -454,6 +473,17 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Sydney
 
+- [Banana Bombs Records catalogue](https://bananabombsrecords.bandcamp.com/)
+- [Banana Bombs – Junglist Tonight (BBR012)](https://bananabombsrecords.bandcamp.com/album/junglist-tonight-bbr012)
+- [Banana Bombs – Try Test (BBR010)](https://bananabombsrecords.bandcamp.com/album/try-test-bbr010)
+- [Banana Bombs – Tenement Yard bootleg](https://bananabombsrecords.bandcamp.com/track/jacob-miller-tenement-yard-chris-munky-operon-bootleg)
+- [Chris Munky, Operon & JMan – Healing / Satisfy](https://chrismunky.bandcamp.com/album/healing-satisfy-bbr014)
+- [Friendless & Jannah Beth – Drip (Chris Munky & Operon Remix)](https://bananabombsrecords.bandcamp.com/track/friendless-jannah-beth-drip-chris-munky-operon-remix)
+- [Chris Munky ft. Berise – Policeman (Gold Dubs Remix)](https://chrismunky.bandcamp.com/track/policeman-ft-berise-gold-dubs-remix)
+- [Chris Munky – Sydney artist profile](https://chrismunky.bandcamp.com/)
+- [Operon – Brisbane artist profile](https://operondnb.bandcamp.com/)
+- [Friendless & Jannah Beth – DRIP feature (The AU Review)](https://www.theaureview.com/music/exclusive-single-premiere-friendless-ft-jannah-beth-drip-2021/)
+- [Jannah Beth – triple j Unearthed profile](https://www.abc.net.au/triplejunearthed/artist/jannah-beth)
 - [Big Mountain Sound – Yusetsu, Lodestone Resonator](https://bigmountainsound.bandcamp.com/track/lodestone-resonator)
 - [DJ Popeye – JMA Vol. II (1996)](https://soundcloud.com/djrikochet/dj-popeye-jma-vol-ii-1996-side-a-dat-recording?in=djrikochet%2Fsets%2Fpopeye-series)
 - [DJ Speaks / JMA historical discussion (Dogsonacid)](https://www.dogsonacid.com/threads/jungletrain-net-promomix-march-2012-by-dj-speaks.733372/)
@@ -496,6 +526,8 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-sy
 
 ### Melbourne
 
+- [SubSine Records – Narks, Acidic (Jinx Remix)](https://subsinerecords.bandcamp.com/track/narks-acidic-jinx-remix)
+- [SubSine Records – Esym, Lost Within (Future Engineers Remix)](https://subsinerecords.bandcamp.com/track/lost-within-future-engineers-remix)
 - [Flatlife Records Australia catalogue](https://flatliferecordsaustralia.bandcamp.com/music)
 - [RBI – Disseminate](https://djrbi.bandcamp.com/album/disseminate)
 - [Bitwise catalogue](https://bitwisemusic.bandcamp.com/)
@@ -603,7 +635,8 @@ Dizz1 is independently documented as a Melbourne-based producer. On *In The Zone
 - [ILIO Records – Marli, Mood Independent](https://iliorecords.bandcamp.com/album/marli-mood-independent)
 - [New Forms – Perth Halftime Compilation Vol. 2](https://thosenewforms.bandcamp.com/album/perth-halftime-compilation-vol-2)
 - [DEHNOE – CLOWNING AROUND (LUNCH Records)](https://dehnoe.bandcamp.com/album/clowning-around)
-- [Anomaly Digital catalogue](https://anomalydigital.bandcamp.com/)
+- [Anomaly Digital — ANM016: Reflection (The Remixes)](https://anomalydigital.bandcamp.com/album/anm016-kranky-lethal-reflection-the-remixes)
+- [Future Jungle archive, October 2012](https://futurejungle.blogspot.com/2012/10/)
 - [Golden Orb Records catalogue](https://goldenorbrecords.bandcamp.com/music)
 - [Golden Orb Records profile](https://soundcloud.com/goldenorbrecords)
 - [Shebuzzz biography](https://diametralrecords.bandcamp.com/album/shebuzzz-encrypted-music-source)

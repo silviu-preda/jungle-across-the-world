@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-27-au-37",
-  "source_base_commit": "e4d23b4ab88e47a71627906b187c45c01e93636e",
+  "revision": "2026-10-29-au-40",
+  "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -256,8 +256,8 @@
     {
       "name": "Anomaly Digital",
       "city": "Australia",
-      "status": "contextual",
-      "detail": "Reviewed catalogue less junglist than tags suggest.",
+      "status": "qualified",
+      "detail": "Australian future-jungle/J-Tek and hardcore-breaks label; the owner's accepted verdict on Time Travel's 'Back to 94' remix of 'Reflection' (ANM016) establishes a qualifying jungle connection. Verdict applies to that remix only.",
       "url": "https://anomalydigital.bandcamp.com/"
     },
     {
@@ -398,6 +398,27 @@
       "status": "qualified",
       "detail": "Melbourne/Naarm label strongly qualifies through WARPA!NT / sc:ssors – ROLL X001 (2026), accepted by owner as a worthy release in full. Individual highlights include sc:ssors – singularity [v01d], sc:ssors – jason, and WARPA!NT – Panda.",
       "url": "https://ghostdice.bandcamp.com/album/roll-x001"
+    },
+    {
+      "name": "Finespun Recordings",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Finespun Recordings is independently identified as Sydney-based on its Bandcamp profile. Finespun 002 was checked through three candidate cuts: the owner rejected Myledo – 10120, Knuckle – Spirax and Splitch – Tangerine as jungle. No qualifying evidence is established yet; retain the label as contextual.",
+      "url": "https://finespunrecordings.bandcamp.com/"
+    },
+    {
+      "name": "SubSine Records",
+      "city": "Melbourne",
+      "status": "contextual",
+      "detail": "Melbourne DnB label. Owner judged Narks – Acidic (Jinx Remix) worth mentioning but not jungle per se; Esym – Lost Within (Future Engineers Remix) was generic repetitive DnB. No qualifying jungle evidence is established by these listens.",
+      "url": "https://subsinerecords.bandcamp.com/"
+    },
+    {
+      "name": "Banana Bombs Records",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Established in Bristol and now based in Sydney. Qualifies through owner-accepted jungle treatments Healing (2026), Drip (Chris Munky & Operon Remix, 2022), and Policeman (Gold Dubs Remix, 2021). Junglist Tonight was judged borderline/not quite jungle; Try Test (Instrumental Jungle Mix) and the Tenement Yard bootleg were judged too DnB-heavy. Chris Munky is Sydney-based and Operon Brisbane-based; their collaboration on Healing and the Drip remix provides local Australian artist evidence. Policeman qualifies only through Gold Dubs' remix, not the original reggae mix. The Drip verdict applies to the remix, not an inferred jungle production by Friendless or Jannah Beth.",
+      "url": "https://bananabombsrecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1079,6 +1100,89 @@
       "status": "qualified",
       "verdict": "Owner: the Midnight Bass remix of In The Zone works; accepted as qualifying jungle.",
       "url": "https://echochambersound.bandcamp.com/album/dizz1-in-the-zone-ep"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Myledo – 10120 / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Knuckle – Spirax / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Finespun Recordings",
+      "release": "Splitch – Tangerine / Finespun 002 - V/A Comp",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://finespunrecordings.bandcamp.com/album/finespun-002-v-a-comp"
+    },
+    {
+      "label": "Anomaly Digital",
+      "release": "ANM016: Kranky & Lethal - Reflection (The Remixes)",
+      "status": "qualified",
+      "verdict": "Owner: Time Travel's 'Back to 94' remix of 'Reflection' is jungle. This verdict applies to that remix only."
+    },
+    {
+      "label": "SubSine Records",
+      "release": "Narks – Acidic (Jinx Remix)",
+      "status": "contextual",
+      "verdict": "Owner: worth a mention, but it is not jungle per se.",
+      "url": "https://subsinerecords.bandcamp.com/track/narks-acidic-jinx-remix"
+    },
+    {
+      "label": "SubSine Records",
+      "release": "Esym – Lost Within (Future Engineers Remix)",
+      "status": "excluded",
+      "verdict": "Owner: generic repetitive DnB, not jungle.",
+      "url": "https://subsinerecords.bandcamp.com/track/lost-within-future-engineers-remix"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Chris Munky & Fernquest ft. Benji Webbe – Junglist Tonight",
+      "status": "contextual",
+      "verdict": "Owner: worth a mention, but not quite jungle.",
+      "url": "https://bananabombsrecords.bandcamp.com/album/junglist-tonight-bbr012"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Chris Munky & Jinx In Dub ft. Parly B & J.F.B – Try Test (Instrumental Jungle Mix)",
+      "status": "excluded",
+      "verdict": "Owner: too DnB and not enough jungle.",
+      "url": "https://bananabombsrecords.bandcamp.com/album/try-test-bbr010"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Chris Munky, Operon & JMan – Healing",
+      "status": "qualified",
+      "verdict": "Owner: can qualify, surprisingly.",
+      "url": "https://chrismunky.bandcamp.com/album/healing-satisfy-bbr014"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Jacob Miller – Tenement Yard (Chris Munky & Operon Bootleg)",
+      "status": "excluded",
+      "verdict": "Owner: DnB, not jungle.",
+      "url": "https://bananabombsrecords.bandcamp.com/track/jacob-miller-tenement-yard-chris-munky-operon-bootleg"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Friendless & Jannah Beth – Drip (Chris Munky & Operon Remix)",
+      "status": "qualified",
+      "verdict": "Owner: works; accepted as qualifying jungle. The verdict applies to the Chris Munky & Operon remix.",
+      "url": "https://bananabombsrecords.bandcamp.com/track/friendless-jannah-beth-drip-chris-munky-operon-remix"
+    },
+    {
+      "label": "Banana Bombs Records",
+      "release": "Chris Munky ft. Berise – Policeman (Gold Dubs Remix)",
+      "status": "qualified",
+      "verdict": "Owner: yes, this one qualifies. The verdict applies to Gold Dubs' remix.",
+      "url": "https://chrismunky.bandcamp.com/track/policeman-ft-berise-gold-dubs-remix"
     }
   ],
   "artist_provenance": [
@@ -1198,9 +1302,9 @@
     },
     {
       "name": "Knuckle",
-      "location": null,
-      "status": "provenance_required",
-      "notes": "Accepted material or qualified-label association; independent location unverified."
+      "location": "Australia (city unverified)",
+      "status": "qualified",
+      "notes": "UK Bass Music's 2021 Finespun 002 feature calls Knuckle one of the compilation's home-grown Australian producers; no city identified. Accepted jungle tracks remain Manifold and Trick. Source: https://ukbassmusic.com/akul-listen-up-finespun-records-ukbm-premiere/"
     },
     {
       "name": "Myledo",
@@ -1411,10 +1515,40 @@
       "location": "Melbourne, Australia",
       "status": "contextual",
       "notes": "Melbourne-based producer. In The Zone - Midnight Dubs Remix on In The Zone EP (2023) accepted by owner as qualifying jungle, but the qualifying jungle treatment is a remix; Dizz1's own original jungle production remains unverified by owner listening."
+    },
+    {
+      "name": "Chris Munky",
+      "location": "Sydney, Australia",
+      "status": "qualified",
+      "notes": "Owner accepted Healing and the Drip remix, co-produced with Brisbane-based Operon. The accepted Policeman jungle treatment is Gold Dubs' remix; do not attribute that remix's jungle production to Munky."
+    },
+    {
+      "name": "Operon",
+      "location": "Brisbane, Australia",
+      "status": "qualified",
+      "notes": "Operon's official Bandcamp identifies Brisbane. Owner accepted Healing and the Drip remix, both co-produced with Sydney-based Chris Munky."
+    },
+    {
+      "name": "Friendless",
+      "location": "Australia; city unverified",
+      "status": "contextual",
+      "notes": "The AU Review describes Friendless as an Australian producer. Owner accepted the Chris Munky & Operon remix of Friendless & Jannah Beth's Drip; the verdict does not establish a jungle production by Friendless."
+    },
+    {
+      "name": "Jannah Beth",
+      "location": "Sydney / Gadigal, Australia",
+      "status": "contextual",
+      "notes": "The AU Review identifies Jannah Beth as an Inner West Sydney resident; triple j Unearthed describes her as first in her family born in Australia and a Scottish–Irish settler on Gadigal lands. Owner accepted the Chris Munky & Operon remix of Drip, not an independently produced jungle track by Jannah Beth."
+    },
+    {
+      "name": "Gold Dubs",
+      "location": "UK; city/residence unverified",
+      "status": "provenance_required",
+      "notes": "The label describes Gold Dubs as a UK jungle producer, and the owner accepted his Policeman remix as jungle. This is cross-border catalogue evidence only; no Australian-scene activity is established."
     }
   ],
   "open_tasks": [
-    "Determine independent locations for remaining B&H and Extra Spicy contributors (Myledo and nickname resolved).",
+    "Determine independent city-level locations for remaining B&H and Extra Spicy contributors; Knuckle now has Australia-level provenance (city unverified), while Myledo and nickname are resolved.",
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
     "Establish Dark Matter Project chronology for Australia vs Chile.",
@@ -1422,6 +1556,7 @@
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
-    "Heartcore: no further roster listening required unless a new specific production lead emerges."
+    "Heartcore: no further roster listening required unless a new specific production lead emerges.",
+    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found."
   ]
 }
