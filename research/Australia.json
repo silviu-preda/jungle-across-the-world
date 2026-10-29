@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-29-au-42",
+  "revision": "2026-10-29-au-41",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1239,13 +1239,6 @@
       "status": "excluded",
       "verdict": "Owner: not jungle; release was wrongly labelled for this exploration.",
       "url": "https://bananabombsrecords.bandcamp.com/album/lets-be-vigilantes-bbr001"
-    },
-    {
-      "label": "Big Dog Records",
-      "release": "MPK – Die On Your Feet / MPK Presents: Archive – A Collection Of Original Adelaide Drum & Bass",
-      "status": "listening_required",
-      "verdict": "Listening assignment queued from the Adelaide Massive archive; no catalogue number or individual streaming preview is shown.",
-      "url": "https://adelaidemassive.com/wp/mpk-presents-archive-a-collection-of-original-adelaide-drum-bass-big-dog-records/"
     }
   ],
   "artist_provenance": [
@@ -1615,7 +1608,7 @@
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
     "Establish Dark Matter Project chronology for Australia vs Chile.",
-    "Big Dog Records: owner listening verdict pending for MPK – Die On Your Feet from MPK Presents: Archive; source is download-only, with no catalogue number shown.",
+    "Defer Big Dog archive listening until convenient access.",
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
