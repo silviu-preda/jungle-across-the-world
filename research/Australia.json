@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-29-au-41",
+  "revision": "2026-10-29-au-42",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -419,6 +419,13 @@
       "status": "qualified",
       "detail": "Established in Bristol and now based in Sydney. Qualifies through owner-accepted jungle treatments Healing and Satisfy (2026), Who R U? (BBR009, 2023), Drip (Chris Munky & Operon Remix, 2022), and Policeman (Gold Dubs Remix, 2021). Junglist Tonight and Bluenotes were contextual; Sine was noted as an interesting jungle–dubwise crossover without a firm qualify verdict; Sounds Iller has a similar character with less emphasis on the beat and received a note only. Gully (Dancehall Dubplate), Urbia, Let's Be Vigilantes (BBR001), Try Test (Instrumental Jungle Mix), and the Tenement Yard bootleg were rejected as jungle. Chris Munky is Sydney-based and Operon Brisbane-based; their collaborations provide local Australian artist evidence. Policeman qualifies only through Gold Dubs' remix, not the original reggae mix. The Drip verdict applies to the remix, not an inferred jungle production by Friendless or Jannah Beth.",
       "url": "https://bananabombsrecords.bandcamp.com/"
+    },
+    {
+      "name": "Rollin Records",
+      "city": "Perth",
+      "status": "listening_required",
+      "detail": "Australian label candidate; active ABN record and label site support Perth/Australia association. Catalogue includes SPECK – Giddyup, described by the label as breakbeat; owner listening required before establishing a qualifying jungle connection.",
+      "url": "https://rollinrecords.com.au/releases/"
     }
   ],
   "listening": [
@@ -1239,6 +1246,13 @@
       "status": "excluded",
       "verdict": "Owner: not jungle; release was wrongly labelled for this exploration.",
       "url": "https://bananabombsrecords.bandcamp.com/album/lets-be-vigilantes-bbr001"
+    },
+    {
+      "label": "Rollin Records",
+      "release": "SPECK – Giddyup",
+      "status": "listening_required",
+      "verdict": "Assigned for owner listening; label describes it as breakbeat. No catalogue number shown.",
+      "url": "https://rollinrecords.com.au/releases/speck-giddyup/"
     }
   ],
   "artist_provenance": [
@@ -1613,6 +1627,7 @@
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
-    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found."
+    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
+    "Rollin Records: owner listening verdict pending for SPECK – Giddyup; determine whether the breakbeat track supplies qualifying jungle evidence."
   ]
 }
