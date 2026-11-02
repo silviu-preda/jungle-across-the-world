@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-46",
+  "revision": "2026-11-02-au-47",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1285,9 +1285,16 @@
     {
       "label": "South England Hate Club",
       "release": "Cyberian Shirayuki – False Entity (South England Hate Club: Sampler 1, SEHC005)",
-      "status": "listening_required",
-      "verdict": "Next artist follow-up listening assignment. Track is listed at #14 on a sampler described by the label as spanning breakcore and jungle subgenres; no genre verdict inferred.",
+      "status": "contextual",
+      "verdict": "Owner: more breakcore than jungle; retain as breakcore context, not qualifying jungle evidence.",
       "url": "https://southenglandhateclub.bandcamp.com/album/south-england-hate-club-sampler-1"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – September Funeral (Ethereal Heartbreak, SEHC002)",
+      "status": "listening_required",
+      "verdict": "Next artist follow-up listening assignment; no genre verdict inferred.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/september-funeral"
     }
   ],
   "artist_provenance": [
@@ -1670,6 +1677,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: assess False Entity (South England Hate Club: Sampler 1, SEHC005) by owner listening; independently resolve Australian-scene provenance before artist allocation."
+    "Cyberian Shirayuki: assess September Funeral (Ethereal Heartbreak, SEHC002) by owner listening; independently resolve Australian-scene provenance before artist allocation."
   ]
 }
