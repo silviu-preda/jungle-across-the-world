@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-54",
+  "revision": "2026-11-02-au-55",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -433,6 +433,13 @@
       "status": "qualified",
       "detail": "Australian Bandcamp label. Owner accepted Cyberian Shirayuki – She Drives A Honda (P*7-02) as a very strong qualifying release. Cyberian Shirayuki's Australian-scene provenance remains unverified; the label's location is not transferred to the artist.",
       "url": "https://breakmatrix.bandcamp.com/"
+    },
+    {
+      "name": "Dune Castle Records",
+      "city": "Melbourne, Australia",
+      "status": "listening_required",
+      "detail": "Melbourne label. Its Evening News release New World describes the group as drawing on house and nu-jazz alongside jungle and 2-step; owner listening required to establish the label's qualifying jungle connection.",
+      "url": "https://dunecastlerecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1330,6 +1337,13 @@
       "status": "contextual",
       "verdict": "Owner: breakcore; record as contextual, not qualifying jungle evidence.",
       "url": "https://open.spotify.com/track/66qoqxfyJwfkDnhB78nUcu?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=5f7e5e1a-82bb-451f-99f8-1a60ae16f69c"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Evening News – Wormhole (New World, 2024)",
+      "status": "listening_required",
+      "verdict": "Label-first listening assignment. The Melbourne group describes its sound as drawing on the sonic breadth of jungle and 2-step; no genre verdict inferred.",
+      "url": "https://eveningnews.bandcamp.com/track/wormhole"
     }
   ],
   "artist_provenance": [
@@ -1712,6 +1726,7 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "Dune Castle Records: assess Evening News – Wormhole on New World (2024) by owner listening; determine whether the label has a qualifying local jungle connection."
   ]
 }
