@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-44",
+  "revision": "2026-11-02-au-45",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -423,9 +423,16 @@
     {
       "name": "Rollin Records",
       "city": "Perth",
-      "status": "listening_required",
-      "detail": "Australian label candidate; Perth association supported by label site. Owner rejected SPECK – Giddyup; Aydose & R-TRE – Altruistic Mind received a contextual verdict (some breaks, insufficient for jungle). Aydose – Complicated is the next listening candidate.",
+      "status": "contextual",
+      "detail": "Perth bass label investigated. SPECK – Giddyup and Aydose – Complicated rejected by owner; Aydose & R-TRE – Altruistic Mind received a contextual verdict (some breaks, insufficient for jungle). Further catalogue is predominantly DnB/halftime/leftfield bass; no qualifying connection established.",
       "url": "https://rollinrecords.com.au/releases/"
+    },
+    {
+      "name": "BREAK MATRIX",
+      "city": "Australia (city unverified)",
+      "status": "listening_required",
+      "detail": "Australian Bandcamp label with drum & bass, breakcore and jungle tags; owner listening required to establish qualifying jungle evidence.",
+      "url": "https://breakmatrix.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1264,9 +1271,16 @@
     {
       "label": "Rollin Records",
       "release": "Aydose – Complicated",
-      "status": "listening_required",
-      "verdict": "Assigned for owner listening; label describes it as a phat breaks track, citing big-beat influences. No catalogue number shown.",
+      "status": "excluded",
+      "verdict": "Owner: no.",
       "url": "https://rollinrecords.com.au/releases/aydose-complicated/"
+    },
+    {
+      "label": "BREAK MATRIX",
+      "release": "Cyberian Shirayuki – She Drives A Honda (P*7-02)",
+      "status": "listening_required",
+      "verdict": "Assigned for owner listening; three-track release on Australian Bandcamp label. No genre verdict inferred from tags.",
+      "url": "https://breakmatrix.bandcamp.com/album/she-drives-a-honda"
     }
   ],
   "artist_provenance": [
@@ -1642,6 +1656,7 @@
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
-    "Rollin Records: SPECK – Giddyup rejected; Aydose & R-TRE – Altruistic Mind contextual (some breaks); listening verdict pending for Aydose – Complicated."
+    "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
+    "BREAK MATRIX: owner listening verdict pending for Cyberian Shirayuki – She Drives A Honda (P*7-02)."
   ]
 }
