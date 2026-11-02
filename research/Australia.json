@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-47",
+  "revision": "2026-11-02-au-48",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1292,9 +1292,16 @@
     {
       "label": "South England Hate Club",
       "release": "Cyberian Shirayuki – September Funeral (Ethereal Heartbreak, SEHC002)",
-      "status": "listening_required",
-      "verdict": "Next artist follow-up listening assignment; no genre verdict inferred.",
+      "status": "contextual",
+      "verdict": "Owner: breakcore; not qualifying jungle evidence.",
       "url": "https://southenglandhateclub.bandcamp.com/track/september-funeral"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – I Languish (Ethereal Heartbreak, SEHC002)",
+      "status": "listening_required",
+      "verdict": "Next artist follow-up listening assignment. The release describes its sound as relaxed modern DnB with repeated Amen breaks; owner assessment remains open.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/i-languish"
     }
   ],
   "artist_provenance": [
@@ -1677,6 +1684,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: assess September Funeral (Ethereal Heartbreak, SEHC002) by owner listening; independently resolve Australian-scene provenance before artist allocation."
+    "Cyberian Shirayuki: assess I Languish (Ethereal Heartbreak, SEHC002) by owner listening; independently resolve Australian-scene provenance before artist allocation."
   ]
 }
