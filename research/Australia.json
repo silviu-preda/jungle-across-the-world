@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-48",
+  "revision": "2026-11-02-au-49",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1302,6 +1302,13 @@
       "status": "listening_required",
       "verdict": "Next artist follow-up listening assignment. The release describes its sound as relaxed modern DnB with repeated Amen breaks; owner assessment remains open.",
       "url": "https://southenglandhateclub.bandcamp.com/track/i-languish"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – Twitter Love Story (Ethereal Heartbreak, SEHC002)",
+      "status": "accepted",
+      "verdict": "Owner: jungle.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/twitter-love-story"
     }
   ],
   "artist_provenance": [
@@ -1669,7 +1676,7 @@
       "name": "Cyberian Shirayuki",
       "location": null,
       "status": "provenance_required",
-      "notes": "Owner accepted She Drives A Honda (P*7-02) by release-level listening. Other confirmed releases include Ethereal Heartbreak (South England Hate Club, UK) and You Killed Yuki / NO KYOJIN (Starrcade Records); label affiliations do not establish artist location. No independent Australian-scene provenance found yet."
+      "notes": "Owner accepted She Drives A Honda (P*7-02) at release level and identified Twitter Love Story on Ethereal Heartbreak (SEHC002) as jungle, meeting the artist-level genre threshold. Australian-scene provenance remains unverified; releases through Australian or UK labels do not establish the artist's country allocation."
     }
   ],
   "open_tasks": [
