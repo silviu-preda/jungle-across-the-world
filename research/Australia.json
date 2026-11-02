@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-45",
+  "revision": "2026-11-02-au-46",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -430,8 +430,8 @@
     {
       "name": "BREAK MATRIX",
       "city": "Australia (city unverified)",
-      "status": "listening_required",
-      "detail": "Australian Bandcamp label with drum & bass, breakcore and jungle tags; owner listening required to establish qualifying jungle evidence.",
+      "status": "qualified",
+      "detail": "Australian Bandcamp label. Owner accepted Cyberian Shirayuki – She Drives A Honda (P*7-02) as a very strong qualifying release. Cyberian Shirayuki's Australian-scene provenance remains unverified; the label's location is not transferred to the artist.",
       "url": "https://breakmatrix.bandcamp.com/"
     }
   ],
@@ -1278,9 +1278,16 @@
     {
       "label": "BREAK MATRIX",
       "release": "Cyberian Shirayuki – She Drives A Honda (P*7-02)",
-      "status": "listening_required",
-      "verdict": "Assigned for owner listening; three-track release on Australian Bandcamp label. No genre verdict inferred from tags.",
+      "status": "accepted",
+      "verdict": "Owner: very good release, among the best encountered in this exploration; accepted at release level. No individual track verdicts inferred.",
       "url": "https://breakmatrix.bandcamp.com/album/she-drives-a-honda"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – False Entity (South England Hate Club: Sampler 1, SEHC005)",
+      "status": "listening_required",
+      "verdict": "Next artist follow-up listening assignment. Track is listed at #14 on a sampler described by the label as spanning breakcore and jungle subgenres; no genre verdict inferred.",
+      "url": "https://southenglandhateclub.bandcamp.com/album/south-england-hate-club-sampler-1"
     }
   ],
   "artist_provenance": [
@@ -1643,6 +1650,12 @@
       "location": "UK; city/residence unverified",
       "status": "provenance_required",
       "notes": "The label describes Gold Dubs as a UK jungle producer, and the owner accepted his Policeman remix as jungle. This is cross-border catalogue evidence only; no Australian-scene activity is established."
+    },
+    {
+      "name": "Cyberian Shirayuki",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Owner accepted She Drives A Honda (P*7-02) by release-level listening. Other confirmed releases include Ethereal Heartbreak (South England Hate Club, UK) and You Killed Yuki / NO KYOJIN (Starrcade Records); label affiliations do not establish artist location. No independent Australian-scene provenance found yet."
     }
   ],
   "open_tasks": [
@@ -1657,6 +1670,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "BREAK MATRIX: owner listening verdict pending for Cyberian Shirayuki – She Drives A Honda (P*7-02)."
+    "Cyberian Shirayuki: assess False Entity (South England Hate Club: Sampler 1, SEHC005) by owner listening; independently resolve Australian-scene provenance before artist allocation."
   ]
 }
