@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-29-au-42",
+  "revision": "2026-11-02-au-43",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -424,7 +424,7 @@
       "name": "Rollin Records",
       "city": "Perth",
       "status": "listening_required",
-      "detail": "Australian label candidate; active ABN record and label site support Perth/Australia association. Catalogue includes SPECK – Giddyup, described by the label as breakbeat; owner listening required before establishing a qualifying jungle connection.",
+      "detail": "Australian label candidate; Perth association supported by label site. Owner rejected SPECK – Giddyup as jungle; Aydose & R-TRE – Altruistic Mind is the next listening candidate.",
       "url": "https://rollinrecords.com.au/releases/"
     }
   ],
@@ -1250,9 +1250,16 @@
     {
       "label": "Rollin Records",
       "release": "SPECK – Giddyup",
-      "status": "listening_required",
-      "verdict": "Assigned for owner listening; label describes it as breakbeat. No catalogue number shown.",
+      "status": "excluded",
+      "verdict": "Owner: this release does not qualify as jungle.",
       "url": "https://rollinrecords.com.au/releases/speck-giddyup/"
+    },
+    {
+      "label": "Rollin Records",
+      "release": "Aydose & R-TRE – Altruistic Mind",
+      "status": "listening_required",
+      "verdict": "Assigned for owner listening; label describes it as a breaks track. No catalogue number shown.",
+      "url": "https://rollinrecords.com.au/releases/aydose-rtre-altruistic-mind/"
     }
   ],
   "artist_provenance": [
@@ -1628,6 +1635,6 @@
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
-    "Rollin Records: owner listening verdict pending for SPECK – Giddyup; determine whether the breakbeat track supplies qualifying jungle evidence."
+    "Rollin Records: owner rejected SPECK – Giddyup; listening verdict pending for Aydose & R-TRE – Altruistic Mind."
   ]
 }
