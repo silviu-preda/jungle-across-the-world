@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-02-au-53",
+  "revision": "2026-11-02-au-54",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1323,6 +1323,13 @@
       "status": "contextual",
       "verdict": "Owner: heard the entire release; breakcore overall. Twitter Love Story was separately identified by the owner as jungle. Do not generalize the release-level breakcore verdict into additional track-level verdicts.",
       "url": "https://southenglandhateclub.bandcamp.com/album/ethereal-heartbreak"
+    },
+    {
+      "label": "Starrcade Records",
+      "release": "Cyberian Shirayuki – You Killed Yuki (title track; You Killed Yuki, 2024)",
+      "status": "contextual",
+      "verdict": "Owner: breakcore; record as contextual, not qualifying jungle evidence.",
+      "url": "https://open.spotify.com/track/66qoqxfyJwfkDnhB78nUcu?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=5f7e5e1a-82bb-451f-99f8-1a60ae16f69c"
     }
   ],
   "artist_provenance": [
