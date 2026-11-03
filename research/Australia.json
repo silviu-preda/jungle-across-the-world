@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-59",
+  "revision": "2026-11-03-au-60",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1376,9 +1376,16 @@
     {
       "label": "Acetic Records",
       "release": "Sachasaidso – Red (Tapes of Adelaide, ACE001; 2023)",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. The compilation is marketed as Adelaide electronic jungle but is predominantly tagged/classified as house and minimal; this assignment is exploratory, not a genre presumption.",
+      "status": "excluded",
+      "verdict": "Owner: nope; rejected as jungle evidence.",
       "url": "https://acetic.bandcamp.com/album/va-tapes-of-adelaide"
+    },
+    {
+      "label": "Acetic Records",
+      "release": "yepecc – Angels (Angels and Demons, 2025; catalog number not verified)",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Angels and Demons has a breakbeat tag; yepecc's Acetic Selects 020 is promoted by the label as electro/breaks/acid/techno, making this a plausible next check. No jungle verdict inferred.",
+      "url": "https://acetic.bandcamp.com/track/angels"
     }
   ],
   "artist_provenance": [
@@ -1762,6 +1769,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Acetic Records: owner to listen to Sachasaidso – Red (Tapes of Adelaide, ACE001); assess whether the label has a qualifying local jungle connection before promotion."
+    "Acetic Records: owner to listen to yepecc – Angels (Angels and Demons); assess whether the label has a qualifying local jungle connection before promotion."
   ]
 }
