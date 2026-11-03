@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-57",
+  "revision": "2026-11-03-au-58",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -437,8 +437,8 @@
     {
       "name": "Dune Castle Records",
       "city": "Melbourne, Australia",
-      "status": "listening_required",
-      "detail": "Melbourne label. Owner rejected Evening News – New World (2024) as a complete release; do not reassign tracks from it. Other label releases remain to be checked.",
+      "status": "contextual",
+      "detail": "Melbourne label explored through two separate artist avenues. Owner rejected Evening News – New World (2024) as a complete release and rejected Tony Soprano Band – Brainstorming (DCAS008). Owner judged the label likely not a fit; no qualifying evidence established. Catalogue not exhaustively scanned.",
       "url": "https://dunecastlerecords.bandcamp.com/"
     }
   ],
@@ -1362,8 +1362,8 @@
     {
       "label": "Dune Castle Records",
       "release": "Tony Soprano Band – Brainstorming (Downtempo 1, DCAS008; digital single DCAS008DD1)",
-      "status": "listening_required",
-      "verdict": "Next different-release catalogue candidate. Official release description cites breaks and loop-based composition; no jungle verdict inferred.",
+      "status": "excluded",
+      "verdict": "Owner: no; not qualifying jungle evidence.",
       "url": "https://tonysopranoband.bandcamp.com/track/brainstorming"
     }
   ],
@@ -1747,7 +1747,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Dune Castle Records: assess Tony Soprano Band – Brainstorming on Downtempo 1 (DCAS008; digital single DCAS008DD1) by owner listening; determine whether the label has a qualifying local jungle connection."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
   ]
 }
