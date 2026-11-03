@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-64",
+  "revision": "2026-11-03-au-65",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -459,8 +459,15 @@
       "name": "Iridium 77 Media",
       "city": "Boolaroo / Newcastle region, New South Wales",
       "status": "qualified",
-      "detail": "Qualifies through Overcast – Wolfe [IR77-1000], accepted by the owner as jungle. Concord remains unreviewed; no full-release verdict inferred.",
+      "detail": "Qualifies through Overcast – Wolfe [IR77-1000], accepted by the owner as jungle. Concord was not accepted; Xylocaine – Rubicon Job / Consternation was judged more gabber.",
       "url": "https://ir77.bandcamp.com/"
+    },
+    {
+      "name": "Slice Records",
+      "city": "Australia; city not verified",
+      "status": "listening_required",
+      "detail": "Australian underground electronic label founded in 2011. Owner listening pending on Fate Æffect – Parabiosis [SLICE013], a 2017 release the label describes in jungle-related terms. No genre conclusion inferred.",
+      "url": "https://slicerecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1425,9 +1432,16 @@
     {
       "label": "Iridium 77 Media",
       "release": "Xylocaine – Rubicon Job / Consternation [IR77-700] (2025)",
-      "status": "listening_required",
-      "verdict": "New release from the label's catalogue. Owner listening pending. Direct digital stream verified. Do not infer Xylocaine's Australian-scene provenance from the label location.",
+      "status": "excluded",
+      "verdict": "Owner: yeah, this is more gabber; rejected as jungle evidence.",
       "url": "https://ir77.bandcamp.com/album/ir77-700-rubicon-job-consternation"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Fate Æffect – Parabiosis [SLICE013] (2017), complete release",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Label's direct Bandcamp page streams the full release; its copy invokes rave/junglist scenes. Owner judgment governs qualification.",
+      "url": "https://slicerecords.bandcamp.com/album/parabiosis"
     }
   ],
   "artist_provenance": [
@@ -1811,6 +1825,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Iridium 77 Media: owner to listen to Xylocaine – Rubicon Job / Consternation [IR77-700]; if a track qualifies, investigate Xylocaine's Australian-scene provenance independently."
+    "Slice Records: owner to listen to Fate Æffect – Parabiosis [SLICE013] and assess whether the release/label qualifies."
   ]
 }
