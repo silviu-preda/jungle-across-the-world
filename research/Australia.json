@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-56",
+  "revision": "2026-11-03-au-57",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -438,7 +438,7 @@
       "name": "Dune Castle Records",
       "city": "Melbourne, Australia",
       "status": "listening_required",
-      "detail": "Melbourne label. Evening News' New World release describes jungle and 2-step among the group's influences. Wormhole was rejected by the owner; other New World tracks remain to be checked before label status is resolved.",
+      "detail": "Melbourne label. Owner rejected Evening News – New World (2024) as a complete release; do not reassign tracks from it. Other label releases remain to be checked.",
       "url": "https://dunecastlerecords.bandcamp.com/"
     }
   ],
@@ -1348,9 +1348,23 @@
     {
       "label": "Dune Castle Records",
       "release": "Evening News – Ring Mod (New World, 2024)",
-      "status": "listening_required",
-      "verdict": "Next catalogue follow-up. Direct track page verified; no genre verdict inferred.",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner rejected the complete New World release; no individual Ring Mod verdict recorded. Do not reassign this track.",
       "url": "https://eveningnews.bandcamp.com/track/ring-mod"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Evening News – New World (2024), complete release",
+      "status": "excluded",
+      "verdict": "Owner: entire release rejected. No further track-level verdicts inferred from the release-level decision.",
+      "url": "https://eveningnews.bandcamp.com/album/new-world"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Tony Soprano Band – Brainstorming (Downtempo 1, DCAS008; digital single DCAS008DD1)",
+      "status": "listening_required",
+      "verdict": "Next different-release catalogue candidate. Official release description cites breaks and loop-based composition; no jungle verdict inferred.",
+      "url": "https://tonysopranoband.bandcamp.com/track/brainstorming"
     }
   ],
   "artist_provenance": [
@@ -1734,6 +1748,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Dune Castle Records: assess Evening News – Ring Mod on New World (2024) by owner listening; if it does not qualify, continue scanning available catalogue for another specific candidate."
+    "Dune Castle Records: assess Tony Soprano Band – Brainstorming on Downtempo 1 (DCAS008; digital single DCAS008DD1) by owner listening; determine whether the label has a qualifying local jungle connection."
   ]
 }
