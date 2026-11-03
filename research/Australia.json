@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-61",
+  "revision": "2026-11-03-au-62",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -451,9 +451,16 @@
     {
       "name": "5158 Records",
       "city": "Adelaide",
-      "status": "listening_required",
-      "detail": "Adelaide drum & bass label founded by Mark7 around 2000, with a local artist and compilation series. No jungle qualification inferred; owner listening pending.",
+      "status": "prior_listening_verdict_unrecovered",
+      "detail": "Prewf – On My Mind was already heard by the owner; the exact verdict is unrecovered. Do not reassign this item. No further 5158 listening candidate with a verified standalone stream was found in this pass.",
       "url": "https://soundcloud.com/mark7"
+    },
+    {
+      "name": "Iridium 77 Media",
+      "city": "Boolaroo / Newcastle region, New South Wales",
+      "status": "listening_required",
+      "detail": "Australian label with a direct digital release by Overcast; listening pending. Label connection to the jungle/breakbeat-hardcore ecosystem is not inferred from metadata alone.",
+      "url": "https://ir77.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1397,9 +1404,16 @@
     {
       "label": "5158 Records",
       "release": "Prewf – On My Mind (5158 Records; featured at 00:00 on Mark7 – Adelaide Drum & Bass Volume 6, 2022)",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Historical South Australian sources identify the track as a 5158 Records release; the SoundCloud link is Mark7's mix beginning with this track. DnB lane, no jungle verdict inferred. Catalog number not verified.",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner says this was already covered. Do not reassign; the precise earlier listening verdict is not recovered.",
       "url": "https://soundcloud.com/mark7/adelaide-drum-bass-vol-6"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Overcast – Wolfe / Concord [IR77-1000] (2025)",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Direct standalone release page; two cuts, Wolfe and Concord. Label copy describes 1991/93 breakbeat hardcore; user listening will determine project classification.",
+      "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
     }
   ],
   "artist_provenance": [
@@ -1783,6 +1797,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "5158 Records: owner to listen to Prewf – On My Mind (first track in Mark7's Adelaide Drum & Bass Volume 6) and assess the label's jungle connection."
+    "Iridium 77 Media: owner to listen to Overcast – Wolfe / Concord [IR77-1000] and assess the label's qualifying jungle connection."
   ]
 }
