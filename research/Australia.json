@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-63",
+  "revision": "2026-11-03-au-64",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1418,9 +1418,16 @@
     {
       "label": "Iridium 77 Media",
       "release": "Overcast – Concord [IR77-1000] (2025)",
-      "status": "listening_required",
-      "verdict": "Next track on the same release; owner verdict pending. Do not infer from Wolfe.",
+      "status": "excluded",
+      "verdict": "Owner clarified that if Concord qualified they would have said so; it is on the same release as Wolfe. Record Concord as not qualifying; do not reassign or infer a whole-release verdict.",
       "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Xylocaine – Rubicon Job / Consternation [IR77-700] (2025)",
+      "status": "listening_required",
+      "verdict": "New release from the label's catalogue. Owner listening pending. Direct digital stream verified. Do not infer Xylocaine's Australian-scene provenance from the label location.",
+      "url": "https://ir77.bandcamp.com/album/ir77-700-rubicon-job-consternation"
     }
   ],
   "artist_provenance": [
@@ -1804,6 +1811,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Iridium 77 Media: owner to listen to Overcast – Concord [IR77-1000]; do not infer a verdict from Wolfe."
+    "Iridium 77 Media: owner to listen to Xylocaine – Rubicon Job / Consternation [IR77-700]; if a track qualifies, investigate Xylocaine's Australian-scene provenance independently."
   ]
 }
