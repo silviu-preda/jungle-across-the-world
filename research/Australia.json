@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-58",
+  "revision": "2026-11-03-au-59",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -440,6 +440,13 @@
       "status": "contextual",
       "detail": "Melbourne label explored through two separate artist avenues. Owner rejected Evening News – New World (2024) as a complete release and rejected Tony Soprano Band – Brainstorming (DCAS008). Owner judged the label likely not a fit; no qualifying evidence established. Catalogue not exhaustively scanned.",
       "url": "https://dunecastlerecords.bandcamp.com/"
+    },
+    {
+      "name": "Acetic Records",
+      "city": "Adelaide",
+      "status": "listening_required",
+      "detail": "Adelaide-based label. Its debut compilation Tapes of Adelaide is described by the label as a showcase of Adelaide's electronic jungle, while the release tags and retailer classifications skew house/deep house/minimal; one owner listening check is pending, and no qualifying jungle connection is inferred yet.",
+      "url": "https://acetic.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1365,6 +1372,13 @@
       "status": "excluded",
       "verdict": "Owner: no; not qualifying jungle evidence.",
       "url": "https://tonysopranoband.bandcamp.com/track/brainstorming"
+    },
+    {
+      "label": "Acetic Records",
+      "release": "Sachasaidso – Red (Tapes of Adelaide, ACE001; 2023)",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. The compilation is marketed as Adelaide electronic jungle but is predominantly tagged/classified as house and minimal; this assignment is exploratory, not a genre presumption.",
+      "url": "https://acetic.bandcamp.com/album/va-tapes-of-adelaide"
     }
   ],
   "artist_provenance": [
@@ -1747,6 +1761,7 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "Acetic Records: owner to listen to Sachasaidso – Red (Tapes of Adelaide, ACE001); assess whether the label has a qualifying local jungle connection before promotion."
   ]
 }
