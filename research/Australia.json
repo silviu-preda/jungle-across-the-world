@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-62",
+  "revision": "2026-11-03-au-63",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -458,8 +458,8 @@
     {
       "name": "Iridium 77 Media",
       "city": "Boolaroo / Newcastle region, New South Wales",
-      "status": "listening_required",
-      "detail": "Australian label with a direct digital release by Overcast; listening pending. Label connection to the jungle/breakbeat-hardcore ecosystem is not inferred from metadata alone.",
+      "status": "qualified",
+      "detail": "Qualifies through Overcast – Wolfe [IR77-1000], accepted by the owner as jungle. Concord remains unreviewed; no full-release verdict inferred.",
       "url": "https://ir77.bandcamp.com/"
     }
   ],
@@ -1410,9 +1410,16 @@
     },
     {
       "label": "Iridium 77 Media",
-      "release": "Overcast – Wolfe / Concord [IR77-1000] (2025)",
+      "release": "Overcast – Wolfe [IR77-1000] (2025)",
+      "status": "qualified",
+      "verdict": "Owner: yes, Wolfe works; accepted as qualifying jungle. This verdict applies to Wolfe only; no Concord or full-release verdict inferred.",
+      "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Overcast – Concord [IR77-1000] (2025)",
       "status": "listening_required",
-      "verdict": "Owner listening pending. Direct standalone release page; two cuts, Wolfe and Concord. Label copy describes 1991/93 breakbeat hardcore; user listening will determine project classification.",
+      "verdict": "Next track on the same release; owner verdict pending. Do not infer from Wolfe.",
       "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
     }
   ],
@@ -1797,6 +1804,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Iridium 77 Media: owner to listen to Overcast – Wolfe / Concord [IR77-1000] and assess the label's qualifying jungle connection."
+    "Iridium 77 Media: owner to listen to Overcast – Concord [IR77-1000]; do not infer a verdict from Wolfe."
   ]
 }
