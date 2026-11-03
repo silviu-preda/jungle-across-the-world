@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-60",
+  "revision": "2026-11-03-au-61",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -444,9 +444,16 @@
     {
       "name": "Acetic Records",
       "city": "Adelaide",
-      "status": "listening_required",
-      "detail": "Adelaide-based label. Its debut compilation Tapes of Adelaide is described by the label as a showcase of Adelaide's electronic jungle, while the release tags and retailer classifications skew house/deep house/minimal; one owner listening check is pending, and no qualifying jungle connection is inferred yet.",
+      "status": "contextual",
+      "detail": "Adelaide-based label. Its catalogue is self-described as deep/minimal; owner rejected Sachasaidso – Red (ACE001) and yepecc – Angels (Angels and Demons). No qualifying jungle connection established from the checked material; keep contextual.",
       "url": "https://acetic.bandcamp.com/"
+    },
+    {
+      "name": "5158 Records",
+      "city": "Adelaide",
+      "status": "listening_required",
+      "detail": "Adelaide drum & bass label founded by Mark7 around 2000, with a local artist and compilation series. No jungle qualification inferred; owner listening pending.",
+      "url": "https://soundcloud.com/mark7"
     }
   ],
   "listening": [
@@ -1383,9 +1390,16 @@
     {
       "label": "Acetic Records",
       "release": "yepecc – Angels (Angels and Demons, 2025; catalog number not verified)",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Angels and Demons has a breakbeat tag; yepecc's Acetic Selects 020 is promoted by the label as electro/breaks/acid/techno, making this a plausible next check. No jungle verdict inferred.",
+      "status": "excluded",
+      "verdict": "Owner: no; rejected as jungle evidence.",
       "url": "https://acetic.bandcamp.com/track/angels"
+    },
+    {
+      "label": "5158 Records",
+      "release": "Prewf – On My Mind (5158 Records; featured at 00:00 on Mark7 – Adelaide Drum & Bass Volume 6, 2022)",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Historical South Australian sources identify the track as a 5158 Records release; the SoundCloud link is Mark7's mix beginning with this track. DnB lane, no jungle verdict inferred. Catalog number not verified.",
+      "url": "https://soundcloud.com/mark7/adelaide-drum-bass-vol-6"
     }
   ],
   "artist_provenance": [
@@ -1769,6 +1783,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Acetic Records: owner to listen to yepecc – Angels (Angels and Demons); assess whether the label has a qualifying local jungle connection before promotion."
+    "5158 Records: owner to listen to Prewf – On My Mind (first track in Mark7's Adelaide Drum & Bass Volume 6) and assess the label's jungle connection."
   ]
 }
