@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-03-au-66",
+  "revision": "2026-11-04-au-67",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -466,7 +466,7 @@
       "name": "Slice Records",
       "city": "Australia; city not verified",
       "status": "listening_required",
-      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013] as a complete release; other catalogue candidates remain unreviewed.",
+      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013] as a complete release and judged bbsanii – Jkungle Funk from Spliced [SLICE063] borderline/mentionable; other catalogue candidates remain unreviewed.",
       "url": "https://slicerecords.bandcamp.com/"
     }
   ],
@@ -1446,8 +1446,8 @@
     {
       "label": "Slice Records",
       "release": "bbsanii – Jkungle Funk, from Spliced [SLICE063] (2022)",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Standalone track stream verified; the compilation is eclectic, so no jungle verdict inferred from title or tags.",
+      "status": "contextual",
+      "verdict": "Owner: borderline, can be mentioned; not a firm jungle qualification.",
       "url": "https://slicerecords.bandcamp.com/track/jkungle-funk"
     }
   ],
@@ -1831,7 +1831,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Slice Records: owner to listen to bbsanii – Jkungle Funk from Spliced [SLICE063]; do not infer from the title or metadata."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
   ]
 }
