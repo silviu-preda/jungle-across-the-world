@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-70",
+  "revision": "2026-11-04-au-71",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -466,7 +466,7 @@
       "name": "Slice Records",
       "city": "Australia; city not verified",
       "status": "listening_required",
-      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028] and Ear Mind Eye – Instant Slack as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable. Warm Natural – Crystals [SLICE089] is queued; other catalogue candidates remain unreviewed.",
+      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028], Ear Mind Eye – Instant Slack and Warm Natural – Crystals [SLICE089]; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable. Final check queued: Metaphoenix [SLICE001], including the breakcore/hardcore outlier Tøn – Japa.",
       "url": "https://slicerecords.bandcamp.com/"
     }
   ],
@@ -1467,9 +1467,16 @@
     {
       "label": "Slice Records",
       "release": "Warm Natural – Crystals [SLICE089] (2025), complete release",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Official notes describe a swung breakbeat crescendo; no jungle verdict inferred from that description.",
+      "status": "excluded",
+      "verdict": "Owner: no, no way; rejected as jungle evidence.",
       "url": "https://slicerecords.bandcamp.com/album/crystals"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Various Artists – Metaphoenix [SLICE001] (2014), complete compilation",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Official compilation tags are mainly psychedelic/electronic; Tøn – Japa is the breakcore/hardcore outlier. Final Slice release check at owner's request.",
+      "url": "https://slicerecords.bandcamp.com/album/metaphoenix"
     }
   ],
   "artist_provenance": [
@@ -1853,6 +1860,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Slice Records: owner to listen to Warm Natural – Crystals [SLICE089] (2025); do not infer jungle qualification from release notes."
+    "Slice Records: final owner listening check is Various Artists – Metaphoenix [SLICE001] (2014); after verdict, stop exploring this label as requested."
   ]
 }
