@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-67",
+  "revision": "2026-11-04-au-68",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1449,6 +1449,13 @@
       "status": "contextual",
       "verdict": "Owner: borderline, can be mentioned; not a firm jungle qualification.",
       "url": "https://slicerecords.bandcamp.com/track/jkungle-funk"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Jimmi-Woods – Biolume [SLICE028] (2020), complete release",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Official release notes describe progressive techno; it includes Jungle Brother and a Tok'ra remix, so no genre verdict inferred from titles.",
+      "url": "https://slicerecords.bandcamp.com/album/biolume"
     }
   ],
   "artist_provenance": [
@@ -1831,6 +1838,7 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "Slice Records: owner to listen to Jimmi-Woods – Biolume [SLICE028] as a complete release; do not infer jungle qualification from track titles."
   ]
 }
