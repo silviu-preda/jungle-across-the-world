@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-72",
+  "revision": "2026-11-04-au-73",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -468,6 +468,13 @@
       "status": "contextual",
       "detail": "Explored and closed at owner's request. No firm jungle connection established: Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028], Ear Mind Eye – Instant Slack, Warm Natural – Crystals [SLICE089] and Metaphoenix [SLICE001] were rejected as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable only. Metaphoenix was judged not jungle, with a bit of hardcore.",
       "url": "https://slicerecords.bandcamp.com/"
+    },
+    {
+      "name": "SPLITENDES",
+      "city": "Perth, Western Australia",
+      "status": "listening_required",
+      "detail": "ENDE Records sub-label for free digital singles; catalogue spans breakcore, industrial hardcore, dark ambient and DnB. Trial sample queued: Abyss – Thug Life from SE008. Abyss is UK-based per release notes; do not allocate the artist to Australia from label location.",
+      "url": "https://splitendes.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1477,6 +1484,13 @@
       "status": "excluded",
       "verdict": "Owner: not jungle, a bit of hardcore; rejected as jungle evidence.",
       "url": "https://slicerecords.bandcamp.com/album/metaphoenix"
+    },
+    {
+      "label": "SPLITENDES",
+      "release": "Abyss – Thug Life, from (SE008) Abyss / Abortretryfail",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Official release notes call it Amen-smashing hard drum & bass; no jungle verdict inferred. Abyss is identified as a UK producer, so this is cross-border label evidence only.",
+      "url": "https://splitendes.bandcamp.com/album/se008-abyss-abortretryfail"
     }
   ],
   "artist_provenance": [
@@ -1859,6 +1873,7 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "SPLITENDES: owner to listen to Abyss – Thug Life from SE008; assess the track, and do not allocate Abyss to Australia based on the Perth label."
   ]
 }
