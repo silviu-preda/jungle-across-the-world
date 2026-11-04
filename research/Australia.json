@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-69",
+  "revision": "2026-11-04-au-70",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -466,7 +466,7 @@
       "name": "Slice Records",
       "city": "Australia; city not verified",
       "status": "listening_required",
-      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013] and Jimmi-Woods – Biolume [SLICE028] as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable. Ear Mind Eye – Instant Slack is queued; other catalogue candidates remain unreviewed.",
+      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028] and Ear Mind Eye – Instant Slack as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable. Warm Natural – Crystals [SLICE089] is queued; other catalogue candidates remain unreviewed.",
       "url": "https://slicerecords.bandcamp.com/"
     }
   ],
@@ -1460,9 +1460,16 @@
     {
       "label": "Slice Records",
       "release": "Ear Mind Eye – Instant Slack (2023), complete EP",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Official release notes describe a break-heavy psychedelic EP inspired by old-school rave, IDM and acid; no jungle verdict inferred.",
+      "status": "excluded",
+      "verdict": "Owner: nope; rejected as jungle evidence (complete EP).",
       "url": "https://slicerecords.bandcamp.com/album/instant-slack"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Warm Natural – Crystals [SLICE089] (2025), complete release",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Official notes describe a swung breakbeat crescendo; no jungle verdict inferred from that description.",
+      "url": "https://slicerecords.bandcamp.com/album/crystals"
     }
   ],
   "artist_provenance": [
@@ -1846,6 +1853,6 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Slice Records: owner to listen to Ear Mind Eye – Instant Slack (2023) as a complete EP; no catalog number shown on the Bandcamp release page."
+    "Slice Records: owner to listen to Warm Natural – Crystals [SLICE089] (2025); do not infer jungle qualification from release notes."
   ]
 }
