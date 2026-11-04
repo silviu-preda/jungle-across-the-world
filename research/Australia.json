@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-71",
+  "revision": "2026-11-04-au-72",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -465,8 +465,8 @@
     {
       "name": "Slice Records",
       "city": "Australia; city not verified",
-      "status": "listening_required",
-      "detail": "Australian underground electronic label founded in 2011. Owner rejected Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028], Ear Mind Eye – Instant Slack and Warm Natural – Crystals [SLICE089]; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable. Final check queued: Metaphoenix [SLICE001], including the breakcore/hardcore outlier Tøn – Japa.",
+      "status": "contextual",
+      "detail": "Explored and closed at owner's request. No firm jungle connection established: Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028], Ear Mind Eye – Instant Slack, Warm Natural – Crystals [SLICE089] and Metaphoenix [SLICE001] were rejected as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable only. Metaphoenix was judged not jungle, with a bit of hardcore.",
       "url": "https://slicerecords.bandcamp.com/"
     }
   ],
@@ -1474,8 +1474,8 @@
     {
       "label": "Slice Records",
       "release": "Various Artists – Metaphoenix [SLICE001] (2014), complete compilation",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Official compilation tags are mainly psychedelic/electronic; Tøn – Japa is the breakcore/hardcore outlier. Final Slice release check at owner's request.",
+      "status": "excluded",
+      "verdict": "Owner: not jungle, a bit of hardcore; rejected as jungle evidence.",
       "url": "https://slicerecords.bandcamp.com/album/metaphoenix"
     }
   ],
@@ -1859,7 +1859,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Slice Records: final owner listening check is Various Artists – Metaphoenix [SLICE001] (2014); after verdict, stop exploring this label as requested."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
   ]
 }
