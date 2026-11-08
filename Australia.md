@@ -292,9 +292,9 @@ Night Shop is not being promoted as a jungle label. Rita Bass's *Reimagining* ti
 
 #### Backpocket Slammers — Melbourne / Naarm
 
-Backpocket Slammers is a Naarm/Melbourne-based label and now qualifies directly through owner-confirmed jungle on *Backpocket Slammers: Volume 2* (2023). **Ekzander – *4PM Alarm*** and **Jungist – *I've lost something*** both qualify.
+Backpocket Slammers is a Naarm/Melbourne-based label and qualifies directly through owner-confirmed jungle across its compilations. **Caitlin Medcalf – *Untitled*** on *Backpocket Slammers: Volume 1* (2022) qualifies, as do **Ekzander – *4PM Alarm*** and **Jungist – *I've lost something*** on *Volume 2* (2023). *Volume 3* was checked in full and contained no jungle.
 
-The artist allocations are independently clean rather than inherited from the label: Ekzander is a Naarm-based producer/DJ, while Jungist (Zoe Pittman) is Hong Kong-born and Eora/Sydney-based. This makes the compilation useful cross-city Australian jungle evidence as well as direct label qualification.
+The artist allocations are independently clean rather than inherited from the label: Caitlin Medcalf was Eora/Sydney-based during the 2021–2022 period when *Untitled* was released; Ekzander is a Naarm-based producer/DJ; Jungist (Zoe Pittman) is Hong Kong-born and Eora/Sydney-based. This makes the label useful cross-city Australian jungle evidence as well as direct label qualification.
 
 ### Perth and Western Australia
 
