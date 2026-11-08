@@ -545,6 +545,13 @@
       "status": "contextual",
       "detail": "Melbourne collective/record label. JPSxHOOVES – Guerilla was rejected by owner as jungle evidence. Keep contextual unless a stronger specific jungle lead surfaces.",
       "url": "https://theoperatives.bandcamp.com/"
+    },
+    {
+      "name": "clipp.art",
+      "city": "Melbourne, Australia",
+      "status": "listening_required",
+      "detail": "Melbourne label founded in 2017. SOUNDS LIKE A GOOD TIME. IV explicitly spans jungle among other styles; later label notes describe Illusions – Tonight as a Bukem-esque stomper. Owner listening assigned to establish concrete qualifying evidence.",
+      "url": "https://clipp-art.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1729,6 +1736,13 @@
       "status": "excluded",
       "verdict": "Owner: no; does not qualify as jungle.",
       "url": "https://theoperatives.bandcamp.com/track/guerilla"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Illusions – Tonight (SOUNDS LIKE A GOOD TIME. IV, 2020)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate; label later describes the track as a Bukem-esque stomper. Owner verdict required.",
+      "url": "https://clipp-art.bandcamp.com/album/sounds-like-a-good-time-iv-clipp166"
     }
   ],
   "artist_provenance": [
