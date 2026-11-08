@@ -515,7 +515,7 @@
       "name": "Backpocket Slammers",
       "city": "Melbourne / Naarm",
       "status": "qualified",
-      "detail": "Naarm/Melbourne-based label. Backpocket Slammers: Volume 2 contains two owner-confirmed qualifying jungle tracks: Ekzander – 4PM Alarm and Jungist – I've lost something. Label profile identifies it as Naarm/Melbourne based; compilation was created on Wurundjeri Country.",
+      "detail": "Naarm/Melbourne-based label. Volume 2 contains two owner-confirmed jungle tracks: Ekzander – 4PM Alarm and Jungist – I've lost something. Volume 3 was checked in full and owner found no jungle.",
       "url": "https://backpocketslammers.bandcamp.com/"
     }
   ],
@@ -1645,6 +1645,13 @@
       "status": "prior_listening_verdict_unrecovered",
       "verdict": "Listening was assigned, but owner instead reported verdicts for 4PM Alarm and I've lost something; no explicit verdict captured for this track. Do not reassign solely to recover it.",
       "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Backpocket Slammers: Volume 3 (complete release, 2024)",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on this one.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-3"
     }
   ],
   "artist_provenance": [
