@@ -1750,6 +1750,13 @@
       "status": "excluded",
       "verdict": "Owner: no; does not qualify as jungle.",
       "url": "https://clipp-art.bandcamp.com/track/im-tired-2"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Jack N Jerk – Open Your Heart (Jack Inside Shapes EP, CLIPP011)",
+      "status": "listening_required",
+      "verdict": "Fresh clipp.art Australian-roster probe. Label describes the EP as Chicago house meets UK jungle; owner verdict required.",
+      "url": "https://clipp-art.bandcamp.com/track/open-your-heart"
     }
   ],
   "artist_provenance": [
@@ -2154,6 +2161,12 @@
       "location": "Gold Coast, Australia",
       "status": "listening_required",
       "notes": "clipp.art artist roster lists DJ Whipr Snipr as Gold Coast, Australia. Artist qualification depends on a qualifying jungle production; testing I'm Tired."
+    },
+    {
+      "name": "Jack N Jerk",
+      "location": "Sydney / Melbourne, Australia",
+      "status": "listening_required",
+      "notes": "Beatport describes Jack N Jerk as Sydney/Melbourne rhythm natives Adam Stivala and Antonio Celestino. Owner verdict on qualifying jungle production pending."
     }
   ],
   "open_tasks": [
