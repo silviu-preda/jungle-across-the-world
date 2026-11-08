@@ -1743,6 +1743,13 @@
       "status": "qualified",
       "verdict": "Owner: it is jungle; qualifying.",
       "url": "https://clipp-art.bandcamp.com/album/sounds-like-a-good-time-iv-clipp166"
+    },
+    {
+      "label": "clipp.art",
+      "release": "DJ Whipr Snipr – I'm Tired (Sounds Like A Good Time, CLIPP032, 2018)",
+      "status": "listening_required",
+      "verdict": "Fresh same-label roster probe. clipp.art lists DJ Whipr Snipr as Gold Coast, Australia; owner verdict required.",
+      "url": "https://clipp-art.bandcamp.com/track/im-tired-2"
     }
   ],
   "artist_provenance": [
@@ -2141,6 +2148,12 @@
       "location": "Vienna, Austria",
       "status": "cross_border",
       "notes": "clipp.art describes Illusions as Viennese. Owner confirmed Tonight as jungle; use as qualifying evidence for Melbourne label clipp.art only, not Australian artist allocation."
+    },
+    {
+      "name": "DJ Whipr Snipr",
+      "location": "Gold Coast, Australia",
+      "status": "listening_required",
+      "notes": "clipp.art artist roster lists DJ Whipr Snipr as Gold Coast, Australia. Artist qualification depends on a qualifying jungle production; testing I'm Tired."
     }
   ],
   "open_tasks": [
