@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-10-29-au-41",
+  "revision": "2026-11-04-au-74",
   "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -419,6 +419,62 @@
       "status": "qualified",
       "detail": "Established in Bristol and now based in Sydney. Qualifies through owner-accepted jungle treatments Healing and Satisfy (2026), Who R U? (BBR009, 2023), Drip (Chris Munky & Operon Remix, 2022), and Policeman (Gold Dubs Remix, 2021). Junglist Tonight and Bluenotes were contextual; Sine was noted as an interesting jungle–dubwise crossover without a firm qualify verdict; Sounds Iller has a similar character with less emphasis on the beat and received a note only. Gully (Dancehall Dubplate), Urbia, Let's Be Vigilantes (BBR001), Try Test (Instrumental Jungle Mix), and the Tenement Yard bootleg were rejected as jungle. Chris Munky is Sydney-based and Operon Brisbane-based; their collaborations provide local Australian artist evidence. Policeman qualifies only through Gold Dubs' remix, not the original reggae mix. The Drip verdict applies to the remix, not an inferred jungle production by Friendless or Jannah Beth.",
       "url": "https://bananabombsrecords.bandcamp.com/"
+    },
+    {
+      "name": "Rollin Records",
+      "city": "Perth",
+      "status": "contextual",
+      "detail": "Perth bass label investigated. SPECK – Giddyup and Aydose – Complicated rejected by owner; Aydose & R-TRE – Altruistic Mind received a contextual verdict (some breaks, insufficient for jungle). Further catalogue is predominantly DnB/halftime/leftfield bass; no qualifying connection established.",
+      "url": "https://rollinrecords.com.au/releases/"
+    },
+    {
+      "name": "BREAK MATRIX",
+      "city": "Australia (city unverified)",
+      "status": "qualified",
+      "detail": "Australian Bandcamp label. Owner accepted Cyberian Shirayuki – She Drives A Honda (P*7-02) as a very strong qualifying release. Cyberian Shirayuki's Australian-scene provenance remains unverified; the label's location is not transferred to the artist.",
+      "url": "https://breakmatrix.bandcamp.com/"
+    },
+    {
+      "name": "Dune Castle Records",
+      "city": "Melbourne, Australia",
+      "status": "contextual",
+      "detail": "Melbourne label explored through two separate artist avenues. Owner rejected Evening News – New World (2024) as a complete release and rejected Tony Soprano Band – Brainstorming (DCAS008). Owner judged the label likely not a fit; no qualifying evidence established. Catalogue not exhaustively scanned.",
+      "url": "https://dunecastlerecords.bandcamp.com/"
+    },
+    {
+      "name": "Acetic Records",
+      "city": "Adelaide",
+      "status": "contextual",
+      "detail": "Adelaide-based label. Its catalogue is self-described as deep/minimal; owner rejected Sachasaidso – Red (ACE001) and yepecc – Angels (Angels and Demons). No qualifying jungle connection established from the checked material; keep contextual.",
+      "url": "https://acetic.bandcamp.com/"
+    },
+    {
+      "name": "5158 Records",
+      "city": "Adelaide",
+      "status": "prior_listening_verdict_unrecovered",
+      "detail": "Prewf – On My Mind was already heard by the owner; the exact verdict is unrecovered. Do not reassign this item. No further 5158 listening candidate with a verified standalone stream was found in this pass.",
+      "url": "https://soundcloud.com/mark7"
+    },
+    {
+      "name": "Iridium 77 Media",
+      "city": "Boolaroo / Newcastle region, New South Wales",
+      "status": "qualified",
+      "detail": "Qualifies through Overcast – Wolfe [IR77-1000], accepted by the owner as jungle. Concord was not accepted; Xylocaine – Rubicon Job / Consternation was judged more gabber.",
+      "url": "https://ir77.bandcamp.com/"
+    },
+    {
+      "name": "Slice Records",
+      "city": "Australia; city not verified",
+      "status": "contextual",
+      "detail": "Explored and closed at owner's request. No firm jungle connection established: Fate Æffect – Parabiosis [SLICE013], Jimmi-Woods – Biolume [SLICE028], Ear Mind Eye – Instant Slack, Warm Natural – Crystals [SLICE089] and Metaphoenix [SLICE001] were rejected as jungle evidence; bbsanii – Jkungle Funk from Spliced [SLICE063] is borderline/mentionable only. Metaphoenix was judged not jungle, with a bit of hardcore.",
+      "url": "https://slicerecords.bandcamp.com/"
+    },
+    {
+      "name": "SPLITENDES",
+      "city": "Perth, Western Australia",
+      "status": "qualified",
+      "detail": "Perth sub-label of ENDE. Owner accepted UK producer Abyss – Thug Life from SE008 as jungle, establishing a cross-border label connection. Artist geography is not transferred from the label. Next candidate: Dark Matter Project – And Then They Came from SE005; do not replay the accepted ENDE self-titled album.",
+      "url": "https://splitendes.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1239,6 +1295,209 @@
       "status": "excluded",
       "verdict": "Owner: not jungle; release was wrongly labelled for this exploration.",
       "url": "https://bananabombsrecords.bandcamp.com/album/lets-be-vigilantes-bbr001"
+    },
+    {
+      "label": "Rollin Records",
+      "release": "SPECK – Giddyup",
+      "status": "excluded",
+      "verdict": "Owner: this release does not qualify as jungle.",
+      "url": "https://rollinrecords.com.au/releases/speck-giddyup/"
+    },
+    {
+      "label": "Rollin Records",
+      "release": "Aydose & R-TRE – Altruistic Mind",
+      "status": "contextual",
+      "verdict": "Owner: some breaks, but not enough to qualify as jungle.",
+      "url": "https://rollinrecords.com.au/releases/aydose-rtre-altruistic-mind/"
+    },
+    {
+      "label": "Rollin Records",
+      "release": "Aydose – Complicated",
+      "status": "excluded",
+      "verdict": "Owner: no.",
+      "url": "https://rollinrecords.com.au/releases/aydose-complicated/"
+    },
+    {
+      "label": "BREAK MATRIX",
+      "release": "Cyberian Shirayuki – She Drives A Honda (P*7-02)",
+      "status": "accepted",
+      "verdict": "Owner: very good release, among the best encountered in this exploration; accepted at release level. No individual track verdicts inferred.",
+      "url": "https://breakmatrix.bandcamp.com/album/she-drives-a-honda"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – False Entity (South England Hate Club: Sampler 1, SEHC005)",
+      "status": "contextual",
+      "verdict": "Owner: more breakcore than jungle; retain as breakcore context, not qualifying jungle evidence.",
+      "url": "https://southenglandhateclub.bandcamp.com/album/south-england-hate-club-sampler-1"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – September Funeral (Ethereal Heartbreak, SEHC002)",
+      "status": "contextual",
+      "verdict": "Owner: breakcore; not qualifying jungle evidence.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/september-funeral"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – I Languish (Ethereal Heartbreak, SEHC002)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner clarified the breakcore verdict applied to the complete Ethereal Heartbreak release, not specifically this track; no individual I Languish verdict recorded.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/i-languish"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – Twitter Love Story (Ethereal Heartbreak, SEHC002)",
+      "status": "accepted",
+      "verdict": "Owner: jungle.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/twitter-love-story"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – Hakuren (Ethereal Heartbreak, SEHC002)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner has heard the complete Ethereal Heartbreak release; no individual Hakuren verdict recorded. Do not reassign.",
+      "url": "https://southenglandhateclub.bandcamp.com/track/hakuren"
+    },
+    {
+      "label": "South England Hate Club",
+      "release": "Cyberian Shirayuki – Ethereal Heartbreak (SEHC002), complete release",
+      "status": "contextual",
+      "verdict": "Owner: heard the entire release; breakcore overall. Twitter Love Story was separately identified by the owner as jungle. Do not generalize the release-level breakcore verdict into additional track-level verdicts.",
+      "url": "https://southenglandhateclub.bandcamp.com/album/ethereal-heartbreak"
+    },
+    {
+      "label": "Starrcade Records",
+      "release": "Cyberian Shirayuki – You Killed Yuki (title track; You Killed Yuki, 2024)",
+      "status": "contextual",
+      "verdict": "Owner: breakcore; record as contextual, not qualifying jungle evidence.",
+      "url": "https://open.spotify.com/track/66qoqxfyJwfkDnhB78nUcu?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=5f7e5e1a-82bb-451f-99f8-1a60ae16f69c"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Evening News – Wormhole (New World, 2024)",
+      "status": "excluded",
+      "verdict": "Owner: nope; rejected as jungle evidence.",
+      "url": "https://eveningnews.bandcamp.com/track/wormhole"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Evening News – Ring Mod (New World, 2024)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner rejected the complete New World release; no individual Ring Mod verdict recorded. Do not reassign this track.",
+      "url": "https://eveningnews.bandcamp.com/track/ring-mod"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Evening News – New World (2024), complete release",
+      "status": "excluded",
+      "verdict": "Owner: entire release rejected. No further track-level verdicts inferred from the release-level decision.",
+      "url": "https://eveningnews.bandcamp.com/album/new-world"
+    },
+    {
+      "label": "Dune Castle Records",
+      "release": "Tony Soprano Band – Brainstorming (Downtempo 1, DCAS008; digital single DCAS008DD1)",
+      "status": "excluded",
+      "verdict": "Owner: no; not qualifying jungle evidence.",
+      "url": "https://tonysopranoband.bandcamp.com/track/brainstorming"
+    },
+    {
+      "label": "Acetic Records",
+      "release": "Sachasaidso – Red (Tapes of Adelaide, ACE001; 2023)",
+      "status": "excluded",
+      "verdict": "Owner: nope; rejected as jungle evidence.",
+      "url": "https://acetic.bandcamp.com/album/va-tapes-of-adelaide"
+    },
+    {
+      "label": "Acetic Records",
+      "release": "yepecc – Angels (Angels and Demons, 2025; catalog number not verified)",
+      "status": "excluded",
+      "verdict": "Owner: no; rejected as jungle evidence.",
+      "url": "https://acetic.bandcamp.com/track/angels"
+    },
+    {
+      "label": "5158 Records",
+      "release": "Prewf – On My Mind (5158 Records; featured at 00:00 on Mark7 – Adelaide Drum & Bass Volume 6, 2022)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner says this was already covered. Do not reassign; the precise earlier listening verdict is not recovered.",
+      "url": "https://soundcloud.com/mark7/adelaide-drum-bass-vol-6"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Overcast – Wolfe [IR77-1000] (2025)",
+      "status": "qualified",
+      "verdict": "Owner: yes, Wolfe works; accepted as qualifying jungle. This verdict applies to Wolfe only; no Concord or full-release verdict inferred.",
+      "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Overcast – Concord [IR77-1000] (2025)",
+      "status": "excluded",
+      "verdict": "Owner clarified that if Concord qualified they would have said so; it is on the same release as Wolfe. Record Concord as not qualifying; do not reassign or infer a whole-release verdict.",
+      "url": "https://ir77.bandcamp.com/album/ir77-1000-wolfe-concord"
+    },
+    {
+      "label": "Iridium 77 Media",
+      "release": "Xylocaine – Rubicon Job / Consternation [IR77-700] (2025)",
+      "status": "excluded",
+      "verdict": "Owner: yeah, this is more gabber; rejected as jungle evidence.",
+      "url": "https://ir77.bandcamp.com/album/ir77-700-rubicon-job-consternation"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Fate Æffect – Parabiosis [SLICE013] (2017), complete release",
+      "status": "excluded",
+      "verdict": "Owner: no; rejected as jungle evidence. This verdict applies to the complete release.",
+      "url": "https://slicerecords.bandcamp.com/album/parabiosis"
+    },
+    {
+      "label": "Slice Records",
+      "release": "bbsanii – Jkungle Funk, from Spliced [SLICE063] (2022)",
+      "status": "contextual",
+      "verdict": "Owner: borderline, can be mentioned; not a firm jungle qualification.",
+      "url": "https://slicerecords.bandcamp.com/track/jkungle-funk"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Jimmi-Woods – Biolume [SLICE028] (2020), complete release",
+      "status": "excluded",
+      "verdict": "Owner: no; it's as advertised (progressive techno), not jungle evidence.",
+      "url": "https://slicerecords.bandcamp.com/album/biolume"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Ear Mind Eye – Instant Slack (2023), complete EP",
+      "status": "excluded",
+      "verdict": "Owner: nope; rejected as jungle evidence (complete EP).",
+      "url": "https://slicerecords.bandcamp.com/album/instant-slack"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Warm Natural – Crystals [SLICE089] (2025), complete release",
+      "status": "excluded",
+      "verdict": "Owner: no, no way; rejected as jungle evidence.",
+      "url": "https://slicerecords.bandcamp.com/album/crystals"
+    },
+    {
+      "label": "Slice Records",
+      "release": "Various Artists – Metaphoenix [SLICE001] (2014), complete compilation",
+      "status": "excluded",
+      "verdict": "Owner: not jungle, a bit of hardcore; rejected as jungle evidence.",
+      "url": "https://slicerecords.bandcamp.com/album/metaphoenix"
+    },
+    {
+      "label": "SPLITENDES",
+      "release": "Abyss – Thug Life, from (SE008) Abyss / Abortretryfail",
+      "status": "qualified",
+      "verdict": "Owner: Thug Life goes in; accepted as qualifying jungle evidence. Abyss remains UK-based; this qualifies the Perth label connection only.",
+      "url": "https://splitendes.bandcamp.com/album/se008-abyss-abortretryfail"
+    },
+    {
+      "label": "SPLITENDES",
+      "release": "Dark Matter Project – And Then They Came, from (SE005) The Filth / Dark Matter Project",
+      "status": "listening_required",
+      "verdict": "Owner listening pending. Official release notes describe this side as minimal jungle; same artist's ENDE self-titled album was already heard and accepted, so this is a distinct SPLITENDES release, not a reassignment.",
+      "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
     }
   ],
   "artist_provenance": [
@@ -1601,6 +1860,12 @@
       "location": "UK; city/residence unverified",
       "status": "provenance_required",
       "notes": "The label describes Gold Dubs as a UK jungle producer, and the owner accepted his Policeman remix as jungle. This is cross-border catalogue evidence only; no Australian-scene activity is established."
+    },
+    {
+      "name": "Cyberian Shirayuki",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Owner accepted She Drives A Honda (P*7-02) at release level and identified Twitter Love Story on Ethereal Heartbreak (SEHC002) as jungle, meeting the artist-level genre threshold. Australian-scene provenance remains unverified; releases through Australian or UK labels do not establish the artist's country allocation."
     }
   ],
   "open_tasks": [
@@ -1613,6 +1878,9 @@
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
     "Nate Swan: verify an original jungle production before promoting beyond confirmed Australian jungle DJ/selector activity. Do not replay the accepted cassette mix.",
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
-    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found."
+    "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
+    "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "SPLITENDES: owner to listen to Dark Matter Project – And Then They Came from SE005. This is distinct from the previously accepted ENDE self-titled album; do not replay that album. Resolve Dark Matter Project chronology for Australia vs Chile separately."
   ]
 }
