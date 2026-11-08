@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-08-au-75",
-  "source_base_commit": "aeb6a47ad65a35fd2aed7e3f31257b1bb56d2a1d",
+  "revision": "2026-11-08-au-76",
+  "source_base_commit": "e15a503e21774cf064ef4df44816046d495d3018",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -1505,6 +1505,13 @@
       "status": "excluded",
       "verdict": "Owner: too DnB; does not qualify as jungle. This is the distinct SPLITENDES SE005 track, not the previously accepted ENDE self-titled album.",
       "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
+    },
+    {
+      "label": "ENDE Records Australia",
+      "release": "Maladroit – Visits From Best Friends Bring Joy (ENDE184)",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle for this project.",
+      "url": "https://enderecords.bandcamp.com/album/ende184-maladroit-visits-from-best-friends-bring-joy"
     }
   ],
   "artist_provenance": [
@@ -1648,9 +1655,9 @@
     },
     {
       "name": "Dark Matter Project / Luciano Zepeda",
-      "location": "Sydney historically; Chile later",
-      "status": "provenance_required",
-      "notes": "Self-titled ENDE album accepted; qualify chronology before allocating."
+      "location": "Santiago, Chile for the accepted self-titled ENDE album; historically Sydney, Australia",
+      "status": "qualified",
+      "notes": "Country chronology resolved: ENDE69 self-titled album was recorded and produced in Santiago, Chile between 2010–2013 and accepted by owner. Historical Sydney/KWS activity predates that; SE005 Fire Walk With Me was produced in Sydney in 2004 but rejected as breakcore, while And Then They Came was produced in Santiago in 2012 and rejected as too DnB. Therefore do not allocate Dark Matter Project to Australia from the accepted ENDE69 jungle material."
     },
     {
       "name": "Laptop Destroyer / Kris Keogh",
@@ -1879,7 +1886,6 @@
     "Determine independent city-level locations for remaining B&H and Extra Spicy contributors; Knuckle now has Australia-level provenance (city unverified), while Myledo and nickname are resolved.",
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
-    "Establish Dark Matter Project chronology for Australia vs Chile.",
     "Defer Big Dog archive listening until convenient access.",
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
