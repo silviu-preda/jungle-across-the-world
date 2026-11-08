@@ -290,6 +290,12 @@ CC:White is no longer excluded. The Reverend Glock qualifies through *The Depart
 
 Night Shop is not being promoted as a jungle label. Rita Bass's *Reimagining* title track passed as jungle, while the rest of the release did not establish a broader jungle catalogue. Rita Bass therefore qualifies narrowly; the label remains contextual.
 
+#### Backpocket Slammers — Melbourne / Naarm
+
+Backpocket Slammers is a Naarm/Melbourne-based label and now qualifies directly through owner-confirmed jungle on *Backpocket Slammers: Volume 2* (2023). **Ekzander – *4PM Alarm*** and **Jungist – *I've lost something*** both qualify.
+
+The artist allocations are independently clean rather than inherited from the label: Ekzander is a Naarm-based producer/DJ, while Jungist (Zoe Pittman) is Hong Kong-born and Eora/Sydney-based. This makes the compilation useful cross-city Australian jungle evidence as well as direct label qualification.
+
 ### Perth and Western Australia
 
 #### Greg Packer / Interphase
