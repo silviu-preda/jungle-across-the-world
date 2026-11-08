@@ -559,6 +559,13 @@
       "status": "contextual",
       "detail": "Australian label. Andy Himself & Chalmer John – Jungle (Original Mix) was checked and rejected by owner as jungle despite the title. Keep contextual unless a stronger specific jungle lead surfaces.",
       "url": "https://wileout.bandcamp.com/"
+    },
+    {
+      "name": "Deep Scan Technologies",
+      "city": "Eora / Sydney, Australia",
+      "status": "listening_required",
+      "detail": "Sydney/Eora experimental electronic label founded by Tom Vanderzeil and Erin Nortje. Solid State Drive 2 is a breakcore-focused local/international compilation; Utility Fog specifically describes R-T-FAX – Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict required.",
+      "url": "https://deepscan.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1778,6 +1785,13 @@
       "status": "excluded",
       "verdict": "Owner: not jungle.",
       "url": "https://wileout.bandcamp.com/album/jungle-ep-wile-out"
+    },
+    {
+      "label": "Deep Scan Technologies",
+      "release": "R-T-FAX – Circuit Breakaa (Solid State Drive 2, 2022)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate; Utility Fog describes it as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict required.",
+      "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
     }
   ],
   "artist_provenance": [
@@ -2188,6 +2202,12 @@
       "location": "Sydney / Melbourne, Australia",
       "status": "contextual",
       "notes": "Beatport describes Jack N Jerk as Sydney/Melbourne rhythm natives Adam Stivala and Antonio Celestino. Owner verdict on qualifying jungle production pending. Owner found no jungle on Jack Inside Shapes EP; Ear II Brain is breaks only."
+    },
+    {
+      "name": "R-T-FAX",
+      "location": "Eora / Sydney, Australia",
+      "status": "listening_required",
+      "notes": "R-T-FAX is Erin Nortje, co-founder of Deep Scan Technologies. Utility Fog identifies her as Sydney-based and describes Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict pending."
     }
   ],
   "open_tasks": [
