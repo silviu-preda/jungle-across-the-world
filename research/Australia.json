@@ -521,8 +521,8 @@
     {
       "name": "BASS WATER FREAK OUT",
       "city": "Eora / Sydney",
-      "status": "listening_required",
-      "detail": "Sydney/Eora water label curated by Adrian Asher. Swungist – Presence rejected by owner. Testing Jungist – Dark Room, Jungist's 2022 debut on MERMAID LEMONADE, for a concrete qualifying jungle connection.",
+      "status": "contextual",
+      "detail": "Sydney/Eora water label curated by Adrian Asher. Owner rejected Swungist – Presence and found no qualifying jungle anywhere on MERMAID LEMONADE. Close as contextual unless a new specific lead surfaces.",
       "url": "https://basswaterfreakout.bandcamp.com/"
     }
   ],
@@ -1677,8 +1677,15 @@
     {
       "label": "BASS WATER FREAK OUT",
       "release": "Jungist – Dark Room (MERMAID LEMONADE, 2022)",
-      "status": "listening_required",
-      "verdict": "Fresh same-label follow-up. Jungist is independently Eora/Sydney-based and already qualifies elsewhere; owner verdict here determines BWFO's concrete jungle release evidence.",
+      "status": "excluded",
+      "verdict": "Owner: nothing on MERMAID LEMONADE qualifies as jungle; do not use Dark Room as label evidence.",
+      "url": "https://basswaterfreakout.bandcamp.com/album/mermaid-lemonade"
+    },
+    {
+      "label": "BASS WATER FREAK OUT",
+      "release": "MERMAID LEMONADE (complete release, 2022)",
+      "status": "excluded",
+      "verdict": "Owner: nothing in this release qualifies as jungle.",
       "url": "https://basswaterfreakout.bandcamp.com/album/mermaid-lemonade"
     }
   ],
