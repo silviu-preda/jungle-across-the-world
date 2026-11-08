@@ -496,6 +496,20 @@
       "status": "contextual",
       "detail": "Broad Brisbane multi-genre label whose profile includes jungle among many styles. Owner rejected P ∆ W R L S O L – Anwot/Prno and Radar (M3). No stronger concrete jungle cut surfaced in the catalogue check; close as contextual unless a specific new lead appears.",
       "url": "https://masconechoes.bandcamp.com/"
+    },
+    {
+      "name": "Steel City Dance Discs",
+      "city": "Newcastle, Australia origin; later relocated to London, UK",
+      "status": "contextual",
+      "detail": "Founded/built in Newcastle and later relocated/exported to London. Tim Reaper – Forever & A Day (2026) is unambiguously jungle, but belongs to the label's current UK phase; retain in Australia as Australian-origin/cross-border context rather than treating that release as Australian-phase jungle activity.",
+      "url": "https://steelcitydancediscs.bandcamp.com/"
+    },
+    {
+      "name": "Chronically Ill Audio",
+      "city": "Eora / Sydney",
+      "status": "qualified",
+      "detail": "Eora/Sydney community label launched in 2026. Resident Advisor described its launch as 'a new jungle label'; subsequent local events explicitly describe the label as collectively pushing jungle, breaks and UK garage. Current Australian jungle ecosystem connection is independently established.",
+      "url": "https://chronicallyillaudio.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1596,6 +1610,13 @@
       "status": "excluded",
       "verdict": "Owner: no; does not qualify as jungle.",
       "url": "https://masconechoes.bandcamp.com/album/m3"
+    },
+    {
+      "label": "Chronically Ill Audio roster/scene lead",
+      "release": "Deverence – Rampage! (from Level Headed EP, 2023)",
+      "status": "listening_required",
+      "verdict": "Fresh associated-producer candidate surfaced through Chronically Ill Audio; owner verdict required.",
+      "url": "https://open.spotify.com/track/2k8jLaS7reJhxXXBjjs0j7"
     }
   ],
   "artist_provenance": [
@@ -1964,6 +1985,12 @@
       "location": null,
       "status": "provenance_required",
       "notes": "Owner accepted She Drives A Honda (P*7-02) at release level and identified Twitter Love Story on Ethereal Heartbreak (SEHC002) as jungle, meeting the artist-level genre threshold. Australian-scene provenance remains unverified; releases through Australian or UK labels do not establish the artist's country allocation."
+    },
+    {
+      "name": "Deverence",
+      "location": "Sydney / Eora, Australia",
+      "status": "listening_required",
+      "notes": "Sydney producer/DJ associated with Chronically Ill Audio (launch lineup; mastering engineer for the label). External catalog services classify the 2023 Level Headed EP as Jungle/Drum'n'bass, but owner listening is required for artist qualification."
     }
   ],
   "open_tasks": [
