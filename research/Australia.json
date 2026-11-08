@@ -542,8 +542,8 @@
     {
       "name": "The Operatives",
       "city": "Melbourne, Australia",
-      "status": "listening_required",
-      "detail": "Melbourne collective/record label. Testing JPSxHOOVES – Guerilla, a catalogue track tagged amen/jungle/footwork by the label, as concrete genre evidence.",
+      "status": "contextual",
+      "detail": "Melbourne collective/record label. JPSxHOOVES – Guerilla was rejected by owner as jungle evidence. Keep contextual unless a stronger specific jungle lead surfaces.",
       "url": "https://theoperatives.bandcamp.com/"
     }
   ],
@@ -1726,8 +1726,8 @@
     {
       "label": "The Operatives",
       "release": "JPSxHOOVES – Guerilla (Skitnik, 2016)",
-      "status": "listening_required",
-      "verdict": "Fresh label-first candidate; owner verdict required.",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
       "url": "https://theoperatives.bandcamp.com/track/guerilla"
     }
   ],
