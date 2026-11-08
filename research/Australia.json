@@ -1799,6 +1799,13 @@
       "status": "qualified",
       "verdict": "Owner: jungle; qualifying.",
       "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
+    },
+    {
+      "label": "kolider (self-released)",
+      "release": "Inertia Breaks (2025)",
+      "status": "qualified",
+      "verdict": "Owner: yes, this goes in; accepted as qualifying jungle evidence.",
+      "url": "https://kolider.bandcamp.com/track/inertia-breaks"
     }
   ],
   "artist_provenance": [
@@ -2221,6 +2228,12 @@
       "location": "Sydney / Eora, Australia",
       "status": "qualified",
       "notes": "Utility Fog's April 2022 coverage of Deep Scan's Solid State Drive 2 identifies Dark Apostle as from Sydney. Owner confirmed Weeb In The Shell as jungle."
+    },
+    {
+      "name": "kolider / Dan Teng",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Bandcamp identifies kolider as Melbourne, Australia and names Dan Teng as the producer. Inertia Breaks (2025) accepted by owner as qualifying jungle."
     }
   ],
   "open_tasks": [
