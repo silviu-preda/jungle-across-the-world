@@ -1512,6 +1512,20 @@
       "status": "excluded",
       "verdict": "Owner: nope; does not qualify as jungle for this project.",
       "url": "https://enderecords.bandcamp.com/album/ende184-maladroit-visits-from-best-friends-bring-joy"
+    },
+    {
+      "label": "self-released / POD & tommyj",
+      "release": "POD & tommyj – Warprider (2025), complete release",
+      "status": "contextual",
+      "verdict": "Owner: mostly DnB. Do not qualify the release as a whole.",
+      "url": "https://warprider99.bandcamp.com/album/warprider"
+    },
+    {
+      "label": "self-released / POD & tommyj",
+      "release": "POD & tommyj – Artificial Life, from Warprider (2025)",
+      "status": "qualified",
+      "verdict": "Owner: Artificial Life qualifies as jungle.",
+      "url": "https://warprider99.bandcamp.com/track/artificial-life"
     }
   ],
   "artist_provenance": [
