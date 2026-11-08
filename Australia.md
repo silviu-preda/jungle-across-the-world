@@ -412,6 +412,12 @@ Qualifies through Shift & Mindset's *Sirens Lament* on *Bangers 001* and BUEX's 
 
 Anomaly's broad catalogue spans future jungle, J-Tek and hardcore breaks. The owner's verdict accepts **Time Travel's *Back to 94* remix of *Reflection*** on *ANM016: Reflection (The Remixes)* as jungle, establishing a qualifying Australian-label connection. This verdict applies to that remix only; do not infer it for the original or other remixes. Time Travel is separately allocated to Melbourne.
 
+#### SPLITENDES — Perth
+
+**Role:** Qualifying Perth sub-label of ENDE
+
+SPLITENDES remains qualified through **Abyss – *Thug Life*** on *SE008*, accepted by the owner as jungle; Abyss is UK-based, so this is cross-border label evidence rather than Australian artist allocation. *SE005 – The Filth / Dark Matter Project* was subsequently checked and does **not** add jungle evidence: **The Filth – *Fire Walk With Me*** is breakcore, while **Dark Matter Project – *And Then They Came*** is too DnB. Do not replay the previously accepted ENDE self-titled Dark Matter Project album when following this thread.
+
 ### Direct Australian artist outside a resolved label cluster
 
 #### 12bit Jungle Out There
@@ -660,3 +666,4 @@ Dizz1 is independently documented as a Melbourne-based producer. On *In The Zone
 - [All Combo – Extra Dimensional](https://allcombo.bandcamp.com/album/extra-dimensional)
 - [Gorilla Tactics – Soul Ryderz featuring MC Bear](https://soundcloud.com/gorilla-tactics/soul-ryderz-ft-mc-bear-jungle)
 - [200PLUS catalogue](https://200plus.bandcamp.com/)
+
