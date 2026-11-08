@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-08-au-76",
+  "revision": "2026-11-08-au-77",
   "source_base_commit": "e15a503e21774cf064ef4df44816046d495d3018",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -510,6 +510,13 @@
       "status": "qualified",
       "detail": "Eora/Sydney community label launched in 2026. Resident Advisor described its launch as 'a new jungle label'; subsequent local events explicitly describe the label as collectively pushing jungle, breaks and UK garage. Current Australian jungle ecosystem connection is independently established.",
       "url": "https://chronicallyillaudio.bandcamp.com/"
+    },
+    {
+      "name": "Backpocket Slammers",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Naarm/Melbourne-based label. Backpocket Slammers: Volume 2 contains two owner-confirmed qualifying jungle tracks: Ekzander – 4PM Alarm and Jungist – I've lost something. Label profile identifies it as Naarm/Melbourne based; compilation was created on Wurundjeri Country.",
+      "url": "https://backpocketslammers.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1617,6 +1624,27 @@
       "status": "excluded",
       "verdict": "Owner: nope; does not qualify as jungle.",
       "url": "https://open.spotify.com/track/2k8jLaS7reJhxXXBjjs0j7"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Ekzander – 4PM Alarm (Backpocket Slammers: Volume 2, 2023)",
+      "status": "qualified",
+      "verdict": "Owner: jungle.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Jungist – I've lost something (Backpocket Slammers: Volume 2, 2023)",
+      "status": "qualified",
+      "verdict": "Owner: jungle.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "XYSid – trying to find that (Backpocket Slammers: Volume 2, 2023)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Listening was assigned, but owner instead reported verdicts for 4PM Alarm and I've lost something; no explicit verdict captured for this track. Do not reassign solely to recover it.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
     }
   ],
   "artist_provenance": [
@@ -1991,6 +2019,18 @@
       "location": "Sydney / Eora, Australia",
       "status": "contextual",
       "notes": "Sydney producer/DJ associated with Chronically Ill Audio (launch lineup; mastering engineer for the label). External catalog services classify the 2023 Level Headed EP as Jungle/Drum'n'bass, but owner listening is required for artist qualification. Owner rejected Rampage! as jungle evidence; do not qualify Deverence on that basis."
+    },
+    {
+      "name": "Ekzander",
+      "location": "Naarm / Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Resident Advisor identifies Ekzander as a Naarm-based producer/DJ, with Melbourne his primary region. Owner confirmed 4PM Alarm on Backpocket Slammers: Volume 2 as jungle."
+    },
+    {
+      "name": "Jungist",
+      "location": "Eora / Sydney, Australia",
+      "status": "qualified",
+      "notes": "Resident Advisor identifies Jungist (Zoe Pittman) as Hong Kong-born and Eora/Sydney-based, a DJ/producer/promoter and Decay Audio co-founder. Owner confirmed I've lost something on Backpocket Slammers: Volume 2 as jungle."
     }
   ],
   "open_tasks": [
