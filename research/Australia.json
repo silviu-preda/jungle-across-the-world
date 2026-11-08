@@ -562,9 +562,9 @@
     },
     {
       "name": "Deep Scan Technologies",
-      "city": "Eora / Sydney, Australia",
-      "status": "listening_required",
-      "detail": "Sydney/Eora experimental electronic label founded by Tom Vanderzeil and Erin Nortje. Solid State Drive 2 is a breakcore-focused local/international compilation; Utility Fog specifically describes R-T-FAX – Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict required.",
+      "city": "Eora / Sydney",
+      "status": "qualified",
+      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist.",
       "url": "https://deepscan.bandcamp.com/"
     }
   ],
@@ -1792,6 +1792,13 @@
       "status": "excluded",
       "verdict": "Owner: it isn't jungle.",
       "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
+    },
+    {
+      "label": "Deep Scan Technologies",
+      "release": "Dark Apostle – Weeb In The Shell (Solid State Drive 2, 2022)",
+      "status": "qualified",
+      "verdict": "Owner: jungle; qualifying.",
+      "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
     }
   ],
   "artist_provenance": [
@@ -2208,6 +2215,12 @@
       "location": "Eora / Sydney, Australia",
       "status": "listening_required",
       "notes": "R-T-FAX is Erin Nortje, co-founder of Deep Scan Technologies. Utility Fog identifies her as Sydney-based and describes Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict pending."
+    },
+    {
+      "name": "Dark Apostle",
+      "location": "Sydney / Eora, Australia",
+      "status": "qualified",
+      "notes": "Utility Fog's April 2022 coverage of Deep Scan's Solid State Drive 2 identifies Dark Apostle as from Sydney. Owner confirmed Weeb In The Shell as jungle."
     }
   ],
   "open_tasks": [
