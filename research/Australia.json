@@ -1533,6 +1533,13 @@
       "status": "excluded",
       "verdict": "Owner: out; does not qualify as jungle.",
       "url": "https://slack1ne.bandcamp.com/album/control-2"
+    },
+    {
+      "label": "8-Bit Recordings",
+      "release": "Deadcode – the point (live in 2002)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://8-bitrecordings.bandcamp.com/track/the-point-live-in-2002"
     }
   ],
   "artist_provenance": [
