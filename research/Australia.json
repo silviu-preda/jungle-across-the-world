@@ -528,9 +528,16 @@
     {
       "name": "Sonic Fiction Recordings",
       "city": "Sydney, Australia",
-      "status": "listening_required",
-      "detail": "Sydney drum & bass label/collective with roots in the city's early-2000s jungle and DnB scene. Current catalogue is deep DnB-focused. Testing Seltay – My Selector as the strongest current jungle-leaning catalogue candidate.",
+      "status": "prior_listening_verdict_unrecovered",
+      "detail": "Previously investigated/listened to by owner before this ledger entry; user explicitly flagged Seltay – My Selector / I Remember My Selector as already done. Exact prior musical verdict is unrecovered. Do not reassign merely to recover it.",
       "url": "https://sonicfictionrecordings.bandcamp.com/"
+    },
+    {
+      "name": "Theory Therapy",
+      "city": "Sydney, Australia",
+      "status": "listening_required",
+      "detail": "Sydney-based Australian label/mix series. Bandcamp Daily described DJ Birdbath – Kitsch Memory as a 'disassembled jungle opener'; owner listening required for project classification. DJ Birdbath is New Zealand-based, so any qualification is label evidence only unless separate Australian activity is found.",
+      "url": "https://theorytherapy.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1698,9 +1705,16 @@
     {
       "label": "Sonic Fiction Recordings",
       "release": "Seltay – My Selector (2026)",
-      "status": "listening_required",
-      "verdict": "Fresh label-first candidate. Seltay is Sydney-based and described by the label as jungle-infused; owner verdict required.",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner explicitly states this was already done previously. Exact prior verdict unrecovered; do not reassign.",
       "url": "https://sonicfictionrecordings.bandcamp.com/"
+    },
+    {
+      "label": "Theory Therapy",
+      "release": "DJ Birdbath – Kitsch Memory (Memory Empathy, 2024)",
+      "status": "listening_required",
+      "verdict": "Fresh candidate cleared against Australia.md, JSON ledger, and prior-conversation search. Bandcamp Daily calls it a disassembled jungle opener; owner verdict required.",
+      "url": "https://theorytherapy.bandcamp.com/track/kitsch-memory"
     }
   ],
   "artist_provenance": [
