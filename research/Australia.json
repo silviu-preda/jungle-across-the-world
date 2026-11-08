@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-08-au-75",
+  "revision": "2026-11-08-au-76",
   "source_base_commit": "aeb6a47ad65a35fd2aed7e3f31257b1bb56d2a1d",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -1505,6 +1505,13 @@
       "status": "excluded",
       "verdict": "Owner: too DnB; does not qualify as jungle. This is the distinct SPLITENDES SE005 track, not the previously accepted ENDE self-titled album.",
       "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
+    },
+    {
+      "label": "kolider (self-released)",
+      "release": "Inertia Breaks (2025)",
+      "status": "qualified",
+      "verdict": "Owner: yes, this goes in; accepted as qualifying jungle evidence.",
+      "url": "https://kolider.bandcamp.com/track/inertia-breaks"
     }
   ],
   "artist_provenance": [
@@ -1873,6 +1880,12 @@
       "location": null,
       "status": "provenance_required",
       "notes": "Owner accepted She Drives A Honda (P*7-02) at release level and identified Twitter Love Story on Ethereal Heartbreak (SEHC002) as jungle, meeting the artist-level genre threshold. Australian-scene provenance remains unverified; releases through Australian or UK labels do not establish the artist's country allocation."
+    },
+    {
+      "name": "kolider / Dan Teng",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Bandcamp identifies kolider as Melbourne, Australia and names Dan Teng as the producer. Inertia Breaks (2025) accepted by owner as qualifying jungle."
     }
   ],
   "open_tasks": [
