@@ -482,6 +482,13 @@
       "status": "contextual",
       "detail": "Drum & Bass label. Owner judged Soldat – 2097 too DnB and streetflicker x riddo – ALALA not qualifying. Keep contextual; do not continue catalogue audition unless a new specific jungle lead emerges.",
       "url": "https://onesevenfour.bandcamp.com/"
+    },
+    {
+      "name": "Club Elevate",
+      "city": "Melbourne, Victoria",
+      "status": "contextual",
+      "detail": "Broad Melbourne label with some jungle/DnB crossover. Owner judged Hand Modell – Don’t Like to Party (Love, Jess’s Sunrise Flip) so-so / footnote only. Retain as contextual, not core jungle evidence.",
+      "url": "https://clubelevate.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1561,6 +1568,13 @@
       "status": "excluded",
       "verdict": "Owner: no; does not qualify as jungle.",
       "url": "https://onesevenfour.bandcamp.com/track/alala"
+    },
+    {
+      "label": "Club Elevate",
+      "release": "Hand Modell – Don’t Like to Party (Love, Jess’s Sunrise Flip)",
+      "status": "contextual",
+      "verdict": "Owner: so-so; footnote only.",
+      "url": "https://clubelevate.bandcamp.com/album/sub-100"
     }
   ],
   "artist_provenance": [
