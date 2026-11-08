@@ -535,8 +535,8 @@
     {
       "name": "Theory Therapy",
       "city": "Sydney, Australia",
-      "status": "listening_required",
-      "detail": "Sydney-based Australian label/mix series. Bandcamp Daily described DJ Birdbath – Kitsch Memory as a 'disassembled jungle opener'; owner listening required for project classification. DJ Birdbath is New Zealand-based, so any qualification is label evidence only unless separate Australian activity is found.",
+      "status": "qualified",
+      "detail": "Sydney-based label. DJ Birdbath – Kitsch Memory is owner-confirmed as a track that clearly evolves into jungle, establishing a concrete qualifying jungle connection. DJ Birdbath is New Zealand-based, so this is label evidence only, not Australian artist allocation.",
       "url": "https://theorytherapy.bandcamp.com/"
     }
   ],
@@ -1711,9 +1711,9 @@
     },
     {
       "label": "Theory Therapy",
-      "release": "DJ Birdbath – Kitsch Memory (Memory Empathy, 2024)",
-      "status": "listening_required",
-      "verdict": "Fresh candidate cleared against Australia.md, JSON ledger, and prior-conversation search. Bandcamp Daily calls it a disassembled jungle opener; owner verdict required.",
+      "release": "DJ Birdbath – Kitsch Memory",
+      "status": "qualified",
+      "verdict": "Owner: the track clearly evolves into jungle; qualifies.",
       "url": "https://theorytherapy.bandcamp.com/track/kitsch-memory"
     }
   ],
