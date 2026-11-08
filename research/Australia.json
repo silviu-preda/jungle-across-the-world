@@ -1614,8 +1614,8 @@
     {
       "label": "Chronically Ill Audio roster/scene lead",
       "release": "Deverence – Rampage! (from Level Headed EP, 2023)",
-      "status": "listening_required",
-      "verdict": "Fresh associated-producer candidate surfaced through Chronically Ill Audio; owner verdict required.",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle.",
       "url": "https://open.spotify.com/track/2k8jLaS7reJhxXXBjjs0j7"
     }
   ],
@@ -1989,8 +1989,8 @@
     {
       "name": "Deverence",
       "location": "Sydney / Eora, Australia",
-      "status": "listening_required",
-      "notes": "Sydney producer/DJ associated with Chronically Ill Audio (launch lineup; mastering engineer for the label). External catalog services classify the 2023 Level Headed EP as Jungle/Drum'n'bass, but owner listening is required for artist qualification."
+      "status": "contextual",
+      "notes": "Sydney producer/DJ associated with Chronically Ill Audio (launch lineup; mastering engineer for the label). External catalog services classify the 2023 Level Headed EP as Jungle/Drum'n'bass, but owner listening is required for artist qualification. Owner rejected Rampage! as jungle evidence; do not qualify Deverence on that basis."
     }
   ],
   "open_tasks": [
