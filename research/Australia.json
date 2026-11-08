@@ -550,7 +550,7 @@
       "name": "clipp.art",
       "city": "Melbourne, Australia",
       "status": "qualified",
-      "detail": "Melbourne label. Illusions – Tonight on Sounds Like A Good Time IV is owner-confirmed jungle, giving the label direct qualifying evidence. Illusions is Viennese, so this qualifies clipp.art but not an Australian artist.",
+      "detail": "Melbourne label qualified through Illusions – Tonight, owner-confirmed jungle. Australian-roster follow-up: DJ Whipr Snipr – I'm Tired rejected; Jack N Jerk – Jack Inside Shapes EP contained no jungle, with Ear II Brain identified as breaks only. No further clipp.art roster listening needed unless a new specific lead appears.",
       "url": "https://clipp-art.bandcamp.com/"
     }
   ],
@@ -1754,9 +1754,16 @@
     {
       "label": "clipp.art",
       "release": "Jack N Jerk – Open Your Heart (Jack Inside Shapes EP, CLIPP011)",
-      "status": "listening_required",
-      "verdict": "Fresh clipp.art Australian-roster probe. Label describes the EP as Chicago house meets UK jungle; owner verdict required.",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on Jack Inside Shapes EP; Ear II Brain is breaks, but that's it.",
       "url": "https://clipp-art.bandcamp.com/track/open-your-heart"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Jack N Jerk – Jack Inside Shapes EP (complete release)",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on the release; Ear II Brain is breaks, but that's it.",
+      "url": "https://clipp-art.bandcamp.com/album/jack-inside-shapes-ep-clipp011"
     }
   ],
   "artist_provenance": [
@@ -2165,8 +2172,8 @@
     {
       "name": "Jack N Jerk",
       "location": "Sydney / Melbourne, Australia",
-      "status": "listening_required",
-      "notes": "Beatport describes Jack N Jerk as Sydney/Melbourne rhythm natives Adam Stivala and Antonio Celestino. Owner verdict on qualifying jungle production pending."
+      "status": "contextual",
+      "notes": "Beatport describes Jack N Jerk as Sydney/Melbourne rhythm natives Adam Stivala and Antonio Celestino. Owner verdict on qualifying jungle production pending. Owner found no jungle on Jack Inside Shapes EP; Ear II Brain is breaks only."
     }
   ],
   "open_tasks": [
