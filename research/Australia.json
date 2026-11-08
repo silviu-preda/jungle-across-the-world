@@ -538,6 +538,13 @@
       "status": "qualified",
       "detail": "Sydney-based label. DJ Birdbath – Kitsch Memory is owner-confirmed as a track that clearly evolves into jungle, establishing a concrete qualifying jungle connection. DJ Birdbath is New Zealand-based, so this is label evidence only, not Australian artist allocation.",
       "url": "https://theorytherapy.bandcamp.com/"
+    },
+    {
+      "name": "The Operatives",
+      "city": "Melbourne, Australia",
+      "status": "listening_required",
+      "detail": "Melbourne collective/record label. Testing JPSxHOOVES – Guerilla, a catalogue track tagged amen/jungle/footwork by the label, as concrete genre evidence.",
+      "url": "https://theoperatives.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1715,6 +1722,13 @@
       "status": "qualified",
       "verdict": "Owner: the track clearly evolves into jungle; qualifies.",
       "url": "https://theorytherapy.bandcamp.com/track/kitsch-memory"
+    },
+    {
+      "label": "The Operatives",
+      "release": "JPSxHOOVES – Guerilla (Skitnik, 2016)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate; owner verdict required.",
+      "url": "https://theoperatives.bandcamp.com/track/guerilla"
     }
   ],
   "artist_provenance": [
