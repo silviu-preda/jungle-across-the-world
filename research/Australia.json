@@ -494,7 +494,7 @@
       "name": "MASCON ECHOES",
       "city": "Brisbane",
       "status": "contextual",
-      "detail": "Broad Brisbane label spanning multiple genres including jungle. Initial candidate P ∆ W R L S O L – Anwot/Prno rejected by owner; catalogue scan continues.",
+      "detail": "Broad Brisbane label spanning multiple genres including jungle. P ∆ W R L S O L – Anwot/Prno and Radar (M3) rejected by owner; one final catalogue check before closure.",
       "url": "https://masconechoes.bandcamp.com/"
     }
   ],
@@ -1589,6 +1589,13 @@
       "status": "excluded",
       "verdict": "Owner: not it; does not qualify as jungle.",
       "url": "https://masconechoes.bandcamp.com/track/p-w-r-l-s-o-l-anwot-prno"
+    },
+    {
+      "label": "MASCON ECHOES",
+      "release": "Radar (M3)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://masconechoes.bandcamp.com/album/m3"
     }
   ],
   "artist_provenance": [
