@@ -186,6 +186,14 @@ Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR0
 
 Theory Therapy qualifies through **DJ Birdbath – *Kitsch Memory***, which the owner judged to **clearly evolve into jungle**. The label is Sydney-based. DJ Birdbath is New Zealand-based, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
 
+#### Deep Scan Technologies — Sydney
+
+**Role:** Qualifying Sydney label
+
+Deep Scan Technologies qualifies through **Dark Apostle – *Weeb In The Shell*** from *Solid State Drive 2* (2022), which the owner confirmed as jungle. **R-T-FAX – *Circuit Breakaa*** from the same compilation was checked separately and rejected as jungle.
+
+**Dark Apostle** also qualifies independently as an Australian artist: contemporaneous Utility Fog coverage identifies the producer as Sydney-based, so the country allocation is not inherited from the label.
+
 ### Melbourne
 
 #### Rising Lantern Records
