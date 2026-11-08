@@ -180,6 +180,12 @@ Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR0
 
 **N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. Splitch's *Apex* did not qualify in the Big Ting pass; Splitch later qualifies independently through *KD4* on OTIS.
 
+#### Theory Therapy — Sydney
+
+**Role:** Qualifying broad electronic label
+
+Theory Therapy qualifies through **DJ Birdbath – *Kitsch Memory***, which the owner judged to **clearly evolve into jungle**. The label is Sydney-based. DJ Birdbath is New Zealand-based, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
+
 ### Melbourne
 
 #### Rising Lantern Records
