@@ -515,7 +515,7 @@
       "name": "Backpocket Slammers",
       "city": "Melbourne / Naarm",
       "status": "qualified",
-      "detail": "Naarm/Melbourne-based label. Volume 2 contains two owner-confirmed jungle tracks: Ekzander – 4PM Alarm and Jungist – I've lost something. Volume 3 was checked in full and owner found no jungle.",
+      "detail": "Naarm/Melbourne-based label. Owner-confirmed jungle evidence includes Caitlin Medcalf – Untitled on Volume 1, plus Ekzander – 4PM Alarm and Jungist – I've lost something on Volume 2. Volume 3 was checked in full and contained no jungle.",
       "url": "https://backpocketslammers.bandcamp.com/"
     }
   ],
@@ -1656,8 +1656,8 @@
     {
       "label": "Backpocket Slammers",
       "release": "Caitlin Medcalf – Untitled (Backpocket Slammers: Volume 1)",
-      "status": "listening_required",
-      "verdict": "Owner reaction: 'great find!'; positive reception, but no explicit jungle verdict yet. Do not infer qualification.",
+      "status": "qualified",
+      "verdict": "Owner: qualifying jungle; great find.",
       "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-1"
     }
   ],
@@ -2045,6 +2045,12 @@
       "location": "Eora / Sydney, Australia",
       "status": "qualified",
       "notes": "Resident Advisor identifies Jungist (Zoe Pittman) as Hong Kong-born and Eora/Sydney-based, a DJ/producer/promoter and Decay Audio co-founder. Owner confirmed I've lost something on Backpocket Slammers: Volume 2 as jungle."
+    },
+    {
+      "name": "Caitlin Medcalf",
+      "location": "Eora / Sydney, Australia (at time of 2022 release)",
+      "status": "qualified",
+      "notes": "Independent sources place Caitlin Medcalf in Eora/Sydney during the 2021–2022 period. Owner confirmed Untitled on Backpocket Slammers: Volume 1 as qualifying jungle."
     }
   ],
   "open_tasks": [
