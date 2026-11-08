@@ -302,6 +302,12 @@ Backpocket Slammers is a Naarm/Melbourne-based label and qualifies directly thro
 
 The artist allocations are independently clean rather than inherited from the label: Caitlin Medcalf was Eora/Sydney-based during the 2021–2022 period when *Untitled* was released; Ekzander is a Naarm-based producer/DJ; Jungist (Zoe Pittman) is Hong Kong-born and Eora/Sydney-based. This makes the label useful cross-city Australian jungle evidence as well as direct label qualification.
 
+#### clipp.art — Melbourne
+
+**Role:** Qualifying broad electronic label
+
+clipp.art qualifies through **Illusions – *Tonight*** on *Sounds Like A Good Time IV* (2020), which the owner confirmed as jungle. The label is Melbourne-based. Illusions is Viennese, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
+
 ### Perth and Western Australia
 
 #### Greg Packer / Interphase
