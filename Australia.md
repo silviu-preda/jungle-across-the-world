@@ -180,6 +180,20 @@ Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR0
 
 **N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. Splitch's *Apex* did not qualify in the Big Ting pass; Splitch later qualifies independently through *KD4* on OTIS.
 
+#### Theory Therapy — Sydney
+
+**Role:** Qualifying broad electronic label
+
+Theory Therapy qualifies through **DJ Birdbath – *Kitsch Memory***, which the owner judged to **clearly evolve into jungle**. The label is Sydney-based. DJ Birdbath is New Zealand-based, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
+
+#### Deep Scan Technologies — Sydney
+
+**Role:** Qualifying Sydney label
+
+Deep Scan Technologies qualifies through **Dark Apostle – *Weeb In The Shell*** from *Solid State Drive 2* (2022), which the owner confirmed as jungle. **R-T-FAX – *Circuit Breakaa*** from the same compilation was checked separately and rejected as jungle.
+
+**Dark Apostle** also qualifies independently as an Australian artist: contemporaneous Utility Fog coverage identifies the producer as Sydney-based, so the country allocation is not inherited from the label.
+
 ### Melbourne
 
 #### Rising Lantern Records
@@ -289,6 +303,18 @@ CC:White is no longer excluded. The Reverend Glock qualifies through *The Depart
 **Role:** Contextual Melbourne label with one verified artist entry
 
 Night Shop is not being promoted as a jungle label. Rita Bass's *Reimagining* title track passed as jungle, while the rest of the release did not establish a broader jungle catalogue. Rita Bass therefore qualifies narrowly; the label remains contextual.
+
+#### Backpocket Slammers — Melbourne / Naarm
+
+Backpocket Slammers is a Naarm/Melbourne-based label and qualifies directly through owner-confirmed jungle across its compilations. **Caitlin Medcalf – *Untitled*** on *Backpocket Slammers: Volume 1* (2022) qualifies, as do **Ekzander – *4PM Alarm*** and **Jungist – *I've lost something*** on *Volume 2* (2023). *Volume 3* was checked in full and contained no jungle.
+
+The artist allocations are independently clean rather than inherited from the label: Caitlin Medcalf was Eora/Sydney-based during the 2021–2022 period when *Untitled* was released; Ekzander is a Naarm-based producer/DJ; Jungist (Zoe Pittman) is Hong Kong-born and Eora/Sydney-based. This makes the label useful cross-city Australian jungle evidence as well as direct label qualification.
+
+#### clipp.art — Melbourne
+
+**Role:** Qualifying broad electronic label
+
+clipp.art qualifies through **Illusions – *Tonight*** on *Sounds Like A Good Time IV* (2020), which the owner confirmed as jungle. The label is Melbourne-based. Illusions is Viennese, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
 
 ### Perth and Western Australia
 
@@ -447,7 +473,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **RBI – *Disseminate*:** previously heard and explicitly rejected by the owner as jungle. Butter Sessions remains qualified through Turner Street Sound; do not recommend *Disseminate* again.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
 - **Atom 1 / Soundboy Melbourne:** *Imminent* documents historical Melbourne techstep/drum and bass, not a jungle anchor.
-- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its historical Sydney links versus later production in Chile still need chronologically sound country allocation.
+- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its chronology is now resolved: ENDE states that the accepted album was recorded and produced in Santiago, Chile between 2010–2013. Luciano Zepeda's earlier Sydney/KWS activity remains important Australian scene history, but the accepted jungle album belongs to his Chile period and does not qualify Dark Matter Project as an Australian artist.
 - **Pure Space:** Dividens' *Blueprints* was rejected (*Bionic* jungle-adjacent); Consulate's *The Pulse of Iron* was judged D&B.
 - **Motorik! Records:** Horowitz's *Jungle Blood* was rejected; no stronger lead established.
 - **Secret World:** DVNS' *Secret Garden* and AD ZEE's *New Aquatic* were both judged D&B; not a qualifying jungle-label entry.
@@ -464,7 +490,7 @@ The following listening and provenance work is preserved without promoting unres
 
 ## Excluded or deprioritized in this pass
 
-Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
+Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visits From Best Friends Bring Joy*, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 ## Sources
 

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-08-au-76",
-  "source_base_commit": "aeb6a47ad65a35fd2aed7e3f31257b1bb56d2a1d",
+  "revision": "2026-11-08-au-77",
+  "source_base_commit": "e15a503e21774cf064ef4df44816046d495d3018",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -475,6 +475,97 @@
       "status": "qualified",
       "detail": "Perth sub-label of ENDE. Owner accepted UK producer Abyss – Thug Life from SE008 as jungle, establishing a cross-border label connection. SE005 was checked and did not add jungle evidence: The Filth – Fire Walk With Me is breakcore; Dark Matter Project – And Then They Came is too DnB. Artist geography is not transferred from the label.",
       "url": "https://splitendes.bandcamp.com/"
+    },
+    {
+      "name": "onesevenfour",
+      "city": "Australia / New Zealand",
+      "status": "contextual",
+      "detail": "Drum & Bass label. Owner judged Soldat – 2097 too DnB and streetflicker x riddo – ALALA not qualifying. Keep contextual; do not continue catalogue audition unless a new specific jungle lead emerges.",
+      "url": "https://onesevenfour.bandcamp.com/"
+    },
+    {
+      "name": "Club Elevate",
+      "city": "Melbourne, Victoria",
+      "status": "contextual",
+      "detail": "Broad Melbourne label with some jungle/DnB crossover. Owner judged Hand Modell – Don’t Like to Party (Love, Jess’s Sunrise Flip) so-so / footnote only. Retain as contextual, not core jungle evidence.",
+      "url": "https://clubelevate.bandcamp.com/"
+    },
+    {
+      "name": "MASCON ECHOES",
+      "city": "Brisbane",
+      "status": "contextual",
+      "detail": "Broad Brisbane multi-genre label whose profile includes jungle among many styles. Owner rejected P ∆ W R L S O L – Anwot/Prno and Radar (M3). No stronger concrete jungle cut surfaced in the catalogue check; close as contextual unless a specific new lead appears.",
+      "url": "https://masconechoes.bandcamp.com/"
+    },
+    {
+      "name": "Steel City Dance Discs",
+      "city": "Newcastle, Australia origin; later relocated to London, UK",
+      "status": "contextual",
+      "detail": "Founded/built in Newcastle and later relocated/exported to London. Tim Reaper – Forever & A Day (2026) is unambiguously jungle, but belongs to the label's current UK phase; retain in Australia as Australian-origin/cross-border context rather than treating that release as Australian-phase jungle activity.",
+      "url": "https://steelcitydancediscs.bandcamp.com/"
+    },
+    {
+      "name": "Chronically Ill Audio",
+      "city": "Eora / Sydney",
+      "status": "qualified",
+      "detail": "Eora/Sydney community label launched in 2026. Resident Advisor described its launch as 'a new jungle label'; subsequent local events explicitly describe the label as collectively pushing jungle, breaks and UK garage. Current Australian jungle ecosystem connection is independently established.",
+      "url": "https://chronicallyillaudio.bandcamp.com/"
+    },
+    {
+      "name": "Backpocket Slammers",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Naarm/Melbourne-based label. Owner-confirmed jungle evidence includes Caitlin Medcalf – Untitled on Volume 1, plus Ekzander – 4PM Alarm and Jungist – I've lost something on Volume 2. Volume 3 was checked in full and contained no jungle.",
+      "url": "https://backpocketslammers.bandcamp.com/"
+    },
+    {
+      "name": "BASS WATER FREAK OUT",
+      "city": "Eora / Sydney",
+      "status": "contextual",
+      "detail": "Sydney/Eora water label curated by Adrian Asher. Owner rejected Swungist – Presence and found no qualifying jungle anywhere on MERMAID LEMONADE. Close as contextual unless a new specific lead surfaces.",
+      "url": "https://basswaterfreakout.bandcamp.com/"
+    },
+    {
+      "name": "Sonic Fiction Recordings",
+      "city": "Sydney, Australia",
+      "status": "prior_listening_verdict_unrecovered",
+      "detail": "Previously investigated/listened to by owner before this ledger entry; user explicitly flagged Seltay – My Selector / I Remember My Selector as already done. Exact prior musical verdict is unrecovered. Do not reassign merely to recover it.",
+      "url": "https://sonicfictionrecordings.bandcamp.com/"
+    },
+    {
+      "name": "Theory Therapy",
+      "city": "Sydney, Australia",
+      "status": "qualified",
+      "detail": "Sydney-based label. DJ Birdbath – Kitsch Memory is owner-confirmed as a track that clearly evolves into jungle, establishing a concrete qualifying jungle connection. DJ Birdbath is New Zealand-based, so this is label evidence only, not Australian artist allocation.",
+      "url": "https://theorytherapy.bandcamp.com/"
+    },
+    {
+      "name": "The Operatives",
+      "city": "Melbourne, Australia",
+      "status": "contextual",
+      "detail": "Melbourne collective/record label. JPSxHOOVES – Guerilla was rejected by owner as jungle evidence. Keep contextual unless a stronger specific jungle lead surfaces.",
+      "url": "https://theoperatives.bandcamp.com/"
+    },
+    {
+      "name": "clipp.art",
+      "city": "Melbourne, Australia",
+      "status": "qualified",
+      "detail": "Melbourne label qualified through Illusions – Tonight, owner-confirmed jungle. Australian-roster follow-up: DJ Whipr Snipr – I'm Tired rejected; Jack N Jerk – Jack Inside Shapes EP contained no jungle, with Ear II Brain identified as breaks only. No further clipp.art roster listening needed unless a new specific lead appears.",
+      "url": "https://clipp-art.bandcamp.com/"
+    },
+    {
+      "name": "WILE OUT",
+      "city": "Australia; city not verified",
+      "status": "contextual",
+      "detail": "Australian label. Andy Himself & Chalmer John – Jungle (Original Mix) was checked and rejected by owner as jungle despite the title. Keep contextual unless a stronger specific jungle lead surfaces.",
+      "url": "https://wileout.bandcamp.com/"
+    },
+    {
+      "name": "Deep Scan Technologies",
+      "city": "Eora / Sydney",
+      "status": "qualified",
+      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist.",
+      "url": "https://deepscan.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1507,6 +1598,209 @@
       "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
     },
     {
+      "label": "ENDE Records Australia",
+      "release": "Maladroit – Visits From Best Friends Bring Joy (ENDE184)",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle for this project.",
+      "url": "https://enderecords.bandcamp.com/album/ende184-maladroit-visits-from-best-friends-bring-joy"
+    },
+    {
+      "label": "self-released / POD & tommyj",
+      "release": "POD & tommyj – Warprider (2025), complete release",
+      "status": "contextual",
+      "verdict": "Owner: mostly DnB. Do not qualify the release as a whole.",
+      "url": "https://warprider99.bandcamp.com/album/warprider"
+    },
+    {
+      "label": "self-released / POD & tommyj",
+      "release": "POD & tommyj – Artificial Life, from Warprider (2025)",
+      "status": "qualified",
+      "verdict": "Owner: Artificial Life qualifies as jungle.",
+      "url": "https://warprider99.bandcamp.com/track/artificial-life"
+    },
+    {
+      "label": "self-released / SLACK 1NE",
+      "release": "SLACK 1NE – Control",
+      "status": "excluded",
+      "verdict": "Owner: out; does not qualify as jungle.",
+      "url": "https://slack1ne.bandcamp.com/album/control-2"
+    },
+    {
+      "label": "8-Bit Recordings",
+      "release": "Deadcode – the point (live in 2002)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://8-bitrecordings.bandcamp.com/track/the-point-live-in-2002"
+    },
+    {
+      "label": "onesevenfour",
+      "release": "Soldat – 2097",
+      "status": "excluded",
+      "verdict": "Owner: too DnB.",
+      "url": "https://onesevenfour.bandcamp.com/track/2097"
+    },
+    {
+      "label": "onesevenfour",
+      "release": "streetflicker x riddo – ALALA",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://onesevenfour.bandcamp.com/track/alala"
+    },
+    {
+      "label": "Club Elevate",
+      "release": "Hand Modell – Don’t Like to Party (Love, Jess’s Sunrise Flip)",
+      "status": "contextual",
+      "verdict": "Owner: so-so; footnote only.",
+      "url": "https://clubelevate.bandcamp.com/album/sub-100"
+    },
+    {
+      "label": "MASCON ECHOES",
+      "release": "P ∆ W R L S O L – Anwot/Prno (M1)",
+      "status": "excluded",
+      "verdict": "Owner: not it; does not qualify as jungle.",
+      "url": "https://masconechoes.bandcamp.com/track/p-w-r-l-s-o-l-anwot-prno"
+    },
+    {
+      "label": "MASCON ECHOES",
+      "release": "Radar (M3)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://masconechoes.bandcamp.com/album/m3"
+    },
+    {
+      "label": "Chronically Ill Audio roster/scene lead",
+      "release": "Deverence – Rampage! (from Level Headed EP, 2023)",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle.",
+      "url": "https://open.spotify.com/track/2k8jLaS7reJhxXXBjjs0j7"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Ekzander – 4PM Alarm (Backpocket Slammers: Volume 2, 2023)",
+      "status": "qualified",
+      "verdict": "Owner: jungle.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Jungist – I've lost something (Backpocket Slammers: Volume 2, 2023)",
+      "status": "qualified",
+      "verdict": "Owner: jungle.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "XYSid – trying to find that (Backpocket Slammers: Volume 2, 2023)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Listening was assigned, but owner instead reported verdicts for 4PM Alarm and I've lost something; no explicit verdict captured for this track. Do not reassign solely to recover it.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-2"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Backpocket Slammers: Volume 3 (complete release, 2024)",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on this one.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-3"
+    },
+    {
+      "label": "Backpocket Slammers",
+      "release": "Caitlin Medcalf – Untitled (Backpocket Slammers: Volume 1)",
+      "status": "qualified",
+      "verdict": "Owner: qualifying jungle; great find.",
+      "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-1"
+    },
+    {
+      "label": "BASS WATER FREAK OUT",
+      "release": "Swungist – Presence (BWFO vol. 2, 2023)",
+      "status": "excluded",
+      "verdict": "Owner: nope; does not qualify as jungle.",
+      "url": "https://basswaterfreakout.bandcamp.com/album/bwfo-vol-2"
+    },
+    {
+      "label": "BASS WATER FREAK OUT",
+      "release": "Jungist – Dark Room (MERMAID LEMONADE, 2022)",
+      "status": "excluded",
+      "verdict": "Owner: nothing on MERMAID LEMONADE qualifies as jungle; do not use Dark Room as label evidence.",
+      "url": "https://basswaterfreakout.bandcamp.com/album/mermaid-lemonade"
+    },
+    {
+      "label": "BASS WATER FREAK OUT",
+      "release": "MERMAID LEMONADE (complete release, 2022)",
+      "status": "excluded",
+      "verdict": "Owner: nothing in this release qualifies as jungle.",
+      "url": "https://basswaterfreakout.bandcamp.com/album/mermaid-lemonade"
+    },
+    {
+      "label": "Sonic Fiction Recordings",
+      "release": "Seltay – My Selector (2026)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Owner explicitly states this was already done previously. Exact prior verdict unrecovered; do not reassign.",
+      "url": "https://sonicfictionrecordings.bandcamp.com/"
+    },
+    {
+      "label": "Theory Therapy",
+      "release": "DJ Birdbath – Kitsch Memory",
+      "status": "qualified",
+      "verdict": "Owner: the track clearly evolves into jungle; qualifies.",
+      "url": "https://theorytherapy.bandcamp.com/track/kitsch-memory"
+    },
+    {
+      "label": "The Operatives",
+      "release": "JPSxHOOVES – Guerilla (Skitnik, 2016)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://theoperatives.bandcamp.com/track/guerilla"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Illusions – Tonight (SOUNDS LIKE A GOOD TIME. IV, 2020)",
+      "status": "qualified",
+      "verdict": "Owner: it is jungle; qualifying.",
+      "url": "https://clipp-art.bandcamp.com/album/sounds-like-a-good-time-iv-clipp166"
+    },
+    {
+      "label": "clipp.art",
+      "release": "DJ Whipr Snipr – I'm Tired (Sounds Like A Good Time, CLIPP032, 2018)",
+      "status": "excluded",
+      "verdict": "Owner: no; does not qualify as jungle.",
+      "url": "https://clipp-art.bandcamp.com/track/im-tired-2"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Jack N Jerk – Open Your Heart (Jack Inside Shapes EP, CLIPP011)",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on Jack Inside Shapes EP; Ear II Brain is breaks, but that's it.",
+      "url": "https://clipp-art.bandcamp.com/track/open-your-heart"
+    },
+    {
+      "label": "clipp.art",
+      "release": "Jack N Jerk – Jack Inside Shapes EP (complete release)",
+      "status": "excluded",
+      "verdict": "Owner: no jungle on the release; Ear II Brain is breaks, but that's it.",
+      "url": "https://clipp-art.bandcamp.com/album/jack-inside-shapes-ep-clipp011"
+    },
+    {
+      "label": "WILE OUT",
+      "release": "Andy Himself & Chalmer John – Jungle (Original Mix) (Jungle EP, 2026)",
+      "status": "excluded",
+      "verdict": "Owner: not jungle.",
+      "url": "https://wileout.bandcamp.com/album/jungle-ep-wile-out"
+    },
+    {
+      "label": "Deep Scan Technologies",
+      "release": "R-T-FAX – Circuit Breakaa (Solid State Drive 2, 2022)",
+      "status": "excluded",
+      "verdict": "Owner: it isn't jungle.",
+      "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
+    },
+    {
+      "label": "Deep Scan Technologies",
+      "release": "Dark Apostle – Weeb In The Shell (Solid State Drive 2, 2022)",
+      "status": "qualified",
+      "verdict": "Owner: jungle; qualifying.",
+      "url": "https://deepscan.bandcamp.com/album/solid-state-drive-2-dsssd02"
+    },
+    {
       "label": "kolider (self-released)",
       "release": "Inertia Breaks (2025)",
       "status": "qualified",
@@ -1655,9 +1949,9 @@
     },
     {
       "name": "Dark Matter Project / Luciano Zepeda",
-      "location": "Sydney historically; Chile later",
-      "status": "provenance_required",
-      "notes": "Self-titled ENDE album accepted; qualify chronology before allocating."
+      "location": "Santiago, Chile for the accepted self-titled ENDE album; historically Sydney, Australia",
+      "status": "qualified",
+      "notes": "Country chronology resolved: ENDE69 self-titled album was recorded and produced in Santiago, Chile between 2010–2013 and accepted by owner. Historical Sydney/KWS activity predates that; SE005 Fire Walk With Me was produced in Sydney in 2004 but rejected as breakcore, while And Then They Came was produced in Santiago in 2012 and rejected as too DnB. Therefore do not allocate Dark Matter Project to Australia from the accepted ENDE69 jungle material."
     },
     {
       "name": "Laptop Destroyer / Kris Keogh",
@@ -1882,6 +2176,60 @@
       "notes": "Owner accepted She Drives A Honda (P*7-02) at release level and identified Twitter Love Story on Ethereal Heartbreak (SEHC002) as jungle, meeting the artist-level genre threshold. Australian-scene provenance remains unverified; releases through Australian or UK labels do not establish the artist's country allocation."
     },
     {
+      "name": "Deverence",
+      "location": "Sydney / Eora, Australia",
+      "status": "contextual",
+      "notes": "Sydney producer/DJ associated with Chronically Ill Audio (launch lineup; mastering engineer for the label). External catalog services classify the 2023 Level Headed EP as Jungle/Drum'n'bass, but owner listening is required for artist qualification. Owner rejected Rampage! as jungle evidence; do not qualify Deverence on that basis."
+    },
+    {
+      "name": "Ekzander",
+      "location": "Naarm / Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Resident Advisor identifies Ekzander as a Naarm-based producer/DJ, with Melbourne his primary region. Owner confirmed 4PM Alarm on Backpocket Slammers: Volume 2 as jungle."
+    },
+    {
+      "name": "Jungist",
+      "location": "Eora / Sydney, Australia",
+      "status": "qualified",
+      "notes": "Resident Advisor identifies Jungist (Zoe Pittman) as Hong Kong-born and Eora/Sydney-based, a DJ/producer/promoter and Decay Audio co-founder. Owner confirmed I've lost something on Backpocket Slammers: Volume 2 as jungle."
+    },
+    {
+      "name": "Caitlin Medcalf",
+      "location": "Eora / Sydney, Australia (at time of 2022 release)",
+      "status": "qualified",
+      "notes": "Independent sources place Caitlin Medcalf in Eora/Sydney during the 2021–2022 period. Owner confirmed Untitled on Backpocket Slammers: Volume 1 as qualifying jungle."
+    },
+    {
+      "name": "Illusions",
+      "location": "Vienna, Austria",
+      "status": "cross_border",
+      "notes": "clipp.art describes Illusions as Viennese. Owner confirmed Tonight as jungle; use as qualifying evidence for Melbourne label clipp.art only, not Australian artist allocation."
+    },
+    {
+      "name": "DJ Whipr Snipr",
+      "location": "Gold Coast, Australia",
+      "status": "listening_required",
+      "notes": "clipp.art artist roster lists DJ Whipr Snipr as Gold Coast, Australia. Artist qualification depends on a qualifying jungle production; testing I'm Tired."
+    },
+    {
+      "name": "Jack N Jerk",
+      "location": "Sydney / Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Beatport describes Jack N Jerk as Sydney/Melbourne rhythm natives Adam Stivala and Antonio Celestino. Owner verdict on qualifying jungle production pending. Owner found no jungle on Jack Inside Shapes EP; Ear II Brain is breaks only."
+    },
+    {
+      "name": "R-T-FAX",
+      "location": "Eora / Sydney, Australia",
+      "status": "listening_required",
+      "notes": "R-T-FAX is Erin Nortje, co-founder of Deep Scan Technologies. Utility Fog identifies her as Sydney-based and describes Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict pending."
+    },
+    {
+      "name": "Dark Apostle",
+      "location": "Sydney / Eora, Australia",
+      "status": "qualified",
+      "notes": "Utility Fog's April 2022 coverage of Deep Scan's Solid State Drive 2 identifies Dark Apostle as from Sydney. Owner confirmed Weeb In The Shell as jungle."
+    },
+    {
       "name": "kolider / Dan Teng",
       "location": "Melbourne, Australia",
       "status": "qualified",
@@ -1892,7 +2240,6 @@
     "Determine independent city-level locations for remaining B&H and Extra Spicy contributors; Knuckle now has Australia-level provenance (city unverified), while Myledo and nickname are resolved.",
     "Resolve Subnet43 and Visible Sound scene provenance.",
     "Resolve Shift and Mindset individually.",
-    "Establish Dark Matter Project chronology for Australia vs Chile.",
     "Defer Big Dog archive listening until convenient access.",
     "Flatlife Records Australia: independently identify a qualifying locally produced jungle release before promotion.",
     "OTIS: retain unrecovered individual Sweet Echoes vol. 2 track verdicts; do not infer qualification beyond Splitch KD4.",
