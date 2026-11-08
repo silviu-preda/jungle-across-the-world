@@ -524,6 +524,13 @@
       "status": "contextual",
       "detail": "Sydney/Eora water label curated by Adrian Asher. Owner rejected Swungist – Presence and found no qualifying jungle anywhere on MERMAID LEMONADE. Close as contextual unless a new specific lead surfaces.",
       "url": "https://basswaterfreakout.bandcamp.com/"
+    },
+    {
+      "name": "Sonic Fiction Recordings",
+      "city": "Sydney, Australia",
+      "status": "listening_required",
+      "detail": "Sydney drum & bass label/collective with roots in the city's early-2000s jungle and DnB scene. Current catalogue is deep DnB-focused. Testing Seltay – My Selector as the strongest current jungle-leaning catalogue candidate.",
+      "url": "https://sonicfictionrecordings.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1687,6 +1694,13 @@
       "status": "excluded",
       "verdict": "Owner: nothing in this release qualifies as jungle.",
       "url": "https://basswaterfreakout.bandcamp.com/album/mermaid-lemonade"
+    },
+    {
+      "label": "Sonic Fiction Recordings",
+      "release": "Seltay – My Selector (2026)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate. Seltay is Sydney-based and described by the label as jungle-infused; owner verdict required.",
+      "url": "https://sonicfictionrecordings.bandcamp.com/"
     }
   ],
   "artist_provenance": [
