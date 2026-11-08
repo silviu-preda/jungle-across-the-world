@@ -517,6 +517,13 @@
       "status": "qualified",
       "detail": "Naarm/Melbourne-based label. Owner-confirmed jungle evidence includes Caitlin Medcalf – Untitled on Volume 1, plus Ekzander – 4PM Alarm and Jungist – I've lost something on Volume 2. Volume 3 was checked in full and contained no jungle.",
       "url": "https://backpocketslammers.bandcamp.com/"
+    },
+    {
+      "name": "BASS WATER FREAK OUT",
+      "city": "Eora / Sydney",
+      "status": "listening_required",
+      "detail": "Sydney/Eora 'water label' curated by Adrian Asher. Broad bass/rave catalogue; Jungist's debut Dark Room appeared here. Testing Swungist – Presence to establish a concrete jungle connection and potentially qualify Sydney producer Swisherman independently.",
+      "url": "https://basswaterfreakout.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1659,6 +1666,13 @@
       "status": "qualified",
       "verdict": "Owner: qualifying jungle; great find.",
       "url": "https://backpocketslammers.bandcamp.com/album/backpocket-slammers-volume-1"
+    },
+    {
+      "label": "BASS WATER FREAK OUT",
+      "release": "Swungist – Presence (BWFO vol. 2, 2023)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate. Swungist is Jungist + Sydney-based Swisherman; owner verdict required.",
+      "url": "https://basswaterfreakout.bandcamp.com/album/bwfo-vol-2"
     }
   ],
   "artist_provenance": [
