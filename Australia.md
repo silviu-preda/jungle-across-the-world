@@ -447,7 +447,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **RBI – *Disseminate*:** previously heard and explicitly rejected by the owner as jungle. Butter Sessions remains qualified through Turner Street Sound; do not recommend *Disseminate* again.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
 - **Atom 1 / Soundboy Melbourne:** *Imminent* documents historical Melbourne techstep/drum and bass, not a jungle anchor.
-- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its historical Sydney links versus later production in Chile still need chronologically sound country allocation.
+- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its chronology is now resolved: ENDE states that the accepted album was recorded and produced in Santiago, Chile between 2010–2013. Luciano Zepeda's earlier Sydney/KWS activity remains important Australian scene history, but the accepted jungle album belongs to his Chile period and does not qualify Dark Matter Project as an Australian artist.
 - **Pure Space:** Dividens' *Blueprints* was rejected (*Bionic* jungle-adjacent); Consulate's *The Pulse of Iron* was judged D&B.
 - **Motorik! Records:** Horowitz's *Jungle Blood* was rejected; no stronger lead established.
 - **Secret World:** DVNS' *Secret Garden* and AD ZEE's *New Aquatic* were both judged D&B; not a qualifying jungle-label entry.
@@ -464,7 +464,7 @@ The following listening and provenance work is preserved without promoting unres
 
 ## Excluded or deprioritized in this pass
 
-Royalston, Evil Eye Recordings, *Breakology*, Possible People, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
+Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visits From Best Friends Bring Joy*, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 ## Sources
 
