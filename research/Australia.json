@@ -489,6 +489,13 @@
       "status": "contextual",
       "detail": "Broad Melbourne label with some jungle/DnB crossover. Owner judged Hand Modell – Don’t Like to Party (Love, Jess’s Sunrise Flip) so-so / footnote only. Retain as contextual, not core jungle evidence.",
       "url": "https://clubelevate.bandcamp.com/"
+    },
+    {
+      "name": "MASCON ECHOES",
+      "city": "Brisbane",
+      "status": "contextual",
+      "detail": "Broad Brisbane label spanning multiple genres including jungle. Initial candidate P ∆ W R L S O L – Anwot/Prno rejected by owner; catalogue scan continues.",
+      "url": "https://masconechoes.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1575,6 +1582,13 @@
       "status": "contextual",
       "verdict": "Owner: so-so; footnote only.",
       "url": "https://clubelevate.bandcamp.com/album/sub-100"
+    },
+    {
+      "label": "MASCON ECHOES",
+      "release": "P ∆ W R L S O L – Anwot/Prno (M1)",
+      "status": "excluded",
+      "verdict": "Owner: not it; does not qualify as jungle.",
+      "url": "https://masconechoes.bandcamp.com/track/p-w-r-l-s-o-l-anwot-prno"
     }
   ],
   "artist_provenance": [
