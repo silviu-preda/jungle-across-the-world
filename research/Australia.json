@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-04-au-74",
-  "source_base_commit": "5dc1527e6631bfc3c7bbc26fa34add5662874746",
+  "revision": "2026-11-08-au-75",
+  "source_base_commit": "aeb6a47ad65a35fd2aed7e3f31257b1bb56d2a1d",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -473,7 +473,7 @@
       "name": "SPLITENDES",
       "city": "Perth, Western Australia",
       "status": "qualified",
-      "detail": "Perth sub-label of ENDE. Owner accepted UK producer Abyss – Thug Life from SE008 as jungle, establishing a cross-border label connection. Artist geography is not transferred from the label. Next candidate: Dark Matter Project – And Then They Came from SE005; do not replay the accepted ENDE self-titled album.",
+      "detail": "Perth sub-label of ENDE. Owner accepted UK producer Abyss – Thug Life from SE008 as jungle, establishing a cross-border label connection. SE005 was checked and did not add jungle evidence: The Filth – Fire Walk With Me is breakcore; Dark Matter Project – And Then They Came is too DnB. Artist geography is not transferred from the label.",
       "url": "https://splitendes.bandcamp.com/"
     }
   ],
@@ -1494,9 +1494,16 @@
     },
     {
       "label": "SPLITENDES",
+      "release": "The Filth – Fire Walk With Me, from (SE005) The Filth / Dark Matter Project",
+      "status": "excluded",
+      "verdict": "Owner: breakcore; adjacent to the project but not qualifying jungle evidence.",
+      "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
+    },
+    {
+      "label": "SPLITENDES",
       "release": "Dark Matter Project – And Then They Came, from (SE005) The Filth / Dark Matter Project",
-      "status": "listening_required",
-      "verdict": "Owner listening pending. Official release notes describe this side as minimal jungle; same artist's ENDE self-titled album was already heard and accepted, so this is a distinct SPLITENDES release, not a reassignment.",
+      "status": "excluded",
+      "verdict": "Owner: too DnB; does not qualify as jungle. This is the distinct SPLITENDES SE005 track, not the previously accepted ENDE self-titled album.",
       "url": "https://splitendes.bandcamp.com/album/se005-the-filth-dark-matter-project"
     }
   ],
@@ -1880,7 +1887,6 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "SPLITENDES: owner to listen to Dark Matter Project – And Then They Came from SE005. This is distinct from the previously accepted ENDE self-titled album; do not replay that album. Resolve Dark Matter Project chronology for Australia vs Chile separately."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
   ]
 }
