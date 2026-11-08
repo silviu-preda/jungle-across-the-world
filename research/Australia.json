@@ -552,6 +552,13 @@
       "status": "qualified",
       "detail": "Melbourne label qualified through Illusions – Tonight, owner-confirmed jungle. Australian-roster follow-up: DJ Whipr Snipr – I'm Tired rejected; Jack N Jerk – Jack Inside Shapes EP contained no jungle, with Ear II Brain identified as breaks only. No further clipp.art roster listening needed unless a new specific lead appears.",
       "url": "https://clipp-art.bandcamp.com/"
+    },
+    {
+      "name": "WILE OUT",
+      "city": "Australia; city not verified",
+      "status": "listening_required",
+      "detail": "Australian online digital label. Testing Andy Himself & Chalmer John – Jungle (Original Mix) from Jungle EP (2026) as direct qualifying genre evidence.",
+      "url": "https://wileout.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1764,6 +1771,13 @@
       "status": "excluded",
       "verdict": "Owner: no jungle on the release; Ear II Brain is breaks, but that's it.",
       "url": "https://clipp-art.bandcamp.com/album/jack-inside-shapes-ep-clipp011"
+    },
+    {
+      "label": "WILE OUT",
+      "release": "Andy Himself & Chalmer John – Jungle (Original Mix) (Jungle EP, 2026)",
+      "status": "listening_required",
+      "verdict": "Fresh label-first candidate; owner verdict required.",
+      "url": "https://wileout.bandcamp.com/album/jungle-ep-wile-out"
     }
   ],
   "artist_provenance": [
