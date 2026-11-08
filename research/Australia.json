@@ -549,8 +549,8 @@
     {
       "name": "clipp.art",
       "city": "Melbourne, Australia",
-      "status": "listening_required",
-      "detail": "Melbourne label founded in 2017. SOUNDS LIKE A GOOD TIME. IV explicitly spans jungle among other styles; later label notes describe Illusions – Tonight as a Bukem-esque stomper. Owner listening assigned to establish concrete qualifying evidence.",
+      "status": "qualified",
+      "detail": "Melbourne label. Illusions – Tonight on Sounds Like A Good Time IV is owner-confirmed jungle, giving the label direct qualifying evidence. Illusions is Viennese, so this qualifies clipp.art but not an Australian artist.",
       "url": "https://clipp-art.bandcamp.com/"
     }
   ],
@@ -1740,8 +1740,8 @@
     {
       "label": "clipp.art",
       "release": "Illusions – Tonight (SOUNDS LIKE A GOOD TIME. IV, 2020)",
-      "status": "listening_required",
-      "verdict": "Owner: good track. Positive reception, but no explicit jungle verdict yet; do not infer qualification.",
+      "status": "qualified",
+      "verdict": "Owner: it is jungle; qualifying.",
       "url": "https://clipp-art.bandcamp.com/album/sounds-like-a-good-time-iv-clipp166"
     }
   ],
@@ -2135,6 +2135,12 @@
       "location": "Eora / Sydney, Australia (at time of 2022 release)",
       "status": "qualified",
       "notes": "Independent sources place Caitlin Medcalf in Eora/Sydney during the 2021–2022 period. Owner confirmed Untitled on Backpocket Slammers: Volume 1 as qualifying jungle."
+    },
+    {
+      "name": "Illusions",
+      "location": "Vienna, Austria",
+      "status": "cross_border",
+      "notes": "clipp.art describes Illusions as Viennese. Owner confirmed Tonight as jungle; use as qualifying evidence for Melbourne label clipp.art only, not Australian artist allocation."
     }
   ],
   "open_tasks": [
