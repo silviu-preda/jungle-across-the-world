@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-11-au-78",
+  "revision": "2026-11-08-au-77",
   "source_base_commit": "e15a503e21774cf064ef4df44816046d495d3018",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -564,7 +564,7 @@
       "name": "Deep Scan Technologies",
       "city": "Eora / Sydney",
       "status": "qualified",
-      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist. Melt Unit – Body Melt additionally accepted as a complex, difficult-to-classify crossover; Sydney provenance independently established via the artist's profile.",
+      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist.",
       "url": "https://deepscan.bandcamp.com/"
     }
   ],
@@ -1806,13 +1806,6 @@
       "status": "qualified",
       "verdict": "Owner: yes, this goes in; accepted as qualifying jungle evidence.",
       "url": "https://kolider.bandcamp.com/track/inertia-breaks"
-    },
-    {
-      "label": "Deep Scan Technologies",
-      "release": "Melt Unit – Body Melt (Solid State Drive 2, 2022)",
-      "status": "qualified",
-      "verdict": "Owner: very complex and difficult to call it anything; accepted as a crossover. Preserve genre ambiguity rather than describing it as straightforward jungle.",
-      "url": "https://deepscan.bandcamp.com/track/body-melt"
     }
   ],
   "artist_provenance": [
@@ -2241,12 +2234,6 @@
       "location": "Melbourne, Australia",
       "status": "qualified",
       "notes": "Bandcamp identifies kolider as Melbourne, Australia and names Dan Teng as the producer. Inertia Breaks (2025) accepted by owner as qualifying jungle."
-    },
-    {
-      "name": "Melt Unit / Sean Doyle / Abortifacient",
-      "location": "Eora / Sydney, Australia",
-      "status": "qualified",
-      "notes": "Body Melt on Deep Scan accepted by owner as a difficult-to-classify crossover. Artist's own profile independently identifies Eora/Sydney (https://linktr.ee/meltunit). Earlier reviewed 200PLUS material did not qualify; this separate Deep Scan verdict does not promote 200PLUS. Alias identity documented at https://www.vice.com/en/article/melt-unit-sydneys-own-junglist-ravecore-explosion/."
     }
   ],
   "open_tasks": [
