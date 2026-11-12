@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-12-au-79",
+  "revision": "2026-11-12-au-80",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2016,6 +2016,13 @@
       "status": "excluded",
       "verdict": "Owner listened on 2026-11-12: not jungle. Completed; do not reassign. Future listening: give Bandcamp search criteria instead of links.",
       "url": "https://alteredstatestapes.bandcamp.com/album/orange-chorus-blonde-reveal"
+    },
+    {
+      "label": "Altered States Tapes",
+      "release": "WRX – Athleisure Jester (Osmosis: Altered States of Down Under, 2020)",
+      "status": "excluded",
+      "verdict": "Owner rejected as jungle ('nope; next'), 2026-11-12. Do not reassign.",
+      "url": "https://alteredstatestapes.bandcamp.com/album/osmosis-altered-states-of-down-under"
     }
   ],
   "artist_provenance": [
@@ -2564,6 +2571,12 @@
       "location": "Sydney, Australia",
       "status": "contextual",
       "notes": "Sydney artist and Moonshoe operator; Wake The Town screened only, no owner audition or qualification."
+    },
+    {
+      "name": "WRX",
+      "location": "Sydney, Australia",
+      "status": "contextual",
+      "notes": "Altered States Tapes artist roster independently lists Sydney. Owner rejected Athleisure Jester as jungle on 2026-11-12; no original jungle track qualified through this test."
     }
   ],
   "open_tasks": [
