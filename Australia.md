@@ -178,6 +178,13 @@ The wider catalogue spans dubstep, garage, drum & bass and other bass music, so 
 
 Big Ting qualifies through **Myledo's *Say Something (Myledo ReFlip)*** on *BTR004*, accepted by the owner as jungle. Myledo is independently documented as a Sydney producer; *Freddy No* on B&H supplies a second accepted jungle track. The label's other contributors should not be allocated to Australia or classified as jungle solely through association.
 
+**Additional qualifying artists**
+
+- **Arloski / Arlo Sikora** — Melbourne-based independently of the Sydney label; the owner accepted **Irene J. – *Vue (Arloski Remix)*** on *BTR008*. The qualification belongs to the remixer, not Irene J.'s original.
+- **Monako / Peter Dimou** — independently documented in Sydney's scene; **Arloski – *Ritmo (Monako Remix)*** on *BTR001* (2021) was accepted. This verdict applies to Monako's treatment, while Arloski qualifies separately through *Vue*.
+
+The *BTR001–008* follow-up found no further strong lead after these additions. **Perchance – *Rotate (ealing Reload)*** was rejected as not jungle; the rejected treatment is ealing's remix. [Release and Arloski identity/location credits](https://bigtingrecordings.bandcamp.com/album/btr001-ritmo-intersekt), [Vue release](https://bigtingrecordings.bandcamp.com/album/btr008-vue-warming-sign), [Monako biography](https://ra.co/dj/monako/biography).
+
 **N-Va** is a Sydney-based Big Ting co-founder and documented jungle DJ. His *BTRMIX 008* moves into jungle in its second half according to the owner's listening; a DJ mix establishes scene/selector activity but not an original jungle production. Splitch's *Apex* did not qualify in the Big Ting pass; Splitch later qualifies independently through *KD4* on OTIS.
 
 #### Theory Therapy — Sydney
@@ -193,6 +200,17 @@ Theory Therapy qualifies through **DJ Birdbath – *Kitsch Memory***, which the 
 Deep Scan Technologies qualifies through **Dark Apostle – *Weeb In The Shell*** from *Solid State Drive 2* (2022), which the owner confirmed as jungle. **R-T-FAX – *Circuit Breakaa*** from the same compilation was checked separately and rejected as jungle.
 
 **Dark Apostle** also qualifies independently as an Australian artist: contemporaneous Utility Fog coverage identifies the producer as Sydney-based, so the country allocation is not inherited from the label.
+
+**Melt Unit / Sean Doyle / Abortifacient** — a further qualifying Sydney artist through **[Body Melt](https://deepscan.bandcamp.com/track/body-melt)** on *Solid State Drive 2* (2022). The owner accepted it as a complex, difficult-to-classify **crossover**, not straightforward jungle. [Artist profile](https://linktr.ee/meltunit) independently places Melt Unit in Sydney; [VICE's profile](https://www.vice.com/en/article/melt-unit-sydneys-own-junglist-ravecore-explosion/) connects the aliases. This verdict does not promote the previously screened 200PLUS label.
+
+#### Club Moss — Sydney
+
+**Documented qualifying evidence:** 2018  
+**Role:** Narrow, borderline inclusion explicitly requested by the owner
+
+Club Moss and **Henri O. R. Asar / Harrison Rae** are included through **[Transit](https://clubmoss.bandcamp.com/album/hora001)** on *HORA001*. The owner judged it borderline but explicitly wanted it included for the listening value. The release credits locate its recording on Gadigal/Eora land, separately establishing the artist's local activity.
+
+**Beau Ambien** is another Harrison Rae alias, not a separate person. *Kazooie* was judged a very good release but not jungle, and *Snail in the Club (Devoured by Bluetung)* was rejected. The remaining catalogue supplied no stronger lead in this screening. [Alias and Sydney provenance](https://www.fbi.radio/programs/utility-fog/episodes/utility-fog-22nd-december-2024), [label catalogue](https://clubmoss.bandcamp.com/music).
 
 ### Melbourne
 
@@ -315,6 +333,40 @@ The artist allocations are independently clean rather than inherited from the la
 **Role:** Qualifying broad electronic label
 
 clipp.art qualifies through **Illusions – *Tonight*** on *Sounds Like A Good Time IV* (2020), which the owner confirmed as jungle. The label is Melbourne-based. Illusions is Viennese, so this is direct qualifying evidence for the Australian label rather than an Australian artist allocation.
+
+#### A Colourful Storm — Melbourne
+
+**Documented qualifying evidence:** 2018 release of recordings made in 1993–1998  
+**Role:** Qualifying broad electronic label with cross-border jungle catalogue
+
+The Melbourne label qualifies through **Christoph de Babalon's [Exquisite Angst](https://christophdebabalon.bandcamp.com/album/exquisite-angst)** (*ACOLOUR11*, 2018). His established jungle credentials were accepted without a redundant audition. Christoph de Babalon is a German artist; the catalogue connection does not allocate him to Australia. Mark/Klon Dump is likewise a Berlin connection. Melbourne's Nerve remains contextual because this pass did not establish a qualifying jungle production. [Label profile](https://daily.bandcamp.com/label-profile/a-colourful-storm-label-profile), [catalogue](https://acolourfulstorm.bandcamp.com/).
+
+#### Animalia — Melbourne
+
+**Documented qualifying evidence:** 2023  
+**Role:** Qualifying broad electronic label
+
+**Sam Brickel** qualifies through **Ansible**, track 7 on **[The Pulse of Life](https://sambrickel.bandcamp.com/album/the-pulse-of-life)** (2023). The artist's own profile independently identifies Melbourne. The owner judged the **whole album: Ansible qualifies; every other track does not**. This is completed listening.
+
+The wider Animalia catalogue was screened without another sufficiently specific jungle lead; this does not claim that every release was auditioned. [Label catalogue](https://animalialabel.bandcamp.com/music).
+
+#### Steeplejack Records — Melbourne
+
+**Documented qualifying evidence:** 2025  
+**Role:** Qualifying experimental electronic label
+
+**Tackle / Greg Steele** qualifies through **[Wisp](https://tackle803.bandcamp.com/album/machine)** on *Machine* (2025), enthusiastically accepted by the owner. The release credits name Greg Steele; [Utility Fog's biography](https://www.fbi.radio/programs/utility-fog/episodes/utility-fog-12th-october-2025) independently documents his Melbourne activity.
+
+**Social Sport – *Life*** on *Economy of Movement* was rejected as breaks. Social Sport is independently documented in Christchurch, New Zealand, so the Steeplejack release would in any case be cross-border label evidence. Screening of DBR, Insula, LOIF, Autogenesis and the Faultlines compilations found no further sufficiently specific jungle lead; those screenings are not owner listening verdicts. [Label and artist roster](https://steeplejackrecc.bandcamp.com/), [Social Sport provenance](https://socialsport.bandcamp.com/album/organic-chemistry).
+
+### Brisbane
+
+#### Mutant Joe — cross-label activity
+
+**Documented qualifying evidence:** 2019 onward  
+**Role:** Qualifying Brisbane producer
+
+The owner accepted **[BOOM, DROP](https://mutantjoe.bandcamp.com/track/boom-drop)** (2019) as clear Amen jungle, **Knick Knack** on [Home Invasion Anthems](https://naturalsciences.bandcamp.com/album/home-invasion-anthems) (2019), and **[DJ Akoza – Dog U Out (Mutant Joe Remix)](https://djakoza.bandcamp.com/track/b3-dog-u-out-mutant-joe-remix)** as clearly jungle. [Utility Fog](https://utilityfog.radio/page/64/) independently identifies Mutant Joe with Brisbane. Natural Sciences (Manchester) and Jupiter4 (Berlin) are foreign label connections, not Australian labels; the remix verdict belongs to Mutant Joe.
 
 ### Perth and Western Australia
 
@@ -491,6 +543,12 @@ The following listening and provenance work is preserved without promoting unres
 ## Excluded or deprioritized in this pass
 
 Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visits From Best Friends Bring Joy*, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
+
+**Further completed listening in this pass:** Shedbug's *Siren* did not qualify; Escape Artist's *Zenith* was judged at best DnB and the complete *Lost Time LP* was rejected; Morgan Wright's *The Step* was judged breaks/DnB; Jungist's *Fern* on Meganesia did not qualify. Jungist's existing Backpocket Slammers qualification remains intact. Salt Mines is treated as a German/Berlin label, not Australian by association with its founders.
+
+Couch Acid, Pelvis and Meganesia remain contextual from these rejected leads. Moonshoe's catalogue was screened without a sufficiently specific jungle candidate or an owner listening verdict. Detailed decisions and screening limits are retained in [the research ledger](research/Australia.json).
+
+**Next checkpoint:** Altered States Tapes (Hobart/Nipaluna) is the next label. **gi – *Bashing*** is pending; neither the artist nor label is promoted on that basis. Research paused before exploring the label at the owner's request to prepare this branch and PR.
 
 ## Sources
 

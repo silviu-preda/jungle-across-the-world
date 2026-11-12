@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-08-au-77",
-  "source_base_commit": "e15a503e21774cf064ef4df44816046d495d3018",
+  "revision": "2026-11-12-au-78",
+  "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
   "rules": "Owner listening prevails over tags. Keep artist and label geography separate. Never reassign already completed listening on the basis of an unrecovered track verdict.",
@@ -291,7 +291,7 @@
       "name": "Big Ting Recordings",
       "city": "Sydney",
       "status": "qualified",
-      "detail": "Myledo Say Something (Myledo ReFlip) accepted; N-Va BTRMIX 008 documents jungle DJ activity in second half, not original production.",
+      "detail": "Myledo's Say Something (Myledo ReFlip) remains accepted. Follow-up accepted Vue (Arloski Remix) and Ritmo (Monako Remix), qualifying Arloski (Melbourne) and Monako (Sydney) independently. Rotate (ealing Reload) rejected. BTR001–008 catalogue screened; other material offered no stronger specific lead. N-Va remains a selector, not a qualified producer from his mix; Splitch qualifies separately through OTIS KD4.",
       "url": "https://bigtingrecordings.bandcamp.com/"
     },
     {
@@ -564,8 +564,78 @@
       "name": "Deep Scan Technologies",
       "city": "Eora / Sydney",
       "status": "qualified",
-      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist.",
+      "detail": "Sydney/Eora label. R-T-FAX – Circuit Breakaa was rejected by owner, but Dark Apostle – Weeb In The Shell on Solid State Drive 2 is owner-confirmed jungle. Utility Fog independently identifies Dark Apostle as Sydney-based, so this qualifies both the label and a local artist. Melt Unit's Body Melt also accepted as a complex crossover. Prior Spire/General catalogue listening is not a new assignment; do not repeat merely because exact verdicts are unrecovered.",
       "url": "https://deepscan.bandcamp.com/"
+    },
+    {
+      "name": "Club Moss",
+      "city": "Sydney",
+      "status": "qualified",
+      "detail": "Narrow, explicitly borderline inclusion through Henri O. R. Asar's Transit: owner requested inclusion for great listening. Beau Ambien's Kazooie rejected as a whole; Snail in the Club (Devoured by Bluetung) rejected. Henri O. R. Asar and Beau Ambien are Harrison Rae aliases, not separate people. Remaining catalogue screened without another strong lead.",
+      "url": "https://clubmoss.bandcamp.com/"
+    },
+    {
+      "name": "A Colourful Storm",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Qualifies through established jungle artist Christoph de Babalon's Exquisite Angst (2018, ACOLOUR11; recordings 1993–1998). Owner agreed no redundant audition was needed to re-establish his jungle credentials. Christoph and Mark/Klon Dump are German/Berlin catalogue connections, not Australian allocations. Nerve (Joshua Wells, Melbourne) remained contextual: descriptions did not establish a qualifying jungle production.",
+      "url": "https://acolourfulstorm.bandcamp.com/"
+    },
+    {
+      "name": "Animalia",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Sam Brickel's Ansible accepted. The Pulse of Life is fully judged: only Ansible qualifies, remaining tracks do not; do not reassign. Catalogue screening of Microevolutions, LOIF, Coloursound, al dente, iota, OK EG, Dolly and Billus yielded no further specific jungle lead; screening is not a claim of complete listening.",
+      "url": "https://animalialabel.bandcamp.com/"
+    },
+    {
+      "name": "Steeplejack Records",
+      "city": "Melbourne",
+      "status": "qualified",
+      "detail": "Tackle's Wisp on Machine (2025) accepted enthusiastically; Greg Steele independently documented in Melbourne. Social Sport's Life rejected as breaks, with release treated as judged; artist is Christchurch-based, not Australian. DBR's Transient Attention Complex, Insula's HYPOMOD, LOIF's GHOSTWORLD, Autogenesis and Faultlines compilations were screened but no further sufficiently specific jungle lead established. Do not convert screening into owner listening verdicts.",
+      "url": "https://steeplejackrecc.bandcamp.com/"
+    },
+    {
+      "name": "Couch Acid Recordings",
+      "city": "Melbourne",
+      "status": "contextual",
+      "detail": "Escape Artist's Lost Time LP rejected as a complete release. No qualifying evidence established in this pass.",
+      "url": "https://couchacidrecordings.bandcamp.com/album/escape-artist-lost-time-lp"
+    },
+    {
+      "name": "Pelvis Records",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Morgan Wright's The Step on Coburg rejected as breaks/DnB; no stronger qualifying lead established in this pass.",
+      "url": "https://pelvisrecords.bandcamp.com/"
+    },
+    {
+      "name": "Meganesia",
+      "city": "Australia; city not resolved in this ledger",
+      "status": "contextual",
+      "detail": "Jungist's Fern on Ode to Olive rejected. Catalogue screening primarily surfaced trance/techno, not further specific jungle evidence. Jungist's accepted Backpocket Slammers production remains unaffected.",
+      "url": "https://meganesia.bandcamp.com/"
+    },
+    {
+      "name": "Moonshoe",
+      "city": "Sydney",
+      "status": "contextual",
+      "detail": "Cousin's Wake The Town screened: general jungle language in one review was not supported by a sufficiently specific track lead. No owner audition assigned and no rejection inferred. Sydney label operated by Cousin/Jackson Fester.",
+      "url": "https://moonshoerecords.bandcamp.com/"
+    },
+    {
+      "name": "Salt Mines",
+      "city": "Berlin, Germany",
+      "status": "contextual",
+      "detail": "Foreign-label discovery context only. Owner corrected German label allocation; do not classify as Australian from founders' origins. Escape Artist's Zenith rejected as at best DnB.",
+      "url": "https://saltminesrec.bandcamp.com/track/zenith"
+    },
+    {
+      "name": "Altered States Tapes",
+      "city": "Hobart / Nipaluna",
+      "status": "listening_required",
+      "detail": "Next label, paused at owner's request to checkpoint this session in a branch/commit/PR. gi's Bashing identified but not judged. Do not promote label or artist until owner verdict.",
+      "url": "https://alteredstatestapes.bandcamp.com/"
     }
   ],
   "listening": [
@@ -1806,6 +1876,146 @@
       "status": "qualified",
       "verdict": "Owner: yes, this goes in; accepted as qualifying jungle evidence.",
       "url": "https://kolider.bandcamp.com/track/inertia-breaks"
+    },
+    {
+      "label": "Deep Scan Technologies",
+      "release": "Melt Unit – Body Melt (Solid State Drive 2, 2022)",
+      "status": "qualified",
+      "verdict": "Accepted as a complex, difficult-to-classify crossover; preserve ambiguity. This does not qualify 200PLUS.",
+      "url": "https://deepscan.bandcamp.com/track/body-melt"
+    },
+    {
+      "label": "Mutant Joe (self-released)",
+      "release": "BOOM, DROP (2019)",
+      "status": "qualified",
+      "verdict": "Owner accepted as clear, clean-cut Amen jungle.",
+      "url": "https://mutantjoe.bandcamp.com/track/boom-drop"
+    },
+    {
+      "label": "Natural Sciences (Manchester, UK)",
+      "release": "Mutant Joe – Knick Knack (Home Invasion Anthems, 2019)",
+      "status": "qualified",
+      "verdict": "Owner accepted. Foreign label does not change Brisbane artist allocation.",
+      "url": "https://naturalsciences.bandcamp.com/album/home-invasion-anthems"
+    },
+    {
+      "label": "Jupiter4 (Berlin, Germany)",
+      "release": "DJ Akoza – Dog U Out (Mutant Joe Remix)",
+      "status": "qualified",
+      "verdict": "Owner: great and clearly jungle. Qualifies remixer Mutant Joe; do not transfer verdict to DJ Akoza's original or assign the label to Australia.",
+      "url": "https://djakoza.bandcamp.com/track/b3-dog-u-out-mutant-joe-remix"
+    },
+    {
+      "label": "Flux (UK)",
+      "release": "Shedbug – Siren",
+      "status": "excluded",
+      "verdict": "Owner: does not qualify.",
+      "url": "https://inverted-audio.com/premiere-shedbug-siren/"
+    },
+    {
+      "label": "Salt Mines (Germany)",
+      "release": "Escape Artist – Zenith (Signs of Life, 2018)",
+      "status": "excluded",
+      "verdict": "Owner: at best DnB.",
+      "url": "https://saltminesrec.bandcamp.com/track/zenith"
+    },
+    {
+      "label": "Couch Acid Recordings",
+      "release": "Escape Artist – Lost Time LP (2017; complete release)",
+      "status": "excluded",
+      "verdict": "Owner rejected the album; do not reassign tracks.",
+      "url": "https://couchacidrecordings.bandcamp.com/album/escape-artist-lost-time-lp"
+    },
+    {
+      "label": "Pelvis Records",
+      "release": "Morgan Wright – The Step (Coburg, 2019)",
+      "status": "excluded",
+      "verdict": "Owner: breaks/DnB.",
+      "url": "https://pelvisrecords.bandcamp.com/album/coburg"
+    },
+    {
+      "label": "Big Ting Recordings",
+      "release": "Irene J. – Vue (Arloski Remix) (BTR008)",
+      "status": "qualified",
+      "verdict": "Owner: it works. Qualification belongs to Arloski's remix, not Irene J.'s original.",
+      "url": "https://bigtingrecordings.bandcamp.com/album/btr008-vue-warming-sign"
+    },
+    {
+      "label": "Big Ting Recordings",
+      "release": "Arloski – Ritmo (Monako Remix) (BTR001, 2021)",
+      "status": "qualified",
+      "verdict": "Owner: great track; qualifies Monako as remixer. Arloski qualifies separately through Vue.",
+      "url": "https://bigtingrecordings.bandcamp.com/album/btr001-ritmo-intersekt"
+    },
+    {
+      "label": "Big Ting Recordings",
+      "release": "Perchance – Rotate (ealing Reload) (BTR007)",
+      "status": "excluded",
+      "verdict": "Owner: not jungle. The rejected version is ealing's remix.",
+      "url": "https://bigtingrecordings.bandcamp.com/album/btr007-rotate-blup"
+    },
+    {
+      "label": "Club Moss",
+      "release": "Henri O. R. Asar – Transit (HORA001, 2018)",
+      "status": "qualified",
+      "verdict": "Owner: borderline; explicitly include because it makes great listening. Retain borderline status in prose.",
+      "url": "https://clubmoss.bandcamp.com/album/hora001"
+    },
+    {
+      "label": "Club Moss",
+      "release": "Beau Ambien – Kazooie (2020; complete release)",
+      "status": "excluded",
+      "verdict": "Owner: very good release, but not jungle. Whole release judged, including suggested Lingua Franca.",
+      "url": "https://clubmoss.bandcamp.com/album/kazooie"
+    },
+    {
+      "label": "Club Moss",
+      "release": "Snail in the Club (Devoured by Bluetung) (Bluetung / Henri O. R. Asar, 2020)",
+      "status": "excluded",
+      "verdict": "Owner rejected as jungle.",
+      "url": "https://clubmoss.bandcamp.com/album/bluetung-henri-o-r-asar"
+    },
+    {
+      "label": "Meganesia",
+      "release": "Jungist – Fern (Ode to Olive, 2024)",
+      "status": "excluded",
+      "verdict": "Owner: does not qualify. Existing Jungist qualification from Backpocket Slammers remains valid.",
+      "url": "https://meganesia.bandcamp.com/album/ode-to-olive-curated-by-landfill"
+    },
+    {
+      "label": "A Colourful Storm",
+      "release": "Christoph de Babalon – Exquisite Angst (2018)",
+      "status": "qualified",
+      "verdict": "Established jungle catalogue evidence accepted without redundant audition. This is a German artist connection, not Australian artist provenance.",
+      "url": "https://christophdebabalon.bandcamp.com/album/exquisite-angst"
+    },
+    {
+      "label": "Animalia",
+      "release": "Sam Brickel – The Pulse of Life (2023; complete album)",
+      "status": "qualified",
+      "verdict": "Album fully judged: Ansible (track 7, 5:59) qualifies; every other track does not. Owner explicitly corrected the suggestion that the remainder was unjudged. Do not reassign.",
+      "url": "https://sambrickel.bandcamp.com/album/the-pulse-of-life"
+    },
+    {
+      "label": "Steeplejack Records",
+      "release": "Tackle – Wisp (Machine, 2025)",
+      "status": "qualified",
+      "verdict": "Owner: great find, straight in. Release treated as judged; do not reassign its remaining tracks.",
+      "url": "https://tackle803.bandcamp.com/album/machine"
+    },
+    {
+      "label": "Steeplejack Records",
+      "release": "Social Sport – Life (Economy of Movement, 2026)",
+      "status": "excluded",
+      "verdict": "Owner: sorta breaks, not going in. Release treated as judged; do not reassign. Social Sport is from Christchurch, New Zealand.",
+      "url": "https://socialsport.bandcamp.com/album/economy-of-movement"
+    },
+    {
+      "label": "Altered States Tapes",
+      "release": "gi – Bashing (Orange Chorus Blonde Reveal, 2023)",
+      "status": "listening_required",
+      "verdict": "Presented but not judged. Paused before exploring this new label at owner's request. Bandcamp search: Orange Chorus Blonde Reveal; Albums; Gi on Altered States Tapes; track 2 A2 Bashing (5:22).",
+      "url": "https://alteredstatestapes.bandcamp.com/album/orange-chorus-blonde-reveal"
     }
   ],
   "artist_provenance": [
@@ -2208,8 +2418,8 @@
     {
       "name": "DJ Whipr Snipr",
       "location": "Gold Coast, Australia",
-      "status": "listening_required",
-      "notes": "clipp.art artist roster lists DJ Whipr Snipr as Gold Coast, Australia. Artist qualification depends on a qualifying jungle production; testing I'm Tired."
+      "status": "contextual",
+      "notes": "clipp.art artist roster lists DJ Whipr Snipr as Gold Coast, Australia. I'm Tired was rejected by the owner as jungle."
     },
     {
       "name": "Jack N Jerk",
@@ -2220,8 +2430,8 @@
     {
       "name": "R-T-FAX",
       "location": "Eora / Sydney, Australia",
-      "status": "listening_required",
-      "notes": "R-T-FAX is Erin Nortje, co-founder of Deep Scan Technologies. Utility Fog identifies her as Sydney-based and describes Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner verdict pending."
+      "status": "contextual",
+      "notes": "R-T-FAX is Erin Nortje, co-founder of Deep Scan Technologies. Utility Fog identifies her as Sydney-based and describes Circuit Breakaa as splicing junglist breaks into a half-time, stop-start bass-heavy track. Owner rejected Circuit Breakaa as jungle; do not reassign."
     },
     {
       "name": "Dark Apostle",
@@ -2234,6 +2444,126 @@
       "location": "Melbourne, Australia",
       "status": "qualified",
       "notes": "Bandcamp identifies kolider as Melbourne, Australia and names Dan Teng as the producer. Inertia Breaks (2025) accepted by owner as qualifying jungle."
+    },
+    {
+      "name": "Melt Unit / Sean Doyle / Abortifacient",
+      "location": "Eora / Sydney, Australia",
+      "status": "qualified",
+      "notes": "Body Melt accepted as a complex crossover. Independent location: https://linktr.ee/meltunit ; alias identity: https://www.vice.com/en/article/melt-unit-sydneys-own-junglist-ravecore-explosion/ . Does not qualify 200PLUS."
+    },
+    {
+      "name": "Mutant Joe",
+      "location": "Brisbane, Australia",
+      "status": "qualified",
+      "notes": "BOOM, DROP, Knick Knack and Dog U Out (Mutant Joe Remix) accepted. Brisbane provenance independently documented by Utility Fog: https://utilityfog.radio/page/64/ . Natural Sciences and Jupiter4 are foreign catalogue connections."
+    },
+    {
+      "name": "Arloski / Arlo Sikora",
+      "location": "Melbourne, Australia",
+      "status": "qualified",
+      "notes": "Vue (Arloski Remix) accepted. BTR001 credits independently identify Melbourne and Arlo Sikora: https://bigtingrecordings.bandcamp.com/album/btr001-ritmo-intersekt . Ritmo's accepted jungle treatment is Monako's remix."
+    },
+    {
+      "name": "Monako / Peter Dimou",
+      "location": "Eora / Sydney, Australia",
+      "status": "qualified",
+      "notes": "Ritmo (Monako Remix) accepted. Identity from BTR001 credits; independent Sydney scene provenance: https://ra.co/dj/monako/biography ."
+    },
+    {
+      "name": "Henri O. R. Asar / Henri O / Beau Ambien / Harrison Rae",
+      "location": "Sydney, Australia",
+      "status": "qualified",
+      "notes": "Transit explicitly included despite borderline genre assessment. HORA001 credits document recording on Gadigal/Eora land. Kazooie rejected in full; aliases must not be counted as different people. Identity/location: https://www.fbi.radio/programs/utility-fog/episodes/utility-fog-22nd-december-2024 ."
+    },
+    {
+      "name": "Sam Brickel",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "qualified",
+      "notes": "Ansible accepted, all other tracks on The Pulse of Life rejected. Album completed. Independent artist profile: https://sambrickel.bandcamp.com/album/the-pulse-of-life ."
+    },
+    {
+      "name": "Tackle / Greg Steele",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "qualified",
+      "notes": "Wisp accepted. Independent biography and return to Melbourne documented at https://www.fbi.radio/programs/utility-fog/episodes/utility-fog-12th-october-2025 ; production credit and location: https://tackle803.bandcamp.com/album/machine ."
+    },
+    {
+      "name": "Christoph de Babalon",
+      "location": "Germany; Berlin profile, historical Hamburg recordings",
+      "status": "cross_border",
+      "notes": "Established jungle artist; Exquisite Angst qualifies Melbourne label A Colourful Storm. Not an Australian artist allocation. https://christophdebabalon.bandcamp.com/album/exquisite-angst"
+    },
+    {
+      "name": "Social Sport / Will Duncan",
+      "location": "Christchurch / Ōtautahi, New Zealand",
+      "status": "contextual",
+      "notes": "Life rejected as breaks. Appearing on Steeplejack does not establish Australian provenance. https://socialsport.bandcamp.com/album/organic-chemistry"
+    },
+    {
+      "name": "gi / Gigi De Lacy",
+      "location": "Sydney / Eora, Australia",
+      "status": "listening_required",
+      "notes": "Bashing pending; research paused for checkpoint before exploring Altered States Tapes. Independent provenance in original release credits: https://alteredstatestapes.bandcamp.com/album/orange-chorus-blonde-reveal"
+    },
+    {
+      "name": "Shedbug",
+      "location": null,
+      "status": "contextual",
+      "notes": "Siren rejected; no qualification established in this pass."
+    },
+    {
+      "name": "Escape Artist",
+      "location": null,
+      "status": "contextual",
+      "notes": "Zenith and the complete Lost Time LP rejected."
+    },
+    {
+      "name": "Morgan Wright",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "The Step rejected as breaks/DnB."
+    },
+    {
+      "name": "ealing",
+      "location": null,
+      "status": "contextual",
+      "notes": "Rotate (ealing Reload) rejected; remix credit must remain distinct from Perchance."
+    },
+    {
+      "name": "Nerve / Joshua Wells",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne artist screened through A Colourful Storm; no qualifying jungle production established."
+    },
+    {
+      "name": "DBR / Yoni Bresley",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne artist; Transient Attention Complex screened only, no owner audition or qualification."
+    },
+    {
+      "name": "Insula / Finn Idris",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne; HYPOMOD screened only, no owner audition or qualification."
+    },
+    {
+      "name": "LOIF / Declan Vadasz",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Melbourne; Plunge and GHOSTWORLD screened only, no owner audition or qualification."
+    },
+    {
+      "name": "Autogenesis",
+      "location": "Sydney, Australia",
+      "status": "contextual",
+      "notes": "Sydney artist; catalogue screened only, no owner audition or qualification."
+    },
+    {
+      "name": "Cousin / Jackson Fester",
+      "location": "Sydney, Australia",
+      "status": "contextual",
+      "notes": "Sydney artist and Moonshoe operator; Wake The Town screened only, no owner audition or qualification."
     }
   ],
   "open_tasks": [
@@ -2247,6 +2577,8 @@
     "Heartcore: no further roster listening required unless a new specific production lead emerges.",
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
-    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation."
+    "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
+    "Resume at Altered States Tapes only after the session checkpoint PR: gi – Bashing is pending, not accepted. Search Albums for Orange Chorus Blonde Reveal; original Gi / Altered States Tapes edition, track 2 (5:22).",
+    "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
   ]
 }
