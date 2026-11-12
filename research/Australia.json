@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-12-au-78",
+  "revision": "2026-11-12-au-79",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -633,8 +633,8 @@
     {
       "name": "Altered States Tapes",
       "city": "Hobart / Nipaluna",
-      "status": "listening_required",
-      "detail": "Next label, paused at owner's request to checkpoint this session in a branch/commit/PR. gi's Bashing identified but not judged. Do not promote label or artist until owner verdict.",
+      "status": "contextual",
+      "detail": "Hobart/Nipaluna label under investigation. gi – Bashing rejected by owner; no qualifying jungle track yet confirmed from label. Use search criteria, not links, for next listening.",
       "url": "https://alteredstatestapes.bandcamp.com/"
     }
   ],
@@ -2013,8 +2013,8 @@
     {
       "label": "Altered States Tapes",
       "release": "gi – Bashing (Orange Chorus Blonde Reveal, 2023)",
-      "status": "listening_required",
-      "verdict": "Presented but not judged. Paused before exploring this new label at owner's request. Bandcamp search: Orange Chorus Blonde Reveal; Albums; Gi on Altered States Tapes; track 2 A2 Bashing (5:22).",
+      "status": "excluded",
+      "verdict": "Owner listened on 2026-11-12: not jungle. Completed; do not reassign. Future listening: give Bandcamp search criteria instead of links.",
       "url": "https://alteredstatestapes.bandcamp.com/album/orange-chorus-blonde-reveal"
     }
   ],
@@ -2502,8 +2502,8 @@
     {
       "name": "gi / Gigi De Lacy",
       "location": "Sydney / Eora, Australia",
-      "status": "listening_required",
-      "notes": "Bashing pending; research paused for checkpoint before exploring Altered States Tapes. Independent provenance in original release credits: https://alteredstatestapes.bandcamp.com/album/orange-chorus-blonde-reveal"
+      "status": "contextual",
+      "notes": "Sydney/Eora location independently documented. Owner rejected Bashing (Orange Chorus Blonde Reveal) as jungle on 2026-11-12. No qualifying jungle production yet established."
     },
     {
       "name": "Shedbug",
@@ -2578,7 +2578,7 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Resume at Altered States Tapes only after the session checkpoint PR: gi – Bashing is pending, not accepted. Search Albums for Orange Chorus Blonde Reveal; original Gi / Altered States Tapes edition, track 2 (5:22).",
+    "Altered States Tapes: gi – Bashing rejected as jungle; do not replay. Continue catalogue screening and provide Bandcamp search criteria (not direct links) for new listening candidates.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
   ]
 }
