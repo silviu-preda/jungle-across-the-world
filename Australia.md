@@ -460,6 +460,14 @@ Enja Bergman's *Atmospheric Jungle* was found to be Amen jungle throughout, and 
 
 ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, accepted by the owner as definite hard jungle. **Laptop Destroyer** is the alias of Kris Keogh, documented as an Australian producer associated with Darwin. Keogh's *ZZAAPP Beats Vol. 2* was subsequently heard and rejected as jungle. The remaining roster does not currently have an established qualifying jungle production.
 
+#### Delight Records — Melbourne / Naarm
+
+**Role:** Qualifying independent label and events collective (founded 2016). Its wider catalogue crosses house, garage, breaks and DnB. The representative jungle evidence is **SADIVA – *I've Been Thinking (Aaron Static Remix)*** (2022): the listening verdict accepts its shift from DnB into genuine Amen chopping as qualifying jungle crossover. **Aaron Static / Aaron Danks** is documented as Melbourne-based, with earlier Perth-scene activity, and qualifies as a remixer. **SADIVA's geographical provenance remains unresolved**; label location does not determine artist allocation. No exhaustive catalogue audition required.
+
+#### Kinetic Vision — Melbourne / Naarm
+
+Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD's independently verified Australian-scene provenance remains open**; an Australian label release does not establish the artist's location. No further Kinetic Vision catalogue listening is required for label qualification.
+
 ### Further qualifying Australian labels
 
 #### BREAK MATRIX — Australia (city unresolved)
@@ -513,6 +521,12 @@ Anomaly's broad catalogue spans future jungle, J-Tek and hardcore breaks. The ow
 SPLITENDES remains qualified through **Abyss – *Thug Life*** on *SE008*, accepted by the owner as jungle; Abyss is UK-based, so this is cross-border label evidence rather than Australian artist allocation. *SE005 – The Filth / Dark Matter Project* was subsequently checked and does **not** add jungle evidence: **The Filth – *Fire Walk With Me*** is breakcore, while **Dark Matter Project – *And Then They Came*** is too DnB. Do not replay the previously accepted ENDE self-titled Dark Matter Project album when following this thread.
 
 ### Direct Australian artist outside a resolved label cluster
+
+#### Ross Fader — Sydney (cross-border label connection)
+
+Ross Fader has established Sydney rave/breakbeat-scene activity. *Watashi No Mamori (Original Mix)* (2026) was explicitly accepted as jungle on listening. The release appeared on **CX Recordings (Berlin, Germany)**: it establishes Ross Fader's jungle output, **not** an Australian label allocation. No further Ross Fader catalogue audit is needed for this artist's qualification.
+
+
 
 #### 12bit Jungle Out There
 
