@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-81",
+  "revision": "2026-11-16-au-82",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -634,7 +634,7 @@
       "name": "Altered States Tapes",
       "city": "Hobart / Nipaluna",
       "status": "contextual",
-      "detail": "Hobart/Nipaluna label under investigation; no qualifying jungle track established. Owner rejected gi – Bashing, WRX – Athleisure Jester and Rings Around Saturn – Live. Rings Around Saturn / Rory McPike already qualifies as an Australian artist through independent releases; this rejection concerns only the Altered States label evidence. Use Bandcamp search criteria, not links, for next listening.",
+      "detail": "Hobart/Nipaluna label under investigation; no qualifying jungle track established. Owner rejected gi – Bashing, WRX – Athleisure Jester Rings Around Saturn – Live, and Ivory Whips – Mope. Rings Around Saturn / Rory McPike already qualifies as an Australian artist through independent releases; this rejection concerns only the Altered States label evidence. Use Bandcamp search criteria, not links, for next listening.",
       "url": "https://alteredstatestapes.bandcamp.com/"
     }
   ],
@@ -2029,6 +2029,13 @@
       "release": "Rings Around Saturn – Live",
       "status": "excluded",
       "verdict": "Owner on 2026-11-16: 'it doesn't go in'. Rejected as qualifying jungle evidence for Altered States Tapes; completed, do not reassign. Rings Around Saturn / Rory McPike remains qualified elsewhere in Australia.md."
+    },
+    {
+      "label": "Altered States Tapes",
+      "release": "Ivory Whips – Mope (Osmosis: Altered States of Down Under, 2020)",
+      "status": "excluded",
+      "verdict": "Listening verdict on 2026-11-16: stays out (not jungle). Completed; do not reassign.",
+      "url": "https://alteredstatestapes.bandcamp.com/album/osmosis-altered-states-of-down-under"
     }
   ],
   "artist_provenance": [
@@ -2603,7 +2610,7 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Altered States Tapes: gi – Bashing, WRX – Athleisure Jester and Rings Around Saturn – Live rejected as jungle; do not replay. Continue with new candidates, using Bandcamp search criteria (not direct links). Rings Around Saturn remains an independently qualified Melbourne artist.",
+    "Altered States Tapes: gi – Bashing, WRX – Athleisure Jester Rings Around Saturn – Live and Ivory Whips – Mope rejected as jungle; do not replay. Continue with new candidates, using Bandcamp search criteria (not direct links). Rings Around Saturn remains an independently qualified Melbourne artist.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
   ]
 }
