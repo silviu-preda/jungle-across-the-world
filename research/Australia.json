@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-96",
+  "revision": "2026-11-16-au-97",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -650,6 +650,13 @@
       "status": "qualified",
       "detail": "Australian label and events collective (founded 2016) with house, garage, breaks and DnB catalogue. Owner heard SADIVA – I've Been Thinking (Aaron Static Remix, 2022) and accepted as jungle, noting progression from DnB into real Amen chopping. This is sufficient representative label evidence; no exhaustive roster listening needed.",
       "url": "https://delightrecords.bandcamp.com/"
+    },
+    {
+      "name": "Kinetic Vision",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Melbourne/Naarm label founded in 2022 by Edward Richards and JXTPS, with broad techno, dubstep, broken-beats and DnB activity. Owner listened to POD – Trip2Fantasia on Spacer (2024) and explicitly confirmed jungle qualification ('it actually does') on 2026-11-16. This is sufficient representative evidence for label inclusion. POD's independent Australian artist provenance remains unresolved; do not infer it from the label.",
+      "url": "https://kineticvision.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2127,6 +2134,13 @@
       "release": "SADIVA – I've Been Thinking (Aaron Static Remix, 2022)",
       "status": "qualified",
       "verdict": "Owner: 'yeah, it kindda does, it's passes on from dnb to real amen chopping, iut's quite cool' (2026-11-16). Accept as qualifying jungle crossover with later genuine Amen chopping; starts DnB. Qualifies the Australian label and Melbourne-based remixer Aaron Static; SADIVA's own country provenance not established. Representative evidence only, not an invitation to catalogue the roster."
+    },
+    {
+      "label": "Kinetic Vision",
+      "release": "POD – Trip2Fantasia (Spacer, 2024)",
+      "status": "qualified",
+      "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
+      "url": "https://kineticvision.bandcamp.com/"
     }
   ],
   "artist_provenance": [
