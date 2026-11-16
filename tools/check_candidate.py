@@ -28,9 +28,9 @@ def main():
     parser = argparse.ArgumentParser(
         description="Check the country ledger and Markdown before recommending music."
     )
-    parser.add_argument("--country", default="Australia")
+    parser.add_argument("--country", required=True)
     parser.add_argument("--artist")
-    parser.add_argument("--label")
+    parser.add_argument("--label", required=True)
     parser.add_argument("--release")
     parser.add_argument("--track")
     parser.add_argument("--repo", type=Path, default=Path(__file__).resolve().parents[1])
