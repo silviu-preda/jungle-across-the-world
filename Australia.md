@@ -34,6 +34,10 @@ Hardline repeatedly crosses hardcore, breakcore, drum and bass and jungle. Accep
 - **Paulblackout** — central to the later Hardline story. *Hardline 13 – Viva La Revolucion* sits at the accepted D&B/jungle junction, while *Drum Embrace* adds an IDM/breaks fusion.
 - **Arkon** — Perth-associated Australian artist in the Hardline circle. *Rapture* is the clearest direct Amen-led qualification found so far.
 
+#### Iridium 77 Media — Boolaroo / Newcastle region
+
+Iridium 77 qualifies through **Overcast – *Wolfe*** on *IR77-1000* (2025). *Concord*, the companion track, did not qualify; **Xylocaine – *Rubicon Job / Consternation*** was rejected as predominantly gabber. Qualification rests on *Wolfe*, not the entire release. [Label catalogue](https://ir77.bandcamp.com/)
+
 ### Sydney
 
 #### Jungle Massive Australia
@@ -161,6 +165,10 @@ Tactical Aspect, the Sydney duo of **Ruff Tactics & DJ Speaks**, qualifies stron
 Heartcore's *HTCR001* documents a Sydney/Canberra-connected breakbeat and jungle network. Two tracks have passed the owner's listening test: **Critical Thought – *Heartbreak***, described by the owner as effectively a re-orchestration of *Amen Brother* but nonetheless genuinely jungle, and **Hypochondriac (FKA deejaysavethechildren) – *Parramatta Road Freakazoids***, also accepted as jungle.
 
 Critical Thought has independently documented Sydney jungle performance activity, including local Boys Who Cry-linked events. Hypochondriac/deejaysavethechildren is **James Pickering**, an Australian producer whose Resident Advisor activity is concentrated in Sydney; Mixmag independently described his 2023 Womp Krew track *rumpypumpy@thejazzbar* as jazz fused with jungle. Heartcore therefore qualifies as a local label rather than through imported roster evidence. **Meat Conglomerate – *My Best Friend*** from *HTCR001* was checked and emphatically rejected by the owner as jungle.
+
+#### Chronically Ill Audio — Sydney / Eora
+
+Chronically Ill Audio is a Sydney jungle-focused community label launched in 2026, with locally documented activity around jungle, breaks and UK garage. This qualifies its label/scene role; it does not automatically qualify every artist in its network. **Deverence – *Rampage!*** was checked and rejected as jungle, leaving Deverence contextual. [Catalogue](https://chronicallyillaudio.bandcamp.com/)
 
 #### Womp Krew — Sydney
 
@@ -359,6 +367,10 @@ The wider Animalia catalogue was screened without another sufficiently specific 
 
 **Social Sport – *Life*** on *Economy of Movement* was rejected as breaks. Social Sport is independently documented in Christchurch, New Zealand, so the Steeplejack release would in any case be cross-border label evidence. Screening of DBR, Insula, LOIF, Autogenesis and the Faultlines compilations found no further sufficiently specific jungle lead; those screenings are not owner listening verdicts. [Label and artist roster](https://steeplejackrecc.bandcamp.com/), [Social Sport provenance](https://socialsport.bandcamp.com/album/organic-chemistry).
 
+#### kolider / Dan Teng — Melbourne
+
+**kolider** qualifies independently through **[*Inertia Breaks*](https://kolider.bandcamp.com/track/inertia-breaks)** (2025), accepted as jungle. The artist's Melbourne location and Dan Teng identity are documented separately from label geography; the track is self-released.
+
 ### Brisbane
 
 #### Mutant Joe — cross-label activity
@@ -450,6 +462,10 @@ ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, ac
 
 ### Further qualifying Australian labels
 
+#### BREAK MATRIX — Australia (city unresolved)
+
+BREAK MATRIX qualifies through **Cyberian Shirayuki – *She Drives A Honda*** (catalogue `P*7-02`), accepted as a strong release. The label is Australian; Cyberian Shirayuki's individual Australian-scene provenance is still unresolved and must not be inferred from the label. No extra track-level verdict is claimed. [Release](https://breakmatrix.bandcamp.com/album/she-drives-a-honda)
+
 #### JM Records — Perth
 
 Small Perth artist-run imprint associated with **Jimi E**, who identifies as a longtime jungle producer and raver. Its *JMR001* (20 November 2025) contains *Universal Love*, accepted by the owner as jungle. Qualification is narrow; do not imply a larger qualifying catalogue.
@@ -534,13 +550,18 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
+- **Eight Foot At Fisho's — Melbourne:** *Search: Atmospheric Jungle* (2024; *SELEKTAH* / *Goulburn Rage*) was already heard in October and November 2026 and described positively as a nice/liked release. A specific jungle-qualification verdict is not established; do not equate enjoyment with qualification. **Completed listening — do not recommend *SELEKTAH* or this release again.** Self-released; no label entry.
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
 - **B&H artist provenance:** label resolved as Australian; individual allocation remains open for Noneohone, MOOD$ and SAV/Blank. Knuckle is independently described as a home-grown Australian producer, though the city is unverified; nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
 - **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Knuckle's Australian country allocation is now independently supported; Oi Ocha's remains open.
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
+- **POD & tommyj:** *Warprider* (2025) was mostly DnB, but *Artificial Life* qualified as jungle. This completed listening is preserved in the JSON ledger; the duo's independent Australian-scene provenance remains unresolved. No repeat audition is needed.
+
 ## Excluded or deprioritized in this pass
+
+**Modester – *Jungle Progression*** was previously checked and rejected; the 8 November 2026 conversation reconfirmed that it had already been heard. The exact earlier musical rationale is unrecovered. Do not assign it again.
 
 Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visits From Best Friends Bring Joy*, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
@@ -548,7 +569,7 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visi
 
 Couch Acid, Pelvis and Meganesia remain contextual from these rejected leads. Moonshoe's catalogue was screened without a sufficiently specific jungle candidate or an owner listening verdict. Detailed decisions and screening limits are retained in [the research ledger](research/Australia.json).
 
-**Current checkpoint — Altered States Tapes (Hobart/Nipaluna):** The label remains contextual and its catalogue investigation is ongoing; no qualifying jungle track has yet been established. The owner listened to and rejected **gi – *Bashing*** (*Orange Chorus Blonde Reveal*, 2023) and **WRX – *Athleisure Jester*** (*Osmosis: Altered States of Down Under*, 2020) as jungle on 12 November 2026. Both listening decisions are complete; do not reassign these tracks. Continue screening the catalogue for new candidates, presenting **Bandcamp search criteria rather than direct links** for owner listening. The research ledger retains the detailed verdicts and independent artist-provenance assessments.
+**Altered States Tapes — Hobart/Nipaluna (contextual; screening closed):** No qualifying jungle track established in this pass. Completed listening rejections: **gi – *Bashing*** (2023), **WRX – *Athleisure Jester*** (2020), **Rings Around Saturn – *Live***, **Ivory Whips – *Mope*** (2020), and **Oil – *Bass Lounge*** (2020). Do not repeat these checks. Rings Around Saturn / Rory McPike remains independently qualified as a Melbourne artist through other material. The catalogue was not exhaustively auditioned; further Altered States listening is deprioritized. Details remain in [the research ledger](research/Australia.json).
 
 ## Sources
 
