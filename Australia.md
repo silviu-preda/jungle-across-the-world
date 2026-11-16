@@ -514,6 +514,12 @@ SPLITENDES remains qualified through **Abyss – *Thug Life*** on *SE008*, accep
 
 ### Direct Australian artist outside a resolved label cluster
 
+#### Ross Fader — Sydney (cross-border label connection)
+
+Ross Fader has established Sydney rave/breakbeat-scene activity. *Watashi No Mamori (Original Mix)* (2026) was explicitly accepted as jungle on listening. The release appeared on **CX Recordings (Berlin, Germany)**: it establishes Ross Fader's jungle output, **not** an Australian label allocation. No further Ross Fader catalogue audit is needed for this artist's qualification.
+
+
+
 #### 12bit Jungle Out There
 
 **Relevant activity:** Contemporary  
