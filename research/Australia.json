@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-88",
+  "revision": "2026-11-16-au-89",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2070,6 +2070,13 @@
       "release": "Modester – Jungle Progression",
       "status": "excluded",
       "verdict": "Previously reviewed and rejected: confirmed again on 2026-11-08 ('no', already done). Exact original musical rationale unavailable; do not invent one or recommend repeat listening."
+    },
+    {
+      "label": "Bitwise",
+      "release": "Time Travel – Error Detected (Time & Tide, BW010, 2026; track 4)",
+      "status": "contextual",
+      "verdict": "Owner listened on 2026-11-16: 'it's fabulous! and the recording is v high quality on bandcamp! this track is deff a banger'. Strong positive track endorsement and praise for recording quality. The reply follows a jungle-qualification question but does not explicitly classify the track as jungle; do not manufacture a genre-specific verdict. Completed listening: do not recommend as an untested track.",
+      "url": "https://bitwisemusic.bandcamp.com/album/time-tide"
     }
   ],
   "artist_provenance": [
