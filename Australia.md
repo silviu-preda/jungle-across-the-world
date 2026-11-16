@@ -534,7 +534,6 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 
 The following listening and provenance work is preserved without promoting unresolved material into the ecosystem map:
 
-- **Ruff Kutz — Melbourne/Naarm:** Pugilist's imprint (2025–present). **Pugilist & Tamen – *Miel*** from *Source* (Ruff Kutz 002, 2025; track 4, 4:05) is a pending listening lead. The release describes it as 160 BPM jungle with 1990s hardcore influences; genre qualification awaits listening. Both collaborators have independent Melbourne provenance. Pugilist's earlier *Be Humble* rejection on Modern Hypnosis does not decide this track.
 - **Big Dog Records / Adelaide:** *MPK Presents: Archive – A Collection of Original Adelaide Drum & Bass* has been located as a downloadable archive. Full listening is deferred until the files can be auditioned; Big Dog is not yet a confirmed entry.
 - **B&H artist provenance:** label resolved as Australian; individual allocation remains open for Noneohone, MOOD$ and SAV/Blank. Knuckle is independently described as a home-grown Australian producer, though the city is unverified; nickname's Melbourne connection and Myledo's Sydney connection are independently corroborated.
 - **Extra Spicy / XTR:** XTR is the Sydney label Extra Spicy's catalogue prefix, not a separate label. XTR001 was rejected; Knuckle's *Manifold* and *Trick* passed, as did relevant Oi Ocha material from *Jungle Informer EP*. Possible People was D&B. Knuckle's Australian country allocation is now independently supported; Oi Ocha's remains open.
