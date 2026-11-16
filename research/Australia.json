@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-95",
+  "revision": "2026-11-16-au-96",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -643,6 +643,13 @@
       "status": "contextual",
       "detail": "Already covered in Australia.md's Pugilist cross-label section. Ruff Kutz is cross-border release infrastructure, not an independently established Australian label. Pugilist & Tamen's Source EP already provides documented jungle material; do not revisit merely because an individual track verdict is unrecovered.",
       "url": "https://ruffkutzz.bandcamp.com/"
+    },
+    {
+      "name": "Delight Records",
+      "city": "Melbourne / Naarm",
+      "status": "qualified",
+      "detail": "Australian label and events collective (founded 2016) with house, garage, breaks and DnB catalogue. Owner heard SADIVA – I've Been Thinking (Aaron Static Remix, 2022) and accepted as jungle, noting progression from DnB into real Amen chopping. This is sufficient representative label evidence; no exhaustive roster listening needed.",
+      "url": "https://delightrecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2114,6 +2121,12 @@
       "release": "Ross Fader – Watashi No Mamori (Original Mix, 2026)",
       "status": "qualified",
       "verdict": "Owner listened and explicitly confirmed on 2026-11-16: 'this track is good and jungle'. Qualifies Ross Fader's jungle output; CX Recordings remains a German label, not reclassified as Australian. Artist's independently documented Sydney-scene activity is relevant to Australian artist provenance. Do not pursue CX Recordings as an Australian label or continue redundant releases from this already qualifying artist."
+    },
+    {
+      "label": "Delight Records",
+      "release": "SADIVA – I've Been Thinking (Aaron Static Remix, 2022)",
+      "status": "qualified",
+      "verdict": "Owner: 'yeah, it kindda does, it's passes on from dnb to real amen chopping, iut's quite cool' (2026-11-16). Accept as qualifying jungle crossover with later genuine Amen chopping; starts DnB. Qualifies the Australian label and Melbourne-based remixer Aaron Static; SADIVA's own country provenance not established. Representative evidence only, not an invitation to catalogue the roster."
     }
   ],
   "artist_provenance": [
@@ -2716,6 +2729,12 @@
       "location": "Sydney, New South Wales",
       "status": "qualified",
       "notes": "Sydney rave/breakbeat-scene activity independently reported; owner accepted Watashi No Mamori (Original Mix, 2026) as jungle. Released via German CX Recordings; label geography remains Berlin."
+    },
+    {
+      "name": "Aaron Static / Aaron Danks",
+      "location": "Melbourne, Australia (earlier Perth scene activity)",
+      "status": "qualified",
+      "notes": "Melbourne producer and remixer. Owner accepted Aaron Static remix of SADIVA – I've Been Thinking (Delight Records, 2022): starts DnB then develops real Amen chopping. Do not infer SADIVA's country from label geography."
     }
   ],
   "open_tasks": [
