@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Understand the jungle ecosystem in every country.
+Build a **curated, country-by-country discovery guide to jungle artists and labels** that people can use to discover and explore their music independently. Research the national jungle ecosystem so entries are meaningful, geographically sound and supported by representative listening evidence. The deliverable is a trusted artist/label list, **not an exhaustive catalogue of releases or tracks**.
 
 ## 1. Country iteration
 
