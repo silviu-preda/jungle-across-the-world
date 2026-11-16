@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-91",
+  "revision": "2026-11-16-au-92",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2090,6 +2090,12 @@
       "release": "Thierry D – ONE SPNG DAY (ONE SPRING DAY (FREE DOWNLOAD), 2026)",
       "status": "qualified",
       "verdict": "Owner on 2026-11-16: 'deff qualifies'. Clear jungle qualification. Thierry D and associated Sydney labels already have strong qualifying evidence; this is supplementary listening, not a reason to survey more of his catalogue. The project's aim is an evidence ledger, not an exhaustive release catalogue."
+    },
+    {
+      "label": "Roadw3rx (self-released)",
+      "release": "Roadw3rx – CHING CHING (Kwengface Flip) (Cook – Serve – Eat, 2024)",
+      "status": "excluded",
+      "verdict": "Owner listened on 2026-11-16 and emphatically rejected it as jungle: 'fuck no; this is pop grime crap'. Do not reassign this track. The rejection concerns this track, not a blanket verdict on every Roadw3rx release; the artist and self-release have no qualifying jungle evidence in the research ledger."
     }
   ],
   "artist_provenance": [
