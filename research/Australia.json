@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-94",
+  "revision": "2026-11-16-au-95",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2108,6 +2108,12 @@
       "release": "DJ TR!P – Cocaine Kills Cancer (2026)",
       "status": "excluded",
       "verdict": "Owner listened on 2026-11-16 and rejected as qualifying jungle: 'it does not'. Producer's description of slowed jungle/trip-hop/2-step is not a substitute for qualifying musical evidence. No Australian jungle artist qualification established from this track; do not reassign."
+    },
+    {
+      "label": "CX Recordings (Berlin; cross-border)",
+      "release": "Ross Fader – Watashi No Mamori (Original Mix, 2026)",
+      "status": "qualified",
+      "verdict": "Owner listened and explicitly confirmed on 2026-11-16: 'this track is good and jungle'. Qualifies Ross Fader's jungle output; CX Recordings remains a German label, not reclassified as Australian. Artist's independently documented Sydney-scene activity is relevant to Australian artist provenance. Do not pursue CX Recordings as an Australian label or continue redundant releases from this already qualifying artist."
     }
   ],
   "artist_provenance": [
@@ -2704,6 +2710,12 @@
       "location": "Melbourne / Naarm",
       "status": "contextual",
       "notes": "Melbourne location stated on artist Bandcamp page; Corolla Riddim (2026) was heard but not accepted as jungle despite producer's genre description. Label/copyright credit Posters has no independently established Australian location."
+    },
+    {
+      "name": "Ross Fader",
+      "location": "Sydney, New South Wales",
+      "status": "qualified",
+      "notes": "Sydney rave/breakbeat-scene activity independently reported; owner accepted Watashi No Mamori (Original Mix, 2026) as jungle. Released via German CX Recordings; label geography remains Berlin."
     }
   ],
   "open_tasks": [
