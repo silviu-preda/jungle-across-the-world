@@ -246,7 +246,7 @@ Rising Lantern is run by brothers MshCode and Time Travel. It is a primary route
 **Relevant activity:** 2010s–present  
 **Role:** Core label
 
-Bitwise is one of the strongest discoveries from the Australian research. Confirmed listening highlights include *Silver Dub – The Remixes*, Subnet43's *The Empirical EP*, and especially *The Mutant Limit EP*, whose clean, energetic Amen chopping invited comparison with Tim Reaper.
+Bitwise is one of the strongest discoveries from the Australian research. Confirmed listening highlights include *Silver Dub – The Remixes*, Subnet43's *The Empirical EP*, and especially *The Mutant Limit EP*, whose clean, energetic Amen chopping invited comparison with Tim Reaper. Time Travel's *Error Detected* (from *Time & Tide*, 2026) is another explicitly accepted jungle standout: a 'banger', with Bandcamp recording quality singled out for praise.
 
 Time Travel and MshCode connect Bitwise to Melbourne. **Mutant_Limit** is independently identified by Bitwise as a Melbourne jungle producer and qualifies for Australia. Subnet43's music passed listening, but independent Australian-scene provenance is still outstanding.
 
