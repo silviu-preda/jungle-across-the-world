@@ -32,18 +32,34 @@ class CandidateCheckerTests(unittest.TestCase):
             "- Hidden Artist – Old Track was previously checked; missing in the JSON.\n",
             encoding="utf-8"
         )
+        (root / "research" / "Belgium.json").write_text(
+            json.dumps({
+                "revision": "test-be",
+                "labels": [{"name": "Belgian Label", "status": "qualified"}],
+                "artist_provenance": [{"name": "Belgian Artist", "status": "qualified"}],
+                "listening": [{"label": "Belgian Label",
+                               "release": "Belgian Artist – Refracted Breaks",
+                               "status": "qualified"}],
+                "open_tasks": []
+            }, ensure_ascii=False), encoding="utf-8"
+        )
+        (root / "Belgium.md").write_text(
+            "- Belgian Label: Belgian Artist – Refracted Breaks.\n",
+            encoding="utf-8"
+        )
         self.root = root
 
-    def check(self, expected, expected_text, *args):
+    def check(self, expected, expected_text, *args, country="Australia", label="Ruff Kutz"):
         p = subprocess.run(
-            [sys.executable, str(SCRIPT), "--repo", str(self.root), *args],
+            [sys.executable, str(SCRIPT), "--repo", str(self.root),
+             "--country", country, "--label", label, *args],
             text=True, capture_output=True, check=False,
         )
         self.assertEqual(p.returncode, expected, p.stdout + p.stderr)
         self.assertIn(expected_text, p.stdout + p.stderr)
 
     def test_existing_release_from_json_blocks_reassignment(self):
-        self.check(2, "PRIOR MATERIAL REFERENCED", "--track", "SELEKTAH")
+        self.check(2, "PRIOR MATERIAL REFERENCED", "--track", "SELEKTAH", label="Self-released")
 
     def test_existing_ep_blocks_reassignment(self):
         self.check(2, "PRIOR MATERIAL REFERENCED", "--release", "Source EP")
@@ -60,11 +76,30 @@ class CandidateCheckerTests(unittest.TestCase):
     def test_no_repository_match_is_not_proof_of_newness(self):
         self.check(0, "NOT proof of newness", "--artist", "Unknown Performer")
 
-    def test_requires_search_term(self):
-        p = subprocess.run([sys.executable, str(SCRIPT), "--repo", str(self.root)],
-                           text=True, capture_output=True, check=False)
+    def test_label_only_search_is_supported(self):
+        self.check(1, "EXISTING CONTEXT", country="Belgium", label="Belgian Label")
+
+    def test_second_country_uses_its_own_files(self):
+        self.check(2, "PRIOR MATERIAL REFERENCED", "--track", "Refracted Breaks",
+                   country="Belgium", label="Belgian Label")
+
+    def test_country_required(self):
+        p = subprocess.run(
+            [sys.executable, str(SCRIPT), "--repo", str(self.root),
+             "--label", "Belgian Label", "--track", "Refracted Breaks"],
+            text=True, capture_output=True, check=False
+        )
         self.assertEqual(p.returncode, 2)
-        self.assertIn("Provide at least one", p.stderr)
+        self.assertIn("--country", p.stderr)
+
+    def test_label_required(self):
+        p = subprocess.run(
+            [sys.executable, str(SCRIPT), "--repo", str(self.root),
+             "--country", "Belgium", "--track", "Refracted Breaks"],
+            text=True, capture_output=True, check=False
+        )
+        self.assertEqual(p.returncode, 2)
+        self.assertIn("--label", p.stderr)
 
 
 if __name__ == "__main__":
