@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-92",
+  "revision": "2026-11-16-au-93",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2096,6 +2096,12 @@
       "release": "Roadw3rx – CHING CHING (Kwengface Flip) (Cook – Serve – Eat, 2024)",
       "status": "excluded",
       "verdict": "Owner listened on 2026-11-16 and emphatically rejected it as jungle: 'fuck no; this is pop grime crap'. Do not reassign this track. The rejection concerns this track, not a blanket verdict on every Roadw3rx release; the artist and self-release have no qualifying jungle evidence in the research ledger."
+    },
+    {
+      "label": "Charlie Arter (self-released)",
+      "release": "Charlie Arter – Infant Deathcore Blues (Television EP, 2026)",
+      "status": "excluded",
+      "verdict": "Owner listened on 2026-11-16: 'this track deff not' — explicitly rejected as qualifying jungle. Do not reassign or treat the track's external breakcore/jungle-related descriptions as a positive verdict. No artist-level jungle qualification established from this track."
     }
   ],
   "artist_provenance": [
