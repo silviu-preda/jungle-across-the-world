@@ -548,7 +548,7 @@ Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visi
 
 Couch Acid, Pelvis and Meganesia remain contextual from these rejected leads. Moonshoe's catalogue was screened without a sufficiently specific jungle candidate or an owner listening verdict. Detailed decisions and screening limits are retained in [the research ledger](research/Australia.json).
 
-**Next checkpoint:** Altered States Tapes (Hobart/Nipaluna) is the next label. **gi – *Bashing*** is pending; neither the artist nor label is promoted on that basis. Research paused before exploring the label at the owner's request to prepare this branch and PR.
+**Current checkpoint — Altered States Tapes (Hobart/Nipaluna):** The label remains contextual and its catalogue investigation is ongoing; no qualifying jungle track has yet been established. The owner listened to and rejected **gi – *Bashing*** (*Orange Chorus Blonde Reveal*, 2023) and **WRX – *Athleisure Jester*** (*Osmosis: Altered States of Down Under*, 2020) as jungle on 12 November 2026. Both listening decisions are complete; do not reassign these tracks. Continue screening the catalogue for new candidates, presenting **Bandcamp search criteria rather than direct links** for owner listening. The research ledger retains the detailed verdicts and independent artist-provenance assessments.
 
 ## Sources
 
