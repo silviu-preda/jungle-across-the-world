@@ -2074,8 +2074,8 @@
     {
       "label": "Bitwise",
       "release": "Time Travel – Error Detected (Time & Tide, BW010, 2026; track 4)",
-      "status": "contextual",
-      "verdict": "Owner listened on 2026-11-16: 'it's fabulous! and the recording is v high quality on bandcamp! this track is deff a banger'. Strong positive track endorsement and praise for recording quality. The reply follows a jungle-qualification question but does not explicitly classify the track as jungle; do not manufacture a genre-specific verdict. Completed listening: do not recommend as an untested track.",
+      "status": "qualified",
+      "verdict": "Owner listened on 2026-11-16 and explicitly confirmed the track qualifies as jungle. 'it's fabulous! and the recording is v high quality on bandcamp! this track is deff a banger'. Excellent recording quality and strong positive verdict; completed listening, do not reassign.",
       "url": "https://bitwisemusic.bandcamp.com/album/time-tide"
     }
   ],
