@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-85",
+  "revision": "2026-11-16-au-86",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2057,6 +2057,13 @@
       "status": "qualified",
       "verdict": "Previously covered in Australia.md as an existing jungle lane. Individual Miel verdict not specified; do not reassign the Source EP or propose Miel as a fresh lead merely to recover track-level details.",
       "url": "https://tamen.bandcamp.com/album/source"
+    },
+    {
+      "label": "Self-released (Eight Foot At Fisho's)",
+      "release": "Eight Foot At Fisho's – Search: Atmospheric Jungle (2024; SELEKTAH / Goulburn Rage)",
+      "status": "prior_listening_verdict_unrecovered",
+      "verdict": "Previously heard: 2026-10-26 ('this is a nice release!') and 2026-11-08 ('i like this release!'). Positive response, but no explicit jungle qualification recovered. Already listened; do NOT recommend SELEKTAH or the release again as a new audition.",
+      "url": "https://efaf.bandcamp.com/album/search-atmospheric-jungle"
     }
   ],
   "artist_provenance": [
@@ -2629,6 +2636,12 @@
       "location": null,
       "status": "provenance_required",
       "notes": "Already covered through Pugilist & Tamen Source EP in Australia.md. Independent Australian-scene allocation not established in the curated write-up; do not inherit location from Pugilist or assume every EP track was accepted."
+    },
+    {
+      "name": "Eight Foot At Fisho's",
+      "location": "Melbourne, Australia",
+      "status": "contextual",
+      "notes": "Self-released Search: Atmospheric Jungle (2024). Already heard twice with positive responses (26 Oct and 8 Nov 2026); no explicit qualifying jungle verdict established. 8 Nov user explicitly flagged a repeated SELEKTAH recommendation ('no!!!! we did this'). Do not assign again. Artist provenance: https://efaf.bandcamp.com/album/search-atmospheric-jungle"
     }
   ],
   "open_tasks": [
