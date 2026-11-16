@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-83",
+  "revision": "2026-11-16-au-84",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -636,6 +636,13 @@
       "status": "contextual",
       "detail": "Hobart/Nipaluna experimental electronic label; screening closed as contextual after five rejected jungle leads: gi – Bashing, WRX – Athleisure Jester, Rings Around Saturn – Live, Ivory Whips – Mope, and Oil – Bass Lounge. No qualifying jungle evidence established in this pass; not a claim of exhaustive catalogue listening. Rings Around Saturn / Rory McPike qualifies independently as a Melbourne artist. Do not replay completed checks.",
       "url": "https://alteredstatestapes.bandcamp.com/"
+    },
+    {
+      "name": "Ruff Kutz",
+      "city": "Melbourne / Naarm",
+      "status": "listening_required",
+      "detail": "Pugilist's Melbourne-operated imprint launched 2025. RK002: Pugilist & Tamen – Source (2025) contains the new candidate Miel (4:05), described by the release as 160 BPM jungle with 1990s hardcore influences. No listening verdict yet. Debut Monument is described as techno/dubstep/2-step, not being assigned as jungle.",
+      "url": "https://ruffkutzz.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2043,6 +2050,13 @@
       "status": "excluded",
       "verdict": "2026-11-16: not jungle, by a wide margin. Completed listening; do not reassign.",
       "url": "https://alteredstatestapes.bandcamp.com/album/osmosis-altered-states-of-down-under"
+    },
+    {
+      "label": "Ruff Kutz",
+      "release": "Pugilist & Tamen – Miel (Source / Ruff Kutz 002, 2025)",
+      "status": "listening_required",
+      "verdict": "New lead: label describes Miel as 160 jungle with 90s hardcore leanings and drum edits. No owner verdict yet. Bandcamp search: Pugilist Tamen Source; track 4 (4:05). Pugilist's previously rejected Be Humble on Modern Hypnosis is not this track.",
+      "url": "https://pugilist.bandcamp.com/album/source"
     }
   ],
   "artist_provenance": [
@@ -2603,6 +2617,18 @@
       "location": "Melbourne / Naarm, Australia",
       "status": "qualified",
       "notes": "One artist, not multiple individuals; see Australia.md Butter Sessions / Turner Street Sound section. Rings Around Saturn – No Appetite (Jungle Mix) and Plasticity material, plus Pickleman/Tim Reaper link, support existing qualification. Member of Turner Street Sound with Ryan Hunter. AST Live rejected 2026-11-16, affecting label evidence only."
+    },
+    {
+      "name": "Pugilist / Alex Dickson",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "listening_required",
+      "notes": "Melbourne producer and founder of Ruff Kutz; independent biography and label release page: https://pugilist.bandcamp.com/album/source . Modern Hypnosis Be Humble previously rejected, but new track Miel with Tamen awaits hearing."
+    },
+    {
+      "name": "Tamen / Luke O'Higgins",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "listening_required",
+      "notes": "Melbourne collaborator on Ruff Kutz 002 Source, co-credit and location independently listed on Tamen's release page: https://tamen.bandcamp.com/album/source . Miel awaits hearing."
     }
   ],
   "open_tasks": [
@@ -2617,6 +2643,7 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
+    "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
+    "Ruff Kutz: new Melbourne label lead, Pugilist & Tamen – Miel (Source, 2025, track 4, 4:05) awaiting listening verdict. Bandcamp search: Pugilist Tamen Source (Albums). Do not promote label or artists before listening."
   ]
 }
