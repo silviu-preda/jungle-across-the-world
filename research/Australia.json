@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-12-au-80",
+  "revision": "2026-11-16-au-81",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -634,7 +634,7 @@
       "name": "Altered States Tapes",
       "city": "Hobart / Nipaluna",
       "status": "contextual",
-      "detail": "Hobart/Nipaluna label under investigation. gi – Bashing rejected by owner; no qualifying jungle track yet confirmed from label. Use search criteria, not links, for next listening.",
+      "detail": "Hobart/Nipaluna label under investigation; no qualifying jungle track established. Owner rejected gi – Bashing, WRX – Athleisure Jester and Rings Around Saturn – Live. Rings Around Saturn / Rory McPike already qualifies as an Australian artist through independent releases; this rejection concerns only the Altered States label evidence. Use Bandcamp search criteria, not links, for next listening.",
       "url": "https://alteredstatestapes.bandcamp.com/"
     }
   ],
@@ -2023,6 +2023,12 @@
       "status": "excluded",
       "verdict": "Owner rejected as jungle ('nope; next'), 2026-11-12. Do not reassign.",
       "url": "https://alteredstatestapes.bandcamp.com/album/osmosis-altered-states-of-down-under"
+    },
+    {
+      "label": "Altered States Tapes",
+      "release": "Rings Around Saturn – Live",
+      "status": "excluded",
+      "verdict": "Owner on 2026-11-16: 'it doesn't go in'. Rejected as qualifying jungle evidence for Altered States Tapes; completed, do not reassign. Rings Around Saturn / Rory McPike remains qualified elsewhere in Australia.md."
     }
   ],
   "artist_provenance": [
@@ -2577,6 +2583,12 @@
       "location": "Sydney, Australia",
       "status": "contextual",
       "notes": "Altered States Tapes artist roster independently lists Sydney. Owner rejected Athleisure Jester as jungle on 2026-11-12; no original jungle track qualified through this test."
+    },
+    {
+      "name": "Rory McPike / Rings Around Saturn / Pickleman",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "qualified",
+      "notes": "One artist, not multiple individuals; see Australia.md Butter Sessions / Turner Street Sound section. Rings Around Saturn – No Appetite (Jungle Mix) and Plasticity material, plus Pickleman/Tim Reaper link, support existing qualification. Member of Turner Street Sound with Ryan Hunter. AST Live rejected 2026-11-16, affecting label evidence only."
     }
   ],
   "open_tasks": [
@@ -2591,7 +2603,7 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Altered States Tapes: gi – Bashing rejected as jungle; do not replay. Continue catalogue screening and provide Bandcamp search criteria (not direct links) for new listening candidates.",
+    "Altered States Tapes: gi – Bashing, WRX – Athleisure Jester and Rings Around Saturn – Live rejected as jungle; do not replay. Continue with new candidates, using Bandcamp search criteria (not direct links). Rings Around Saturn remains an independently qualified Melbourne artist.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
   ]
 }
