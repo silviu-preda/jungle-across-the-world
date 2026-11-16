@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-86",
+  "revision": "2026-11-16-au-87",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2642,6 +2642,12 @@
       "location": "Melbourne, Australia",
       "status": "contextual",
       "notes": "Self-released Search: Atmospheric Jungle (2024). Already heard twice with positive responses (26 Oct and 8 Nov 2026); no explicit qualifying jungle verdict established. 8 Nov user explicitly flagged a repeated SELEKTAH recommendation ('no!!!! we did this'). Do not assign again. Artist provenance: https://efaf.bandcamp.com/album/search-atmospheric-jungle"
+    },
+    {
+      "name": "POD & tommyj",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Artificial Life on Warprider (2025) is already qualified as jungle; Warprider overall was mostly DnB. Existing listening records must not be reassigned. The release was associated with Melbourne, but the collaborators' independent qualifying Australian-scene provenance has not been established."
     }
   ],
   "open_tasks": [
@@ -2656,6 +2662,8 @@
     "Finespun Recordings: three Finespun 002 tracks were rejected by the owner; no qualifying label evidence established. Keep contextual unless another candidate is found.",
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
-    "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection."
+    "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
+    "POD & tommyj: Artificial Life (Warprider, 2025) already accepted as jungle; resolve independent Australian-scene activity before adding this act to the curated country ecosystem. Do not ask for a repeat listen.",
+    "Historical reconciliation scope: available prior Australia conversations sampled from 2026-09-30, 2026-10-26/27, 2026-11-08, and 2026-11-12/16; verdict matches checked against country Markdown and ledger. Conversation retrieval is partial, so this is not a certified exhaustive audit. Missing old judgments must not be invented or reassigned."
   ]
 }
