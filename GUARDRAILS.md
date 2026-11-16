@@ -135,3 +135,17 @@ For high-load countries maintain `research/<Country>.json` in GitHub alongside t
 Before each new research recommendation, load the guardrails, country Markdown and JSON ledger; check aliases, rejected releases, previously completed listening and open tasks. Do not repeat completed listening solely because an individual track verdict is missing. Record user listening decisions promptly and independently investigate artist provenance; a label's location does not transfer to its artists. Provide verified direct release links. Explore the associated artists before closing a qualifying label.
 
 Use plain Markdown in research conversations: no decorative images, layout tags or unrendered citation syntax. Verify the structure of rewritten files against clean `main` before updating a PR.
+
+## 18. Candidate deduplication and historical reconciliation
+
+**Before presenting any artist, label, track or release as a new listening lead**, perform a fresh duplicate check against BOTH the authoritative `research/<Country>.json` ledger and the entire curated `<Country>.md` (including prose, sources and contextual exclusions). Never infer "not previously checked" from absence in only one file. Where previous Project conversations are accessible, search them too: the ledger may omit older sessions. If historical conversation retrieval is unavailable or incomplete, explicitly mark coverage as uncertain rather than claiming that a candidate is new.
+
+For each candidate, check canonical names, known aliases and spelling variants, label, release, track, remixes, and prior verdicts. Distinguish a known artist with genuinely new, untested material from an already heard release; the former is allowed, the latter is not. If only an artist is recorded, do not assume all their releases have been heard. If any candidate matches completed listening, a recorded exclusion, contextual listening, or `prior_listening_verdict_unrecovered`, do **not** reassign it to recover a track-level judgment. A positive reaction to a release is **not** a jungle qualification without a specific genre verdict. Check and preserve provenance independently.
+
+Use a fresh in-memory lookup for the current task, built from the latest branch contents and the Markdown; do not present that temporary lookup as persistent across conversations or tool invocations. If deduplication cannot be completed, avoid calling the candidate unreviewed and surface the concrete gap.
+
+Immediately after an explicit listening assessment, add or update its JSON ledger record (including negative judgments and unresolved verdicts), update the Markdown only where the curated ecosystem account needs a change, and avoid recording multiple aliases as separate people. Before suggesting the next track, re-check both updated files. For backfills, preserve the original reported date and wording where reliable, describe the scope of history actually inspected, and do not invent missing decisions or completeness.
+
+## 19. GitHub change control
+
+All research and guardrail changes must be committed on a dedicated research branch and presented in a pull request. **Stop after opening/updating the PR. Never merge, push directly to `main`, or close a PR without an explicit instruction authorizing that action.** A request to fix an inconsistency, continue research, record a verdict or prepare a PR does not by itself authorize merging. Verify branch state, resulting file changes, and the PR's unmerged status before reporting completion.
