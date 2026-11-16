@@ -561,6 +561,8 @@ The following listening and provenance work is preserved without promoting unres
 
 ## Excluded or deprioritized in this pass
 
+**Modester – *Jungle Progression*** was previously checked and rejected; the 8 November 2026 conversation reconfirmed that it had already been heard. The exact earlier musical rationale is unrecovered. Do not assign it again.
+
 Royalston, Evil Eye Recordings, *Breakology*, Possible People, Maladroit's *Visits From Best Friends Bring Joy*, Sekkleman, Eko-system / Mondowun's *Frequent Flyer EP*, K.C-0.5's checked gabber material, Modern Hypnosis (Pugilist's *Be Humble* remained dubstep despite its Amen), Dolphin Flips (Sniper1's *Trackside* was D&B), All Combo (*Extra Dimensional* was mostly D&B with *0x539* only borderline), and Gorilla Tactics Music as a label. The reviewed *Soul Ryderz (Jungle Don Mix)* is drum and bass rather than jungle; MC Assassin remains relevant through Greg Packer's qualifying *Terrorschizm (Jungle Mix)*.
 
 **Further completed listening in this pass:** Shedbug's *Siren* did not qualify; Escape Artist's *Zenith* was judged at best DnB and the complete *Lost Time LP* was rejected; Morgan Wright's *The Step* was judged breaks/DnB; Jungist's *Fern* on Meganesia did not qualify. Jungist's existing Backpocket Slammers qualification remains intact. Salt Mines is treated as a German/Berlin label, not Australian by association with its founders.
