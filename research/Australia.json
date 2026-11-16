@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-88",
+  "revision": "2026-11-16-au-91",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2070,6 +2070,26 @@
       "release": "Modester – Jungle Progression",
       "status": "excluded",
       "verdict": "Previously reviewed and rejected: confirmed again on 2026-11-08 ('no', already done). Exact original musical rationale unavailable; do not invent one or recommend repeat listening."
+    },
+    {
+      "label": "Bitwise",
+      "release": "Time Travel – Error Detected (Time & Tide, BW010, 2026; track 4)",
+      "status": "qualified",
+      "verdict": "Owner listened on 2026-11-16 and explicitly confirmed the track qualifies as jungle. 'it's fabulous! and the recording is v high quality on bandcamp! this track is deff a banger'. Excellent recording quality and strong positive verdict; completed listening, do not reassign.",
+      "url": "https://bitwisemusic.bandcamp.com/album/time-tide"
+    },
+    {
+      "label": "Posters (recording credit; location unverified)",
+      "release": "Paz – Corolla Riddim (Giannis Riddim E.P., 2026)",
+      "status": "excluded",
+      "verdict": "Owner listened on 2026-11-16: Amen break appears only around halfway through the 3:33 track, lasts approximately 20 seconds and disappears. Insufficient sustained jungle for the Australian catalogue; do not reassign. Producer's self-description 'jump up jungle' does not override listening.",
+      "url": "https://pazisms.bandcamp.com/album/giannis-riddim-e-p"
+    },
+    {
+      "label": "Thierry D (self-released)",
+      "release": "Thierry D – ONE SPNG DAY (ONE SPRING DAY (FREE DOWNLOAD), 2026)",
+      "status": "qualified",
+      "verdict": "Owner on 2026-11-16: 'deff qualifies'. Clear jungle qualification. Thierry D and associated Sydney labels already have strong qualifying evidence; this is supplementary listening, not a reason to survey more of his catalogue. The project's aim is an evidence ledger, not an exhaustive release catalogue."
     }
   ],
   "artist_provenance": [
@@ -2660,6 +2680,12 @@
       "location": "Melbourne, Australia (reported in earlier project conversation; independent source not rechecked)",
       "status": "contextual",
       "notes": "Jungle Progression already reviewed and rejected before 2026-11-08. Historical provenance and identity from prior session need independent source verification before use as factual country allocation. No qualifying jungle production confirmed."
+    },
+    {
+      "name": "Paz",
+      "location": "Melbourne / Naarm",
+      "status": "contextual",
+      "notes": "Melbourne location stated on artist Bandcamp page; Corolla Riddim (2026) was heard but not accepted as jungle despite producer's genre description. Label/copyright credit Posters has no independently established Australian location."
     }
   ],
   "open_tasks": [
