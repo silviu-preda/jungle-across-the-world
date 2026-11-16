@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-87",
+  "revision": "2026-11-16-au-88",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2064,6 +2064,12 @@
       "status": "prior_listening_verdict_unrecovered",
       "verdict": "Previously heard: 2026-10-26 ('this is a nice release!') and 2026-11-08 ('i like this release!'). Positive response, but no explicit jungle qualification recovered. Already listened; do NOT recommend SELEKTAH or the release again as a new audition.",
       "url": "https://efaf.bandcamp.com/album/search-atmospheric-jungle"
+    },
+    {
+      "label": "Unverified / Modester",
+      "release": "Modester – Jungle Progression",
+      "status": "excluded",
+      "verdict": "Previously reviewed and rejected: confirmed again on 2026-11-08 ('no', already done). Exact original musical rationale unavailable; do not invent one or recommend repeat listening."
     }
   ],
   "artist_provenance": [
@@ -2648,6 +2654,12 @@
       "location": null,
       "status": "provenance_required",
       "notes": "Artificial Life on Warprider (2025) is already qualified as jungle; Warprider overall was mostly DnB. Existing listening records must not be reassigned. The release was associated with Melbourne, but the collaborators' independent qualifying Australian-scene provenance has not been established."
+    },
+    {
+      "name": "Modester / Aaron Mody",
+      "location": "Melbourne, Australia (reported in earlier project conversation; independent source not rechecked)",
+      "status": "contextual",
+      "notes": "Jungle Progression already reviewed and rejected before 2026-11-08. Historical provenance and identity from prior session need independent source verification before use as factual country allocation. No qualifying jungle production confirmed."
     }
   ],
   "open_tasks": [
@@ -2664,6 +2676,6 @@
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
     "POD & tommyj: Artificial Life (Warprider, 2025) already accepted as jungle; resolve independent Australian-scene activity before adding this act to the curated country ecosystem. Do not ask for a repeat listen.",
-    "Historical reconciliation scope: available prior Australia conversations sampled from 2026-09-30, 2026-10-26/27, 2026-11-08, and 2026-11-12/16; verdict matches checked against country Markdown and ledger. Conversation retrieval is partial, so this is not a certified exhaustive audit. Missing old judgments must not be invented or reassigned."
+    "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned."
   ]
 }
