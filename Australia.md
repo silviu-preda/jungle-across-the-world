@@ -464,6 +464,10 @@ ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, ac
 
 **Role:** Qualifying independent label and events collective (founded 2016). Its wider catalogue crosses house, garage, breaks and DnB. The representative jungle evidence is **SADIVA – *I've Been Thinking (Aaron Static Remix)*** (2022): the listening verdict accepts its shift from DnB into genuine Amen chopping as qualifying jungle crossover. **Aaron Static / Aaron Danks** is documented as Melbourne-based, with earlier Perth-scene activity, and qualifies as a remixer. **SADIVA's geographical provenance remains unresolved**; label location does not determine artist allocation. No exhaustive catalogue audition required.
 
+#### Kinetic Vision — Melbourne / Naarm
+
+Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD's independently verified Australian-scene provenance remains open**; an Australian label release does not establish the artist's location. No further Kinetic Vision catalogue listening is required for label qualification.
+
 ### Further qualifying Australian labels
 
 #### BREAK MATRIX — Australia (city unresolved)
