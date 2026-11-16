@@ -460,6 +460,10 @@ Enja Bergman's *Atmospheric Jungle* was found to be Amen jungle throughout, and 
 
 ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, accepted by the owner as definite hard jungle. **Laptop Destroyer** is the alias of Kris Keogh, documented as an Australian producer associated with Darwin. Keogh's *ZZAAPP Beats Vol. 2* was subsequently heard and rejected as jungle. The remaining roster does not currently have an established qualifying jungle production.
 
+#### Delight Records — Melbourne / Naarm
+
+**Role:** Qualifying independent label and events collective (founded 2016). Its wider catalogue crosses house, garage, breaks and DnB. The representative jungle evidence is **SADIVA – *I've Been Thinking (Aaron Static Remix)*** (2022): the listening verdict accepts its shift from DnB into genuine Amen chopping as qualifying jungle crossover. **Aaron Static / Aaron Danks** is documented as Melbourne-based, with earlier Perth-scene activity, and qualifies as a remixer. **SADIVA's geographical provenance remains unresolved**; label location does not determine artist allocation. No exhaustive catalogue audition required.
+
 ### Further qualifying Australian labels
 
 #### BREAK MATRIX — Australia (city unresolved)
