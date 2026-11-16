@@ -46,9 +46,10 @@ def main():
     matched_records = []
     confirmed_prior_material = False
 
-    for field in ("labels", "artist_provenance", "listening"):
-        for record in ledger.get(field, []):
-            # Search all known aliases, verdicts and notes, not just the first name.
+    for field in ("labels", "artist_provenance", "listening", "open_tasks"):
+        for entry in ledger.get(field, []):
+            record = {"name": entry, "status": "open_task"} if isinstance(entry, str) else entry
+            # Search all known aliases, verdicts, notes and open tasks.
             hay = json.dumps(record, ensure_ascii=False)
             found = [name for name, term in terms.items() if contains(hay, term)]
             if not found:
