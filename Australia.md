@@ -62,6 +62,15 @@ Archived forums, surviving tape uploads and old tracklists are particularly impo
 
 Big Mountain Sound describes itself as a collective of producers, DJs and musicians from Sydney and Canberra, spanning dub, techno, breaks and bass music. **Yusetsu** (credited as T. Woolmer; identified by the label with Sydney's Inner West) qualifies through *Lodestone Resonator* (18 March 2016). The owner accepted it as breakbeat-led music with substantial heavy Amen chopping under the project's porous jungle boundary, not straightforward jungle. The rest of the small label catalogue was checked and supplied no further qualifying track; Ghostknyfe, Bloom Sydney and Ohmage remain roster context only.
 
+#### Bush Capital Records — Canberra
+
+**Relevant activity:** September 2020–January 2021 (documented catalogue)  
+**Role:** Qualifying local electronic label, with a jungle/lounge crossover
+
+Bush Capital Records describes itself as a Canberra community-based label promoting local producers across electronic genres. **VHHb / Isaac Dugdale – *Wenrua*** from *Wenrua EP* (28 September 2020) qualifies on the owner's 17 November 2026 listening verdict: it genuinely sits at the **jungle–lounge junction**, rather than being straightforward jungle. The label describes warm chopped breakbeats, dub basslines, keys and pads. This one representative track establishes the label's relevant jungle connection; it does not qualify the rest of the catalogue without listening. VHHb's Canberra provenance is supported separately by the credited composer name and independent Canberra DJ reporting.
+
+Sources: [Bush Capital's release and artist context](https://bushcapitalrecords.bandcamp.com/album/wenrua-ep-vhhb); [composer credit](https://www.qobuz.com/au-en/album/wenrua-vhhb/lb0j5c1hopxcb); [Canberra DJ profile](https://weareexplorers.co/gears-and-beers-festival/).
+
 #### Banana Bombs Records — Sydney
 
 **Relevant activity:** 2021–2026 (documented releases)  
