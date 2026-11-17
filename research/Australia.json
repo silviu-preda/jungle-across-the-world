@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-17-au-98",
+  "revision": "2026-11-17-au-99",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2736,7 +2736,7 @@
       "name": "POD & tommyj",
       "location": null,
       "status": "provenance_required",
-      "notes": "Artificial Life on Warprider (2025) is already qualified as jungle; Warprider overall was mostly DnB. Existing listening records must not be reassigned. The release was associated with Melbourne, but the collaborators' independent qualifying Australian-scene provenance has not been established."
+      "notes": "Artificial Life (Warprider, 2025) already qualified by owner. POD independently established as Melbourne artist (Luc P, aliases JXTPS/Wu Kush/LSS/Sjazd) via personal Bandcamp, RA and 2025 Utility Fog. The duo's collaborator tommyj remains unverified individually; do not equate a Melbourne-tagged project with both participants' geographic provenance. No repeat audition."
     },
     {
       "name": "Modester / Aaron Mody",
@@ -2761,6 +2761,12 @@
       "location": "Melbourne, Australia (earlier Perth scene activity)",
       "status": "qualified",
       "notes": "Melbourne producer and remixer. Owner accepted Aaron Static remix of SADIVA – I've Been Thinking (Delight Records, 2022): starts DnB then develops real Amen chopping. Do not infer SADIVA's country from label geography."
+    },
+    {
+      "name": "POD / Luc P (JXTPS, Wu Kush, LSS, Sjazd)",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "qualified",
+      "notes": "Independent provenance: artist's own lucp.bandcamp.com page identifies Melbourne and aliases; RA ra.co/dj/pod-1 independently lists Australia with Melbourne appearances; 2025 Utility Fog coverage identifies Naarm-based POD. Owner previously accepted POD – Trip2Fantasia (Spacer, 2024) on 2026-11-16; no new listening. LSS is a collaboration/alias and not a separate person."
     }
   ],
   "open_tasks": [
@@ -2776,7 +2782,7 @@
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
-    "POD & tommyj: Artificial Life (Warprider, 2025) already accepted as jungle; resolve independent Australian-scene activity before adding this act to the curated country ecosystem. Do not ask for a repeat listen.",
+    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
     "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned."
   ]
 }
