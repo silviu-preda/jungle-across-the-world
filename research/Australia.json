@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-97",
+  "revision": "2026-11-17-au-98-locked-concept",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -657,6 +657,13 @@
       "status": "qualified",
       "detail": "Melbourne/Naarm label founded in 2022 by Edward Richards and JXTPS, with broad techno, dubstep, broken-beats and DnB activity. Owner listened to POD – Trip2Fantasia on Spacer (2024) and explicitly confirmed jungle qualification ('it actually does') on 2026-11-16. This is sufficient representative evidence for label inclusion. POD's independent Australian artist provenance remains unresolved; do not infer it from the label.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "name": "Locked Concept",
+      "city": "Canberra, Australia",
+      "status": "contextual",
+      "detail": "Kuttin Edge – Lemoncini (Need For Mirrors Remix, 2024) rejected by owner on 2026-11-17 as DnB, not jungle. Description's atmospheric-jungle references did not qualify track. Other roster not independently qualified by this test.",
+      "url": "https://lockedconcept.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2141,6 +2148,13 @@
       "status": "qualified",
       "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "label": "Locked Concept",
+      "release": "Kuttin Edge – Lemoncini (Need For Mirrors Remix, 2024)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-17): 'dnb'. Explicit rejection as jungle; no further audition required for this remix.",
+      "url": "https://lockedconcept.bandcamp.com/album/lemoncini-need-for-mirrors-remix"
     }
   ],
   "artist_provenance": [
