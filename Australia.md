@@ -466,7 +466,7 @@ ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, ac
 
 #### Kinetic Vision — Melbourne / Naarm
 
-Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD's independently verified Australian-scene provenance remains open**; an Australian label release does not establish the artist's location. No further Kinetic Vision catalogue listening is required for label qualification.
+Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD is independently confirmed as Melbourne/Naarm producer Luc P**, also working as JXTPS, Wu Kush, LSS and Sjazd. His own [artist archive](https://lucp.bandcamp.com/), [Resident Advisor profile](https://ra.co/dj/pod-1), and [2025 Utility Fog coverage](https://utilityfog.radio/archives/2025/09/) support this allocation independently of the label. The owner's accepted *Trip2Fantasia* establishes his jungle qualification. No further Kinetic Vision catalogue listening is required for label qualification.
 
 ### Further qualifying Australian labels
 
@@ -571,7 +571,7 @@ The following listening and provenance work is preserved without promoting unres
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
-- **POD & tommyj:** *Warprider* (2025) was mostly DnB, but *Artificial Life* qualified as jungle. This completed listening is preserved in the JSON ledger; the duo's independent Australian-scene provenance remains unresolved. No repeat audition is needed.
+- **POD & tommyj:** *Warprider* (2025) was mostly DnB, but *Artificial Life* qualified as jungle. This completed listening is preserved in the JSON ledger; POD's independent Melbourne/Naarm provenance is established (Luc P); tommyj's individual Australian-scene provenance remains unresolved. The Melbourne-tagged project alone does not establish both collaborators' locations. No repeat audition is needed.
 
 ## Excluded or deprioritized in this pass
 
