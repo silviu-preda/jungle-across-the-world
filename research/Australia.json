@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-97",
+  "revision": "2026-11-17-au-98-bush-capital",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -657,6 +657,13 @@
       "status": "qualified",
       "detail": "Melbourne/Naarm label founded in 2022 by Edward Richards and JXTPS, with broad techno, dubstep, broken-beats and DnB activity. Owner listened to POD – Trip2Fantasia on Spacer (2024) and explicitly confirmed jungle qualification ('it actually does') on 2026-11-16. This is sufficient representative evidence for label inclusion. POD's independent Australian artist provenance remains unresolved; do not infer it from the label.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "name": "Bush Capital Records",
+      "city": "Canberra, Australia",
+      "status": "qualified",
+      "detail": "Canberra independent label focused on local electronic producers. VHHb – Wenrua (Wenrua EP, 2020) accepted by owner 2026-11-17 as an accurately labeled jungle/lounge junction; qualifying crossover, not straight jungle. Label's own catalogue says first EP released 28 Sep 2020.",
+      "url": "https://bushcapitalrecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2141,6 +2148,13 @@
       "status": "qualified",
       "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "label": "Bush Capital Records",
+      "release": "VHHb – Wenrua (Wenrua EP, 2020)",
+      "status": "qualified",
+      "verdict": "Owner (2026-11-17): 'it really sits at that junction, this is indeed properly labeled, let's add it in'. Accept explicitly as jungle/lounge crossover under porous genre boundary, not pure jungle. Already heard; do not reassign.",
+      "url": "https://bushcapitalrecords.bandcamp.com/track/wenrua"
     }
   ],
   "artist_provenance": [
@@ -2749,6 +2763,12 @@
       "location": "Melbourne, Australia (earlier Perth scene activity)",
       "status": "qualified",
       "notes": "Melbourne producer and remixer. Owner accepted Aaron Static remix of SADIVA – I've Been Thinking (Delight Records, 2022): starts DnB then develops real Amen chopping. Do not infer SADIVA's country from label geography."
+    },
+    {
+      "name": "VHHb / Isaac Dugdale",
+      "location": "Canberra, Australia",
+      "status": "qualified",
+      "notes": "VHHb's Wenrua (2020) accepted by owner as jungle/lounge crossover. Composer identification Isaac Dugdale from Qobuz credits; independently 2023 We Are Explorers profile says 'Back home in Canberra I work in place-management and DJ'; 2026 Craft + Design Canberra event bills Isaac Dugdale for music. Canberra scene and production context from label. Treat identification as supported by recording credits, not name coincidence."
     }
   ],
   "open_tasks": [
