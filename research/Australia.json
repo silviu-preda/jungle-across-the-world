@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-97",
+  "revision": "2026-11-18-au-98-protocore",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -207,8 +207,8 @@
     {
       "name": "Protocore Records",
       "city": "Perth",
-      "status": "contextual",
-      "detail": "Brutalist inconclusive; Noistruct Transgressor breakcore.",
+      "status": "qualified",
+      "detail": "Bang Man – Gime A Break on Bang Time (PC01, 2020) explicitly accepted by owner on 2026-11-18 as fast jubilant Amen-led jungle, described as 'happy-jungle' by analogy with happy hardcore: not syncopated/fragmented enough to count as breakcore. Historical The Brutalist inconclusive and Transgressor rejected remain unchanged. UK producer Bang Man is cross-border evidence only.",
       "url": "https://protocorerecords.bandcamp.com/"
     },
     {
@@ -2141,6 +2141,13 @@
       "status": "qualified",
       "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "label": "Protocore Records",
+      "release": "Bang Man – Gime A Break (Bang Time / PC01, 2020)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-18: 'this is some special shit! it's v fast amen, but not syncopated enough to call breakcore; i'm going to invent a genre and name it happy-jungle, and equivalent of happy-hardcore'. Accept as fast, exuberant Amen-driven jungle under owner's proposed 'happy-jungle' descriptor (not an established genre). UK artist does not inherit Australian geography.",
+      "url": "https://protocorerecords.bandcamp.com/"
     }
   ],
   "artist_provenance": [
