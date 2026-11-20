@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-107-nov18-reconciliation",
+  "revision": "2026-11-20-au-108-jura-audition-correction",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -703,7 +703,7 @@
       "name": "Isle of Jura",
       "city": "Adelaide, South Australia (to confirm)",
       "status": "contextual",
-      "detail": "Jura Soundsystem – Jungle Ambient Tool screened on 2026-11-18, NOT auditioned; user rejected the misleading 'jungle sounds' cue and moved on. No jungle qualification established.",
+      "detail": "Jura Soundsystem – Jungle Ambient Tool was explicitly rejected after listening by owner: sounds of a jungle (nature/environment), not jungle music. Does not qualify label; do not reassign.",
       "url": "https://isleofjura.bandcamp.com/"
     },
     {
@@ -2287,8 +2287,8 @@
     {
       "label": "Isle of Jura",
       "release": "Jura Soundsystem – Jungle Ambient Tool (Transmission One, 2023)",
-      "status": "contextual",
-      "verdict": "2026-11-18: NOT AUDITIONED. Owner dismissed 'jungle sounds' as a misleading description/name cue and moved on. Screened/set aside, not an ear-tested exclusion. Do not reassign merely to test title.",
+      "status": "excluded",
+      "verdict": "Owner clarified 2026-11-20 that this was rejected ON LISTENING: 'it's sounds of a jungle' — environmental jungle sounds, not jungle music. Earlier 'not auditioned' reconciliation was incorrect. Do not reassign.",
       "url": "https://isleofjura.bandcamp.com/album/jura-soundsystem-presents-transmission-one"
     },
     {
