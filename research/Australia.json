@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-111-nov18-audit",
+  "revision": "2026-11-20-au-112-post45-consolidated",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -298,7 +298,7 @@
       "name": "Flatlife Records Australia",
       "city": "Melbourne/Ferntree Gully association; Australian output unverified",
       "status": "contextual",
-      "detail": "Australian operation previously investigated; no concrete local jungle release established. Do not transfer Dutch catalogue to Australia.",
+      "detail": "Australian distributor/storefront of Dutch-origin Flatlife; Coco Bryce VIP remix of Alley Cats Drifting accepted as jungle on 2026-11-20, but this does not establish Australian production or local jungle operation. Keep contextual.",
       "url": "https://flatliferecordsaustralia.bandcamp.com/music"
     },
     {
@@ -719,6 +719,75 @@
       "status": "contextual",
       "detail": "Static Structures – Rub A Duck (Duck Step, 2018) was listened to and rejected as jungle by owner on 2026-11-18 ('nope'). Recovered from prior conversation on 2026-11-20; do not reassign.",
       "url": "https://dubtemplerecords.bandcamp.com/"
+    },
+    {
+      "name": "Run Track Records",
+      "city": "Brisbane, Australia",
+      "status": "qualified",
+      "detail": "The International Murderer EP's Murda accepted as jungle; International explicitly rejected as too DnB-heavy. infraDread and Morthotech's individual Australian provenance not to be inferred from label.",
+      "url": "https://runtrackrecords.bandcamp.com/"
+    },
+    {
+      "name": "Evil Eye Recordings",
+      "city": "Melbourne, Australia",
+      "status": "contextual",
+      "detail": "DOC ROSS Beast Mode rejected by owner. Label remains contextual.",
+      "url": "https://evileyerecordings.bandcamp.com/"
+    },
+    {
+      "name": "Eco Futurism Corporation",
+      "city": "Sydney (Bandcamp-listed; operations unverified)",
+      "status": "contextual",
+      "detail": "DEARBASS florest rejected as slow, repetitive, jungle-flavoured but insufficient.",
+      "url": "https://eco-futurism-corp.bandcamp.com/"
+    },
+    {
+      "name": "Kieper Records",
+      "city": "Perth, Western Australia (historical; verify label chronology)",
+      "status": "listening_required",
+      "detail": "New Sirius Project Departure Dub unavailable for listening; deferred, not rejected."
+    },
+    {
+      "name": "Mélange",
+      "city": "Melbourne / Naarm",
+      "status": "contextual",
+      "detail": "DJ Dern Higher rejected; Noneohone Knew It All Along previously rejected independently.",
+      "url": "https://melangeconnect.bandcamp.com/"
+    },
+    {
+      "name": "Better Together Records",
+      "city": "Sydney / Eora",
+      "status": "contextual",
+      "detail": "Hiworld Temple do Sol rejected; local-label jungle qualification not established.",
+      "url": "https://hiworld.bandcamp.com/album/temple-do-sol"
+    },
+    {
+      "name": "Daisy Recordings",
+      "city": "Melbourne / Naarm",
+      "status": "contextual",
+      "detail": "Basscamp R!nsed rejected by owner; no qualifying evidence from audition.",
+      "url": "https://daisyrecordings.bandcamp.com/"
+    },
+    {
+      "name": "Executive Records",
+      "city": "Sydney, Australia (historical; city association verify)",
+      "status": "contextual",
+      "detail": "D-Vide Pilgrims Of Zen contains Amen but not quite jungle; footnote only, not label qualification.",
+      "url": "https://haze11.bandcamp.com/"
+    },
+    {
+      "name": "+SIX12",
+      "city": "Melbourne, Australia (reported)",
+      "status": "contextual",
+      "detail": "Pry Bizarre Jungle rejected despite title.",
+      "url": "https://six12.bandcamp.com/"
+    },
+    {
+      "name": "Repeat Concrete",
+      "city": "Melbourne, Australia",
+      "status": "qualified",
+      "detail": "Hugh B Optiflexing (RC-11, 2020) entire release accepted as interesting, borderline jungle under the project's porous boundary; Hugh B already qualified as Sydney-based.",
+      "url": "https://hughb.bandcamp.com/album/rc-11-optiflexing-2"
     }
   ],
   "listening": [
@@ -2330,6 +2399,103 @@
       "release": "Noneohone – Knew It All Along",
       "status": "excluded",
       "verdict": "Owner 2026-11-18: 'wasn't jungle'. Track rejected; existing qualification for Noneohone – CARLISLE remains unaffected. Do not reassign this audition."
+    },
+    {
+      "label": "Run Track Records",
+      "release": "infraDread × Morthotech – International (International Murderer EP, 2018)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'too much dnb and not enough jungle'. Applies to International only, not entire EP.",
+      "url": "https://runtrackrecords.bandcamp.com/album/international-murderer"
+    },
+    {
+      "label": "Run Track Records",
+      "release": "infraDread × Morthotech – Murda (International Murderer EP, 2018)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-20: 'murda is jungle, though!!!'. Explicit qualification of the second track. Keep two track verdicts distinct. Label qualifies. Independent artist provenance must not be inferred solely from label.",
+      "url": "https://runtrackrecords.bandcamp.com/album/international-murderer"
+    },
+    {
+      "label": "Evil Eye Recordings",
+      "release": "DOC ROSS – Beast Mode (Hardcore Asylum Vol. II, 2024)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Rejected as jungle; Evil Eye remains contextual.",
+      "url": "https://evileyerecordings.bandcamp.com/album/evileye004-hardcore-asylum-vol-ii"
+    },
+    {
+      "label": "Flatlife Records Australia",
+      "release": "Alley Cats – Drifting (Coco Bryce VIP Remix) (Park Sessions 01 – CAT IN THE BAG, 2021)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-20: Coco Bryce jungle VIP effectively accepted, but explicitly questioned Australian label qualification; Flatlife Australian storefront/distributor of Dutch-origin catalogue remains contextual. Remix does not establish Australian jungle production.",
+      "url": "https://flatliferecordsaustralia.bandcamp.com/track/drifting-coco-bryce-vip-remix"
+    },
+    {
+      "label": "ENDE Records Australia",
+      "release": "Feutuslapdance – because jungle = massive (I Hate My Skin / ENDE119, 2015)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-20: 'it is jungle, indeed'. Artist explicitly identified by source release description as from Maastricht, Netherlands; cross-border ENDE label evidence, not an Australian artist.",
+      "url": "https://enderecords.bandcamp.com/album/ende119-feutuslapdance-i-hate-my-skin"
+    },
+    {
+      "label": "Eco Futurism Corporation",
+      "release": "DEARBASS – florest (Solarmodern: ECO DREAMBREAK, 2025)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'not there; it has a flavour but it's slow and repetitive; stays out'. No jungle qualification established.",
+      "url": "https://eco-futurism-corp.bandcamp.com/track/dearbass-florest"
+    },
+    {
+      "label": "Kieper Records",
+      "release": "New Sirius Project – Departure Dub (Aether 2, 2004)",
+      "status": "listening_required",
+      "verdict": "Owner 2026-11-20: 'i cannot listen to this, not present; skipping'. Inaccessible, not a rejection. Defer unless a verified listenable source emerges."
+    },
+    {
+      "label": "Mélange",
+      "release": "DJ Dern – Higher (Mélange Vol. 1, 2025)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Not jungle; label stays contextual.",
+      "url": "https://melangeconnect.bandcamp.com/album/m-lange-vol-1-va-compilation-album"
+    },
+    {
+      "label": "Better Together Records",
+      "release": "Hiworld – Temple do Sol (2025)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Not jungle; label not qualified by this release.",
+      "url": "https://hiworld.bandcamp.com/album/temple-do-sol"
+    },
+    {
+      "label": "Music For Change Recordings",
+      "release": "Viscera – Fortuna (Curio EP, 2025)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Not jungle; does not affect established qualification of label through prior tracks.",
+      "url": "https://musicforchangeaus.bandcamp.com/album/viscera-curio-ep"
+    },
+    {
+      "label": "Daisy Recordings",
+      "release": "Basscamp – R!nsed (Signs of Life 001, 2025)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Not jungle; label remains unqualified on this test.",
+      "url": "https://daisyrecordings.bandcamp.com/album/signs-of-life-001"
+    },
+    {
+      "label": "Executive Records",
+      "release": "D-Vide – Pilgrims Of Zen (D-Vide Package One, 2019 compilation)",
+      "status": "contextual",
+      "verdict": "Owner 2026-11-20: 'it's not quite jungle....but the amen is there; worth mentioning as a note'. Footnote only, not qualifying jungle.",
+      "url": "https://haze11.bandcamp.com/album/d-vide-package-one"
+    },
+    {
+      "label": "+SIX12",
+      "release": "Pry – Bizarre Jungle (Silent Daydream, 2026)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-20: 'nope'. Not jungle despite title.",
+      "url": "https://six12.bandcamp.com/album/silent-daydream"
+    },
+    {
+      "label": "Repeat Concrete",
+      "release": "Hugh B – Optiflexing (RC-11, 2020; entire release)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-20: 'it's v interesting! borderline jungle, but worth it; the whole release'. Accept ENTIRE release under porous boundary, explicitly borderline rather than straight jungle. This qualifies Melbourne label; Hugh B already separately qualified as Sydney-based.",
+      "url": "https://hughb.bandcamp.com/album/rc-11-optiflexing-2"
     }
   ],
   "artist_provenance": [
@@ -2962,6 +3128,24 @@
       "location": "Dingley Village, Melbourne, Australia (reported; independently confirm as necessary)",
       "status": "contextual",
       "notes": "Scag Baron EP tracks reportedly produced in Melbourne during 2008–2009; owner accepts exact description 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat' for The Rats in the Walls, without issuing an explicit qualifying jungle verdict."
+    },
+    {
+      "name": "Feutuslapdance",
+      "location": "Maastricht, Netherlands",
+      "status": "qualified",
+      "notes": "ENDE119 release description explicitly identifies artist as a breakcore producer from Maastricht, Netherlands. Owner accepted because jungle = massive as jungle (2026-11-20); cross-border Australian label contribution only."
+    },
+    {
+      "name": "infraDread",
+      "location": null,
+      "status": "provenance_required",
+      "notes": "Co-producer of Murda accepted on Run Track Records (Brisbane); independent Australian scene location not established."
+    },
+    {
+      "name": "Morthotech",
+      "location": "Brisbane scene activity reported; independent corroboration pending",
+      "status": "provenance_required",
+      "notes": "Co-producer of Murda accepted on Run Track Records; local event participation reported but verify before final country allocation."
     }
   ],
   "open_tasks": [
@@ -2980,6 +3164,7 @@
     "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned.",
     "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
     "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit.",
-    "2026-11-18 historical listening reconciliation: Unwell – Embers (borderline jungle/DnB, contextual) and Noneohone – Knew It All Along (rejected) recovered from earlier conversation and recorded. Other November 18 verdicts checked against active ledger. This audit covers recovered conversation context, not a guaranteed exhaustive transcript."
+    "2026-11-18 historical listening reconciliation: Unwell – Embers (borderline jungle/DnB, contextual) and Noneohone – Knew It All Along (rejected) recovered from earlier conversation and recorded. Other November 18 verdicts checked against active ledger. This audit covers recovered conversation context, not a guaranteed exhaustive transcript.",
+    "Post-PR45 batch: Run Track qualified via Murda (International rejected), Repeat Concrete qualified narrowly via entirety of Hugh B Optiflexing; do not re-audition either release. Verify both Run Track artists' independent geography. Other auditions and deferrals recorded in the listening ledger."
   ]
 }
