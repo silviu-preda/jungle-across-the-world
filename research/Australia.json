@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-97",
+  "revision": "2026-11-20-au-105-consolidated",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -207,8 +207,8 @@
     {
       "name": "Protocore Records",
       "city": "Perth",
-      "status": "contextual",
-      "detail": "Brutalist inconclusive; Noistruct Transgressor breakcore.",
+      "status": "qualified",
+      "detail": "Bang Man – Gime A Break on Bang Time (PC01, 2020) explicitly accepted by owner on 2026-11-18 as fast jubilant Amen-led jungle, described as 'happy-jungle' by analogy with happy hardcore: not syncopated/fragmented enough to count as breakcore. Historical The Brutalist inconclusive and Transgressor rejected remain unchanged. UK producer Bang Man is cross-border evidence only.",
       "url": "https://protocorerecords.bandcamp.com/"
     },
     {
@@ -657,6 +657,47 @@
       "status": "qualified",
       "detail": "Melbourne/Naarm label founded in 2022 by Edward Richards and JXTPS, with broad techno, dubstep, broken-beats and DnB activity. Owner listened to POD – Trip2Fantasia on Spacer (2024) and explicitly confirmed jungle qualification ('it actually does') on 2026-11-16. This is sufficient representative evidence for label inclusion. POD's independent Australian artist provenance remains unresolved; do not infer it from the label.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "name": "Eternal Love Records",
+      "city": "Brisbane / Meanjin (research lead; verify independently)",
+      "status": "contextual",
+      "detail": "Larmour – Sub Par (Hyperrealism, 2024) listened 2026-11-17: owner enjoyed it but explicitly rejected jungle classification. No qualifying jungle evidence from this track; do not repeat this audition. Other roster not yet screened."
+    },
+    {
+      "name": "Shadowlaw Records",
+      "city": "Perth, Australia (reported; independent verification pending)",
+      "status": "contextual",
+      "detail": "Shadowlaw – Headhunter (New Light EP, 2022) rejected by owner as DnB, not jungle, on 2026-11-17. No qualifying jungle material established from this audition; no repeat listening.",
+      "url": "https://shadowlawrecords.bandcamp.com/"
+    },
+    {
+      "name": "Turning Tables",
+      "city": "Canberra, Australia",
+      "status": "contextual",
+      "detail": "Canberra label/events collective. Owner heard Oi Ocha – ccortez (Cosmic Cuts VA – TBLS01, 2023) on 2026-11-17 and rejected jungle classification ('i wouldn't call this jungle at all'). This track does not qualify the label; other roster material not established.",
+      "url": "https://turningtablescbr.bandcamp.com/"
+    },
+    {
+      "name": "Bush Capital Records",
+      "city": "Canberra, Australia",
+      "status": "qualified",
+      "detail": "Canberra independent label focused on local electronic producers. VHHb – Wenrua (Wenrua EP, 2020) accepted by owner 2026-11-17 as an accurately labeled jungle/lounge junction; qualifying crossover, not straight jungle. Label's own catalogue says first EP released 28 Sep 2020.",
+      "url": "https://bushcapitalrecords.bandcamp.com/"
+    },
+    {
+      "name": "Locked Concept",
+      "city": "Canberra, Australia",
+      "status": "contextual",
+      "detail": "Kuttin Edge – Lemoncini (Need For Mirrors Remix, 2024) rejected by owner on 2026-11-17 as DnB, not jungle. Description's atmospheric-jungle references did not qualify track. Other roster not independently qualified by this test.",
+      "url": "https://lockedconcept.bandcamp.com/"
+    },
+    {
+      "name": "After Dark Music / ADM Perth",
+      "city": "Perth, Australia",
+      "status": "contextual",
+      "detail": "BUEX & No Compli – Ghosts Of Spice (ADM Selections Vol.03, 2025) listened by owner on 2026-11-18: great track, but explicitly not jungle. No qualification from this track; BUEX's existing separate accepted jungle material remains qualified.",
+      "url": "https://admperth.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2141,6 +2182,58 @@
       "status": "qualified",
       "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "label": "Eternal Love Records",
+      "release": "Larmour – Sub Par (Hyperrealism EP, 2024)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-17): 'i think it's great, and also not jungle'. Strong musical appreciation, explicit non-jungle verdict. Does not qualify either Larmour or Eternal Love Records; do not reassign listening."
+    },
+    {
+      "label": "Shadowlaw Records",
+      "release": "Shadowlaw – Headhunter (New Light EP, 2022)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-17): 'nope, dnb'. Not jungle; do not reassign listening."
+    },
+    {
+      "label": "Turning Tables",
+      "release": "Oi Ocha – ccortez (Cosmic Cuts VA – TBLS01, 2023)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-17): 'i wouldn't call this jungle at all'. Explicit non-jungle verdict; do not reassign.",
+      "url": "https://turningtablescbr.bandcamp.com/album/cosmic-cuts-va-tbls01"
+    },
+    {
+      "label": "Bush Capital Records",
+      "release": "VHHb – Wenrua (Wenrua EP, 2020)",
+      "status": "qualified",
+      "verdict": "Owner (2026-11-17): 'it really sits at that junction, this is indeed properly labeled, let's add it in'. Accept explicitly as jungle/lounge crossover under porous genre boundary, not pure jungle. Already heard; do not reassign.",
+      "url": "https://bushcapitalrecords.bandcamp.com/track/wenrua"
+    },
+    {
+      "label": "Locked Concept",
+      "release": "Kuttin Edge – Lemoncini (Need For Mirrors Remix, 2024)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-17): 'dnb'. Explicit rejection as jungle; no further audition required for this remix.",
+      "url": "https://lockedconcept.bandcamp.com/album/lemoncini-need-for-mirrors-remix"
+    },
+    {
+      "label": "After Dark Music / ADM Perth",
+      "release": "BUEX & No Compli – Ghosts Of Spice (ADM Selections Vol.03, 2025)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-18): 'it's a great track, but not jungle'. Positive appraisal is not jungle qualification. Already heard; do not reassign."
+    },
+    {
+      "label": "Protocore Records",
+      "release": "Bang Man – Gime A Break (Bang Time / PC01, 2020)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-18: 'this is some special shit! it's v fast amen, but not syncopated enough to call breakcore; i'm going to invent a genre and name it happy-jungle, and equivalent of happy-hardcore'. Accept as fast, exuberant Amen-driven jungle under owner's proposed 'happy-jungle' descriptor (not an established genre). UK artist does not inherit Australian geography.",
+      "url": "https://protocorerecords.bandcamp.com/"
+    },
+    {
+      "label": "Little Rascal Records",
+      "release": "Jilted Hoodz – Atomic Spectre (original Future Jungle version, 2014)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-20): 'nope, not jungle'. Explicit non-jungle verdict despite the release's future-jungle designation. The dubstep version was not the assignment. Do not reassign."
     }
   ],
   "artist_provenance": [
@@ -2724,7 +2817,7 @@
       "name": "POD & tommyj",
       "location": null,
       "status": "provenance_required",
-      "notes": "Artificial Life on Warprider (2025) is already qualified as jungle; Warprider overall was mostly DnB. Existing listening records must not be reassigned. The release was associated with Melbourne, but the collaborators' independent qualifying Australian-scene provenance has not been established."
+      "notes": "Artificial Life (Warprider, 2025) already qualified by owner. POD independently established as Melbourne artist (Luc P, aliases JXTPS/Wu Kush/LSS/Sjazd) via personal Bandcamp, RA and 2025 Utility Fog. The duo's collaborator tommyj remains unverified individually; do not equate a Melbourne-tagged project with both participants' geographic provenance. No repeat audition."
     },
     {
       "name": "Modester / Aaron Mody",
@@ -2749,6 +2842,18 @@
       "location": "Melbourne, Australia (earlier Perth scene activity)",
       "status": "qualified",
       "notes": "Melbourne producer and remixer. Owner accepted Aaron Static remix of SADIVA – I've Been Thinking (Delight Records, 2022): starts DnB then develops real Amen chopping. Do not infer SADIVA's country from label geography."
+    },
+    {
+      "name": "POD / Luc P (JXTPS, Wu Kush, LSS, Sjazd)",
+      "location": "Melbourne / Naarm, Australia",
+      "status": "qualified",
+      "notes": "Independent provenance: artist's own lucp.bandcamp.com page identifies Melbourne and aliases; RA ra.co/dj/pod-1 independently lists Australia with Melbourne appearances; 2025 Utility Fog coverage identifies Naarm-based POD. Owner previously accepted POD – Trip2Fantasia (Spacer, 2024) on 2026-11-16; no new listening. LSS is a collaboration/alias and not a separate person."
+    },
+    {
+      "name": "VHHb / Isaac Dugdale",
+      "location": "Canberra, Australia",
+      "status": "qualified",
+      "notes": "VHHb's Wenrua (2020) accepted by owner as jungle/lounge crossover. Composer identification Isaac Dugdale from Qobuz credits; independently 2023 We Are Explorers profile says 'Back home in Canberra I work in place-management and DJ'; 2026 Craft + Design Canberra event bills Isaac Dugdale for music. Canberra scene and production context from label. Treat identification as supported by recording credits, not name coincidence."
     }
   ],
   "open_tasks": [
@@ -2764,7 +2869,7 @@
     "Rollin Records: explored the breakbeat and DnB candidates; Giddyup and Complicated rejected, Altruistic Mind contextual. No qualifying jungle evidence established.",
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
-    "POD & tommyj: Artificial Life (Warprider, 2025) already accepted as jungle; resolve independent Australian-scene activity before adding this act to the curated country ecosystem. Do not ask for a repeat listen.",
-    "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned."
+    "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned.",
+    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening."
   ]
 }

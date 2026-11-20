@@ -62,6 +62,15 @@ Archived forums, surviving tape uploads and old tracklists are particularly impo
 
 Big Mountain Sound describes itself as a collective of producers, DJs and musicians from Sydney and Canberra, spanning dub, techno, breaks and bass music. **Yusetsu** (credited as T. Woolmer; identified by the label with Sydney's Inner West) qualifies through *Lodestone Resonator* (18 March 2016). The owner accepted it as breakbeat-led music with substantial heavy Amen chopping under the project's porous jungle boundary, not straightforward jungle. The rest of the small label catalogue was checked and supplied no further qualifying track; Ghostknyfe, Bloom Sydney and Ohmage remain roster context only.
 
+#### Bush Capital Records — Canberra
+
+**Relevant activity:** September 2020–January 2021 (documented catalogue)  
+**Role:** Qualifying local electronic label, with a jungle/lounge crossover
+
+Bush Capital Records describes itself as a Canberra community-based label promoting local producers across electronic genres. **VHHb / Isaac Dugdale – *Wenrua*** from *Wenrua EP* (28 September 2020) qualifies on the owner's 17 November 2026 listening verdict: it genuinely sits at the **jungle–lounge junction**, rather than being straightforward jungle. The label describes warm chopped breakbeats, dub basslines, keys and pads. This one representative track establishes the label's relevant jungle connection; it does not qualify the rest of the catalogue without listening. VHHb's Canberra provenance is supported separately by the credited composer name and independent Canberra DJ reporting.
+
+Sources: [Bush Capital's release and artist context](https://bushcapitalrecords.bandcamp.com/album/wenrua-ep-vhhb); [composer credit](https://www.qobuz.com/au-en/album/wenrua-vhhb/lb0j5c1hopxcb); [Canberra DJ profile](https://weareexplorers.co/gears-and-beers-festival/).
+
 #### Banana Bombs Records — Sydney
 
 **Relevant activity:** 2021–2026 (documented releases)  
@@ -466,7 +475,7 @@ ZZAAPP qualifies through Laptop Destroyer's *Tell Dem* on *ZZAAPP SEVENS 01*, ac
 
 #### Kinetic Vision — Melbourne / Naarm
 
-Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD's independently verified Australian-scene provenance remains open**; an Australian label release does not establish the artist's location. No further Kinetic Vision catalogue listening is required for label qualification.
+Founded in 2022 by Edward Richards and JXTPS, Kinetic Vision operates across techno, dubstep, broken beats and DnB. **POD – *Trip2Fantasia*** on *Spacer* (2024) was explicitly accepted as jungle after listening, establishing representative evidence for the Melbourne label's inclusion. **POD is independently confirmed as Melbourne/Naarm producer Luc P**, also working as JXTPS, Wu Kush, LSS and Sjazd. His own [artist archive](https://lucp.bandcamp.com/), [Resident Advisor profile](https://ra.co/dj/pod-1), and [2025 Utility Fog coverage](https://utilityfog.radio/archives/2025/09/) support this allocation independently of the label. The owner's accepted *Trip2Fantasia* establishes his jungle qualification. No further Kinetic Vision catalogue listening is required for label qualification.
 
 ### Further qualifying Australian labels
 
@@ -555,7 +564,7 @@ These entries matter to the surrounding ecosystem, but they are intentionally no
 - **RBI – *Disseminate*:** previously heard and explicitly rejected by the owner as jungle. Butter Sessions remains qualified through Turner Street Sound; do not recommend *Disseminate* again.
 - **Xian:** important Melbourne breakcore history, but the reviewed tracks were not pure jungle. *Cold Crash Breakcore* came closest, followed by *Dem*.
 - **Atom 1 / Soundboy Melbourne:** *Imminent* documents historical Melbourne techstep/drum and bass, not a jungle anchor.
-- **Protocore Records — Perth:** contextual ENDE-related imprint. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its chronology is now resolved: ENDE states that the accepted album was recorded and produced in Santiago, Chile between 2010–2013. Luciano Zepeda's earlier Sydney/KWS activity remains important Australian scene history, but the accepted jungle album belongs to his Chile period and does not qualify Dark Matter Project as an Australian artist.
+- **Protocore Records — Perth:** now qualifies through **Bang Man – *Gime A Break*** on *Bang Time (PC01)* (2020), accepted by the owner on 18 November 2026 as exuberant, extremely fast Amen-led **jungle**. The owner coined the useful descriptor *happy-jungle* (analogous to happy hardcore) because the track lacks the fragmented syncopation typical of breakcore; this is an informal listening descriptor, not a formal genre label. Bang Man is a UK contributor and is not assigned to Australia on the basis of the Perth release. Dark Matter Project's *The Brutalist* was inconclusive; Noistruct's *The Transgressor* was judged breakcore. Dark Matter Project's *self-titled ENDE album* instead passed throughout, notably *Infinite Void*. Its chronology is now resolved: ENDE states that the accepted album was recorded and produced in Santiago, Chile between 2010–2013. Luciano Zepeda's earlier Sydney/KWS activity remains important Australian scene history, but the accepted jungle album belongs to his Chile period and does not qualify Dark Matter Project as an Australian artist.
 - **Pure Space:** Dividens' *Blueprints* was rejected (*Bionic* jungle-adjacent); Consulate's *The Pulse of Iron* was judged D&B.
 - **Motorik! Records:** Horowitz's *Jungle Blood* was rejected; no stronger lead established.
 - **Secret World:** DVNS' *Secret Garden* and AD ZEE's *New Aquatic* were both judged D&B; not a qualifying jungle-label entry.
@@ -571,7 +580,7 @@ The following listening and provenance work is preserved without promoting unres
 - **Rising Lantern artist provenance:** Stemfilth is Australian-based; Rich Tones is Cambridge-based; Civilian Flexibility is a Time Travel handle; Visible Sound is Alistair Brown but his Australian-scene provenance is unconfirmed.
 - **Bitwise artist provenance:** Mutant_Limit is established as Melbourne-based; Subnet43's country remains unresolved.
 
-- **POD & tommyj:** *Warprider* (2025) was mostly DnB, but *Artificial Life* qualified as jungle. This completed listening is preserved in the JSON ledger; the duo's independent Australian-scene provenance remains unresolved. No repeat audition is needed.
+- **POD & tommyj:** *Warprider* (2025) was mostly DnB, but *Artificial Life* qualified as jungle. This completed listening is preserved in the JSON ledger; POD's independent Melbourne/Naarm provenance is established (Luc P); tommyj's individual Australian-scene provenance remains unresolved. The Melbourne-tagged project alone does not establish both collaborators' locations. No repeat audition is needed.
 
 ## Excluded or deprioritized in this pass
 
