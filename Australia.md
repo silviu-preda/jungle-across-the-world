@@ -594,6 +594,16 @@ Couch Acid, Pelvis and Meganesia remain contextual from these rejected leads. Mo
 
 **Altered States Tapes — Hobart/Nipaluna (contextual; screening closed):** No qualifying jungle track established in this pass. Completed listening rejections: **gi – *Bashing*** (2023), **WRX – *Athleisure Jester*** (2020), **Rings Around Saturn – *Live***, **Ivory Whips – *Mope*** (2020), and **Oil – *Bass Lounge*** (2020). Do not repeat these checks. Rings Around Saturn / Rory McPike remains independently qualified as a Melbourne artist through other material. The catalogue was not exhaustively auditioned; further Altered States listening is deprioritized. Details remain in [the research ledger](research/Australia.json).
 
+### November 20, 2026 — post-PR45 consolidated listening checkpoint
+
+- **Run Track Records — Brisbane:** *International Murderer* (2018), infraDread × Morthotech: *International* was rejected as too DnB-heavy; **Murda** was explicitly accepted as jungle. This narrowly qualifies the label. Producer geography remains independently unresolved; do not inherit Brisbane from the label. [Release](https://runtrackrecords.bandcamp.com/album/international-murderer).
+- **Repeat Concrete — Melbourne:** Hugh B's *Optiflexing* (RC-11, 2020) was accepted **as a whole release**: interesting, **borderline jungle**, worthwhile under the project's porous boundary. Hugh B is already qualified as a Sydney artist; this adds a Melbourne label connection, not a new artist attribution. [Release](https://hughb.bandcamp.com/album/rc-11-optiflexing-2).
+- **ENDE Records Australia:** Feutuslapdance's *because jungle = massive* on *I Hate My Skin* (2015) was accepted as jungle; the release explicitly identifies Feutuslapdance as a producer from **Maastricht, Netherlands**. Cross-border label evidence only. [Release](https://enderecords.bandcamp.com/album/ende119-feutuslapdance-i-hate-my-skin).
+- **Executive Records:** D-Vide's *Pilgrims Of Zen* has audible Amen, but the owner said **not quite jungle**. Preserve as a historical/contextual footnote rather than a qualifying jungle verdict. [Release](https://haze11.bandcamp.com/album/d-vide-package-one).
+- **Flatlife Records Australia:** Alley Cats' *Drifting (Coco Bryce VIP Remix)* was accepted as jungle, but represents Dutch-origin catalogue distributed through the Australian storefront; it **does not qualify the Australian operation** as a local jungle label. [Track](https://flatliferecordsaustralia.bandcamp.com/track/drifting-coco-bryce-vip-remix).
+- **Non-qualifying auditions:** DOC ROSS *Beast Mode* (Evil Eye); DEARBASS *florest* (Eco Futurism); DJ Dern *Higher* (Mélange); Hiworld *Temple do Sol* (Better Together); Viscera *Fortuna* (Music For Change, without undoing that label's existing qualification); Basscamp *R!nsed* (Daisy); Pry *Bizarre Jungle* (+SIX12). See JSON ledger for exact verdicts and URLs.
+- **Deferred, not rejected:** New Sirius Project *Departure Dub* (Kieper Records) was not accessible for listening; do not reassign without a confirmed playable source.
+
 ## Sources
 
 ### Newcastle
