@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-110-dub-temple-history",
+  "revision": "2026-11-20-au-111-nov18-audit",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2318,6 +2318,18 @@
       "status": "excluded",
       "verdict": "Owner 2026-11-18: 'nope'; rejected as jungle. Recovered through prior-conversation search after duplicate recommendation on 2026-11-20. Do not reassign.",
       "url": "https://dubtemplerecords.bandcamp.com/album/duck-step"
+    },
+    {
+      "label": "Unwell (label unverified)",
+      "release": "Unwell – Embers",
+      "status": "contextual",
+      "verdict": "Owner 2026-11-18: 'somewhat borderline, jungle/dnb...maybe worth mentioning'. Contextual mention; not an explicit definite jungle qualification. Label and artist Australian-scene provenance not verified. Do not reassign this audition."
+    },
+    {
+      "label": "Noneohone (release label unverified)",
+      "release": "Noneohone – Knew It All Along",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: 'wasn't jungle'. Track rejected; existing qualification for Noneohone – CARLISLE remains unaffected. Do not reassign this audition."
     }
   ],
   "artist_provenance": [
@@ -2967,6 +2979,7 @@
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
     "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned.",
     "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
-    "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit."
+    "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit.",
+    "2026-11-18 historical listening reconciliation: Unwell – Embers (borderline jungle/DnB, contextual) and Noneohone – Knew It All Along (rejected) recovered from earlier conversation and recorded. Other November 18 verdicts checked against active ledger. This audit covers recovered conversation context, not a guaranteed exhaustive transcript."
   ]
 }
