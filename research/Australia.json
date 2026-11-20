@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-109-savage-henry-description",
+  "revision": "2026-11-20-au-110-dub-temple-history",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -712,6 +712,13 @@
       "status": "contextual",
       "detail": "Black Scott – Push from New Beginnings rejected by owner as pure juke/footwork, no Amen (2026-11-18). No qualifying jungle material established from this test.",
       "url": "https://uncomfortablebeats.bandcamp.com/"
+    },
+    {
+      "name": "Dub Temple Records",
+      "city": "Brisbane, Australia",
+      "status": "contextual",
+      "detail": "Static Structures – Rub A Duck (Duck Step, 2018) was listened to and rejected as jungle by owner on 2026-11-18 ('nope'). Recovered from prior conversation on 2026-11-20; do not reassign.",
+      "url": "https://dubtemplerecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2304,6 +2311,13 @@
       "status": "contextual",
       "verdict": "Owner (2026-11-20): 'you can record it with exactly that description'. Description preserved exactly: 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat'. No separate explicit pure-jungle qualification was given; do not recast it as such or reassign this listening.",
       "url": "https://enderecords.bandcamp.com/album/ende62-dj-savage-henry-scag-baron-ep"
+    },
+    {
+      "label": "Dub Temple Records",
+      "release": "Static Structures – Rub A Duck (Duck Step EP, 2018)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: 'nope'; rejected as jungle. Recovered through prior-conversation search after duplicate recommendation on 2026-11-20. Do not reassign.",
+      "url": "https://dubtemplerecords.bandcamp.com/album/duck-step"
     }
   ],
   "artist_provenance": [
