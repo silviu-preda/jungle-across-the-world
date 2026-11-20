@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-105-consolidated",
+  "revision": "2026-11-20-au-106-phflak-tochigi",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2234,6 +2234,13 @@
       "release": "Jilted Hoodz – Atomic Spectre (original Future Jungle version, 2014)",
       "status": "excluded",
       "verdict": "Owner (2026-11-20): 'nope, not jungle'. Explicit non-jungle verdict despite the release's future-jungle designation. The dubstep version was not the assignment. Do not reassign."
+    },
+    {
+      "label": "Self-released (Phflak)",
+      "release": "Phflak – Tochigi (Tamashī, 2025)",
+      "status": "qualified",
+      "verdict": "Owner (2026-11-20): 'the track is great and jungle'. Explicit qualification; artist-first exception. Resume label-first research.",
+      "url": "https://phflak.bandcamp.com/album/tamash"
     }
   ],
   "artist_provenance": [
@@ -2854,6 +2861,12 @@
       "location": "Canberra, Australia",
       "status": "qualified",
       "notes": "VHHb's Wenrua (2020) accepted by owner as jungle/lounge crossover. Composer identification Isaac Dugdale from Qobuz credits; independently 2023 We Are Explorers profile says 'Back home in Canberra I work in place-management and DJ'; 2026 Craft + Design Canberra event bills Isaac Dugdale for music. Canberra scene and production context from label. Treat identification as supported by recording credits, not name coincidence."
+    },
+    {
+      "name": "Phflak",
+      "location": "Tasmania, Australia (reported; independent verification pending)",
+      "status": "provenance_required",
+      "notes": "Tochigi qualified as jungle by owner on 2026-11-20; confirm artist's Australian scene provenance independently."
     }
   ],
   "open_tasks": [
