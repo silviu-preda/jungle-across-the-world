@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-106-phflak-tochigi",
+  "revision": "2026-11-20-au-107-nov18-reconciliation",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -698,6 +698,20 @@
       "status": "contextual",
       "detail": "BUEX & No Compli – Ghosts Of Spice (ADM Selections Vol.03, 2025) listened by owner on 2026-11-18: great track, but explicitly not jungle. No qualification from this track; BUEX's existing separate accepted jungle material remains qualified.",
       "url": "https://admperth.bandcamp.com/"
+    },
+    {
+      "name": "Isle of Jura",
+      "city": "Adelaide, South Australia (to confirm)",
+      "status": "contextual",
+      "detail": "Jura Soundsystem – Jungle Ambient Tool screened on 2026-11-18, NOT auditioned; user rejected the misleading 'jungle sounds' cue and moved on. No jungle qualification established.",
+      "url": "https://isleofjura.bandcamp.com/"
+    },
+    {
+      "name": "Uncomfortable Beats",
+      "city": "Melbourne, Australia",
+      "status": "contextual",
+      "detail": "Black Scott – Push from New Beginnings rejected by owner as pure juke/footwork, no Amen (2026-11-18). No qualifying jungle material established from this test.",
+      "url": "https://uncomfortablebeats.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2239,8 +2253,50 @@
       "label": "Self-released (Phflak)",
       "release": "Phflak – Tochigi (Tamashī, 2025)",
       "status": "qualified",
-      "verdict": "Owner (2026-11-20): 'the track is great and jungle'. Explicit qualification; artist-first exception. Resume label-first research.",
+      "verdict": "Owner (2026-11-20): 'the track is great and jungle'. Explicit qualification; artist-first exception. Resume label-first research. Owner later clarified (same day) that the ENTIRE Tamashī release is good jungle/DnB, not just Tochigi; full-release positive qualification. Do not assign additional tracks from the same release.",
       "url": "https://phflak.bandcamp.com/album/tamash"
+    },
+    {
+      "label": "SUB ERA (Perth)",
+      "release": "Near Edge – Cambo",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: DnB, not qualifying jungle. Do not reassign.",
+      "url": "https://suberamusic.bandcamp.com/track/cambo"
+    },
+    {
+      "label": "Etch Music",
+      "release": "ATHROTAXIS – Back to Base Camp (Splintercourse)",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: IDM/glitch, not jungle. Do not reassign.",
+      "url": "https://etchmusic.bandcamp.com/album/splintercourse-e-m035"
+    },
+    {
+      "label": "ULTRAVIRUS",
+      "release": "crack_lips – lifetimes (fetid in wingdings, 2019)",
+      "status": "excluded",
+      "verdict": "Owner's 2026-11-18 verdict: rejected; described as 'a lunatic asylum on fire'. Recalled in 2026-11-20 session as horrible and not worth more time. Do not reassign.",
+      "url": "https://ultravirus.bandcamp.com/album/fetid-in-wingdings"
+    },
+    {
+      "label": "FAN CLUB",
+      "release": "Ootrox, Creetah, Protea – Gettin' Numb (Knuckle Remix) (Woovy Oov)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: weird slowed 2-step/dubstep; not jungle. Do not reassign.",
+      "url": "https://fan-club.bandcamp.com/track/gettin-numb-knuckle-remix"
+    },
+    {
+      "label": "Isle of Jura",
+      "release": "Jura Soundsystem – Jungle Ambient Tool (Transmission One, 2023)",
+      "status": "contextual",
+      "verdict": "2026-11-18: NOT AUDITIONED. Owner dismissed 'jungle sounds' as a misleading description/name cue and moved on. Screened/set aside, not an ear-tested exclusion. Do not reassign merely to test title.",
+      "url": "https://isleofjura.bandcamp.com/album/jura-soundsystem-presents-transmission-one"
+    },
+    {
+      "label": "Uncomfortable Beats",
+      "release": "Black Scott – Push (New Beginnings)",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: pure juke/footwork, no Amen; not jungle. Do not reassign.",
+      "url": "https://uncomfortablebeats.bandcamp.com/album/new-beginnings"
     }
   ],
   "artist_provenance": [
@@ -2866,7 +2922,7 @@
       "name": "Phflak",
       "location": "Tasmania, Australia (reported; independent verification pending)",
       "status": "provenance_required",
-      "notes": "Tochigi qualified as jungle by owner on 2026-11-20; confirm artist's Australian scene provenance independently."
+      "notes": "Tochigi qualified as jungle by owner on 2026-11-20; confirm artist's Australian scene provenance independently. Owner reports entire Tamashī release is good jungle/DnB."
     }
   ],
   "open_tasks": [
@@ -2883,6 +2939,7 @@
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
     "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned.",
-    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening."
+    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
+    "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit."
   ]
 }
