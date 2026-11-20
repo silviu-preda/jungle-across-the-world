@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-108-jura-audition-correction",
+  "revision": "2026-11-20-au-109-savage-henry-description",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2297,6 +2297,13 @@
       "status": "excluded",
       "verdict": "Owner listened 2026-11-18: pure juke/footwork, no Amen; not jungle. Do not reassign.",
       "url": "https://uncomfortablebeats.bandcamp.com/album/new-beginnings"
+    },
+    {
+      "label": "ENDE Records Australia",
+      "release": "DJ Savage Henry – The Rats in the Walls (Scag Baron EP / ENDE62, 2015)",
+      "status": "contextual",
+      "verdict": "Owner (2026-11-20): 'you can record it with exactly that description'. Description preserved exactly: 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat'. No separate explicit pure-jungle qualification was given; do not recast it as such or reassign this listening.",
+      "url": "https://enderecords.bandcamp.com/album/ende62-dj-savage-henry-scag-baron-ep"
     }
   ],
   "artist_provenance": [
@@ -2923,6 +2930,12 @@
       "location": "Tasmania, Australia (reported; independent verification pending)",
       "status": "provenance_required",
       "notes": "Tochigi qualified as jungle by owner on 2026-11-20; confirm artist's Australian scene provenance independently. Owner reports entire Tamashī release is good jungle/DnB."
+    },
+    {
+      "name": "DJ Savage Henry",
+      "location": "Dingley Village, Melbourne, Australia (reported; independently confirm as necessary)",
+      "status": "contextual",
+      "notes": "Scag Baron EP tracks reportedly produced in Melbourne during 2008–2009; owner accepts exact description 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat' for The Rats in the Walls, without issuing an explicit qualifying jungle verdict."
     }
   ],
   "open_tasks": [
