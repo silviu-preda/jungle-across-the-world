@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-105-consolidated",
+  "revision": "2026-11-20-au-111-nov18-audit",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -698,6 +698,27 @@
       "status": "contextual",
       "detail": "BUEX & No Compli – Ghosts Of Spice (ADM Selections Vol.03, 2025) listened by owner on 2026-11-18: great track, but explicitly not jungle. No qualification from this track; BUEX's existing separate accepted jungle material remains qualified.",
       "url": "https://admperth.bandcamp.com/"
+    },
+    {
+      "name": "Isle of Jura",
+      "city": "Adelaide, South Australia (to confirm)",
+      "status": "contextual",
+      "detail": "Jura Soundsystem – Jungle Ambient Tool was explicitly rejected after listening by owner: sounds of a jungle (nature/environment), not jungle music. Does not qualify label; do not reassign.",
+      "url": "https://isleofjura.bandcamp.com/"
+    },
+    {
+      "name": "Uncomfortable Beats",
+      "city": "Melbourne, Australia",
+      "status": "contextual",
+      "detail": "Black Scott – Push from New Beginnings rejected by owner as pure juke/footwork, no Amen (2026-11-18). No qualifying jungle material established from this test.",
+      "url": "https://uncomfortablebeats.bandcamp.com/"
+    },
+    {
+      "name": "Dub Temple Records",
+      "city": "Brisbane, Australia",
+      "status": "contextual",
+      "detail": "Static Structures – Rub A Duck (Duck Step, 2018) was listened to and rejected as jungle by owner on 2026-11-18 ('nope'). Recovered from prior conversation on 2026-11-20; do not reassign.",
+      "url": "https://dubtemplerecords.bandcamp.com/"
     }
   ],
   "listening": [
@@ -2234,6 +2255,81 @@
       "release": "Jilted Hoodz – Atomic Spectre (original Future Jungle version, 2014)",
       "status": "excluded",
       "verdict": "Owner (2026-11-20): 'nope, not jungle'. Explicit non-jungle verdict despite the release's future-jungle designation. The dubstep version was not the assignment. Do not reassign."
+    },
+    {
+      "label": "Self-released (Phflak)",
+      "release": "Phflak – Tochigi (Tamashī, 2025)",
+      "status": "qualified",
+      "verdict": "Owner (2026-11-20): 'the track is great and jungle'. Explicit qualification; artist-first exception. Resume label-first research. Owner later clarified (same day) that the ENTIRE Tamashī release is good jungle/DnB, not just Tochigi; full-release positive qualification. Do not assign additional tracks from the same release.",
+      "url": "https://phflak.bandcamp.com/album/tamash"
+    },
+    {
+      "label": "SUB ERA (Perth)",
+      "release": "Near Edge – Cambo",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: DnB, not qualifying jungle. Do not reassign.",
+      "url": "https://suberamusic.bandcamp.com/track/cambo"
+    },
+    {
+      "label": "Etch Music",
+      "release": "ATHROTAXIS – Back to Base Camp (Splintercourse)",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: IDM/glitch, not jungle. Do not reassign.",
+      "url": "https://etchmusic.bandcamp.com/album/splintercourse-e-m035"
+    },
+    {
+      "label": "ULTRAVIRUS",
+      "release": "crack_lips – lifetimes (fetid in wingdings, 2019)",
+      "status": "excluded",
+      "verdict": "Owner's 2026-11-18 verdict: rejected; described as 'a lunatic asylum on fire'. Recalled in 2026-11-20 session as horrible and not worth more time. Do not reassign.",
+      "url": "https://ultravirus.bandcamp.com/album/fetid-in-wingdings"
+    },
+    {
+      "label": "FAN CLUB",
+      "release": "Ootrox, Creetah, Protea – Gettin' Numb (Knuckle Remix) (Woovy Oov)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: weird slowed 2-step/dubstep; not jungle. Do not reassign.",
+      "url": "https://fan-club.bandcamp.com/track/gettin-numb-knuckle-remix"
+    },
+    {
+      "label": "Isle of Jura",
+      "release": "Jura Soundsystem – Jungle Ambient Tool (Transmission One, 2023)",
+      "status": "excluded",
+      "verdict": "Owner clarified 2026-11-20 that this was rejected ON LISTENING: 'it's sounds of a jungle' — environmental jungle sounds, not jungle music. Earlier 'not auditioned' reconciliation was incorrect. Do not reassign.",
+      "url": "https://isleofjura.bandcamp.com/album/jura-soundsystem-presents-transmission-one"
+    },
+    {
+      "label": "Uncomfortable Beats",
+      "release": "Black Scott – Push (New Beginnings)",
+      "status": "excluded",
+      "verdict": "Owner listened 2026-11-18: pure juke/footwork, no Amen; not jungle. Do not reassign.",
+      "url": "https://uncomfortablebeats.bandcamp.com/album/new-beginnings"
+    },
+    {
+      "label": "ENDE Records Australia",
+      "release": "DJ Savage Henry – The Rats in the Walls (Scag Baron EP / ENDE62, 2015)",
+      "status": "contextual",
+      "verdict": "Owner (2026-11-20): 'you can record it with exactly that description'. Description preserved exactly: 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat'. No separate explicit pure-jungle qualification was given; do not recast it as such or reassign this listening.",
+      "url": "https://enderecords.bandcamp.com/album/ende62-dj-savage-henry-scag-baron-ep"
+    },
+    {
+      "label": "Dub Temple Records",
+      "release": "Static Structures – Rub A Duck (Duck Step EP, 2018)",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: 'nope'; rejected as jungle. Recovered through prior-conversation search after duplicate recommendation on 2026-11-20. Do not reassign.",
+      "url": "https://dubtemplerecords.bandcamp.com/album/duck-step"
+    },
+    {
+      "label": "Unwell (label unverified)",
+      "release": "Unwell – Embers",
+      "status": "contextual",
+      "verdict": "Owner 2026-11-18: 'somewhat borderline, jungle/dnb...maybe worth mentioning'. Contextual mention; not an explicit definite jungle qualification. Label and artist Australian-scene provenance not verified. Do not reassign this audition."
+    },
+    {
+      "label": "Noneohone (release label unverified)",
+      "release": "Noneohone – Knew It All Along",
+      "status": "excluded",
+      "verdict": "Owner 2026-11-18: 'wasn't jungle'. Track rejected; existing qualification for Noneohone – CARLISLE remains unaffected. Do not reassign this audition."
     }
   ],
   "artist_provenance": [
@@ -2854,6 +2950,18 @@
       "location": "Canberra, Australia",
       "status": "qualified",
       "notes": "VHHb's Wenrua (2020) accepted by owner as jungle/lounge crossover. Composer identification Isaac Dugdale from Qobuz credits; independently 2023 We Are Explorers profile says 'Back home in Canberra I work in place-management and DJ'; 2026 Craft + Design Canberra event bills Isaac Dugdale for music. Canberra scene and production context from label. Treat identification as supported by recording credits, not name coincidence."
+    },
+    {
+      "name": "Phflak",
+      "location": "Tasmania, Australia (reported; independent verification pending)",
+      "status": "provenance_required",
+      "notes": "Tochigi qualified as jungle by owner on 2026-11-20; confirm artist's Australian scene provenance independently. Owner reports entire Tamashī release is good jungle/DnB."
+    },
+    {
+      "name": "DJ Savage Henry",
+      "location": "Dingley Village, Melbourne, Australia (reported; independently confirm as necessary)",
+      "status": "contextual",
+      "notes": "Scag Baron EP tracks reportedly produced in Melbourne during 2008–2009; owner accepts exact description 'Amen-heavy, jungle-influenced neurofunk DnB and breakbeat' for The Rats in the Walls, without issuing an explicit qualifying jungle verdict."
     }
   ],
   "open_tasks": [
@@ -2870,6 +2978,8 @@
     "Cyberian Shirayuki: independently resolve Australian-scene provenance before any Australia artist allocation.",
     "Completed this pass: Deep Scan follow-up, Big Ting catalogue follow-up, Club Moss, A Colourful Storm, Animalia and Steeplejack screening. Do not repeat completed album listening; screening without audition is not an owner rejection.",
     "Historical reconciliation scope: sampled available Australia conversations dated 2026-09-30, 2026-10-02, 2026-10-26/27, 2026-11-08 and 2026-11-12/16. Recovered Modester – Jungle Progression rejection; earlier exact rationale not recoverable. This is not a certified exhaustive history audit. Missing old decisions must not be invented or re-auditioned.",
-    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening."
+    "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
+    "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit.",
+    "2026-11-18 historical listening reconciliation: Unwell – Embers (borderline jungle/DnB, contextual) and Noneohone – Knew It All Along (rejected) recovered from earlier conversation and recorded. Other November 18 verdicts checked against active ledger. This audit covers recovered conversation context, not a guaranteed exhaustive transcript."
   ]
 }
