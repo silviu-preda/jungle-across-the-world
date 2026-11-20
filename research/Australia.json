@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-16-au-97",
+  "revision": "2026-11-20-au-98-jilted-hoodz",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -2141,6 +2141,12 @@
       "status": "qualified",
       "verdict": "Owner listened on 2026-11-16 and confirmed 'it actually does' qualify as jungle. Establishes qualifying jungle material for Kinetic Vision, a Melbourne label. POD's independent Australian-scene provenance is unconfirmed; avoid assigning the artist to Australia on the strength of this label alone.",
       "url": "https://kineticvision.bandcamp.com/"
+    },
+    {
+      "label": "Little Rascal Records",
+      "release": "Jilted Hoodz – Atomic Spectre (original Future Jungle version, 2014)",
+      "status": "excluded",
+      "verdict": "Owner (2026-11-20): 'nope, not jungle'. Explicit non-jungle verdict despite the release's future-jungle designation. The dubstep version was not the assignment. Do not reassign."
     }
   ],
   "artist_provenance": [
