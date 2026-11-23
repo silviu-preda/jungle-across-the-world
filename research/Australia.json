@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "country": "Australia",
-  "revision": "2026-11-20-au-112-post45-consolidated",
+  "revision": "2026-11-23-au-113-midnight-spinnaz",
   "source_base_commit": "55967941f216bd50185203435a7d91b18ea0a9cc",
   "authoritative_path": "research/Australia.json",
   "project_copy": "Convenience attachment only. Compare revision and refresh from GitHub; no automatic synchronization.",
@@ -788,6 +788,12 @@
       "status": "qualified",
       "detail": "Hugh B Optiflexing (RC-11, 2020) entire release accepted as interesting, borderline jungle under the project's porous boundary; Hugh B already qualified as Sydney-based.",
       "url": "https://hughb.bandcamp.com/album/rc-11-optiflexing-2"
+    },
+    {
+      "name": "Midnight Spinnaz",
+      "city": "Sydney / Eora",
+      "status": "qualified",
+      "detail": "Sydney jungle/hardcore rave collective, documented since 2024. Owner accepted Early Cuts (001) (2026) as a full hardcore–jungle crossover release; Distortion explicitly qualifies as jungle. Owner identified FLOGA as producer of Distortion. Individual members' other production credits remain unverified. A label/imprint launch was announced but a subsequent established standalone label operation is unverified."
     }
   ],
   "listening": [
@@ -2496,6 +2502,12 @@
       "status": "qualified",
       "verdict": "Owner 2026-11-20: 'it's v interesting! borderline jungle, but worth it; the whole release'. Accept ENTIRE release under porous boundary, explicitly borderline rather than straight jungle. This qualifies Melbourne label; Hugh B already separately qualified as Sydney-based.",
       "url": "https://hughb.bandcamp.com/album/rc-11-optiflexing-2"
+    },
+    {
+      "label": "Midnight Spinnaz (collective; independent imprint unverified)",
+      "release": "Midnight Spinnaz – Early Cuts (001) (2026; whole release, especially Distortion)",
+      "status": "qualified",
+      "verdict": "Owner 2026-11-23: 'Distortion is jungle; i mean, the whole release is a hardcore-jungle sound'. Owner subsequently specified 'Floga' when asked who produced Distortion. Qualifies entire release as hardcore–jungle; Distortion explicitly jungle. Do not attribute other tracks individually without credits."
     }
   ],
   "artist_provenance": [
@@ -3146,6 +3158,12 @@
       "location": "Brisbane scene activity reported; independent corroboration pending",
       "status": "provenance_required",
       "notes": "Co-producer of Murda accepted on Run Track Records; local event participation reported but verify before final country allocation."
+    },
+    {
+      "name": "FLOGA",
+      "location": "Sydney jungle collective activity documented; residence not independently established",
+      "status": "qualified",
+      "notes": "Founding member of Midnight Spinnaz (Luka, per collective profile). Owner 2026-11-23 identified FLOGA as producer of Distortion on Early Cuts (001), and explicitly qualified Distortion as jungle. Individual artist qualifying Australian scene activity rests on Sydney collective activity plus owner-provided track credit; independent published production credit still desirable."
     }
   ],
   "open_tasks": [
@@ -3165,6 +3183,7 @@
     "POD & tommyj: POD's Melbourne provenance resolved independently (Luc P); tommyj's own Australian-scene provenance remains open. Artificial Life already qualified; no repeat listening.",
     "2026-11-20 reconciliation: recovered six omitted 2026-11-18 decisions from conversations (Near Edge, ATHROTAXIS, crack_lips, FAN CLUB, Isle of Jura and Uncomfortable Beats); Isle of Jura was screened without audition and must not be represented as an ear-tested verdict. Whole Phflak Tamashī release accepted by owner. Limited to these confirmed conversations; not an exhaustive history audit.",
     "2026-11-18 historical listening reconciliation: Unwell – Embers (borderline jungle/DnB, contextual) and Noneohone – Knew It All Along (rejected) recovered from earlier conversation and recorded. Other November 18 verdicts checked against active ledger. This audit covers recovered conversation context, not a guaranteed exhaustive transcript.",
-    "Post-PR45 batch: Run Track qualified via Murda (International rejected), Repeat Concrete qualified narrowly via entirety of Hugh B Optiflexing; do not re-audition either release. Verify both Run Track artists' independent geography. Other auditions and deferrals recorded in the listening ledger."
+    "Post-PR45 batch: Run Track qualified via Murda (International rejected), Repeat Concrete qualified narrowly via entirety of Hugh B Optiflexing; do not re-audition either release. Verify both Run Track artists' independent geography. Other auditions and deferrals recorded in the listening ledger.",
+    "Midnight Spinnaz: find publicly accessible release credits for FLOGA – Distortion and for other tracks on Early Cuts (001). FLOGA attribution was supplied directly by owner on 2026-11-23. Announced imprint launch not yet independently verified. Do not re-audition completed release."
   ]
 }
