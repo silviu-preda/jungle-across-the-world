@@ -40,6 +40,16 @@ Iridium 77 qualifies through **Overcast – *Wolfe*** on *IR77-1000* (2025). *Co
 
 ### Sydney
 
+#### Midnight Spinnaz — Sydney / Eora
+
+**Documented activity:** 2024–2026  
+**Role:** Qualifying jungle/hardcore rave collective; standalone label operation not yet verified
+
+Midnight Spinnaz is a Sydney jungle/hardcore collective involved in local rave programming. The owner listened to the group's debut *Early Cuts (001)* (2026) and accepted **the entire release** as a hardcore–jungle crossover, explicitly identifying **Distortion** as jungle. This is release-level qualification rather than a claim that every track is straightforward jungle.
+
+**Qualifying artist:** **FLOGA** (Luka), a founder and locally active member, was directly identified by the owner as the producer of *Distortion*. His qualifying activity is documented within the Sydney collective; independent published production credits are still sought. Event coverage also names JEWELZ (Julian), S SMURF (Eligh), and earlier members Jittrippin and Stevo, but these identities and lineups should not be conflated or assumed to share production credits for the EP. A 2026 announcement mentioned a prospective label launch; actual label establishment remains to be verified.
+
+
 #### Jungle Massive Australia
 
 **Relevant activity:** Mid-1990s onward  
